@@ -1,0 +1,2679 @@
+category_key,supplier_category,our_category_id,n_labels,n_destinations,annual_revenue_eur,review_reason,needs_review
+icecream,ice cream,6425,0,0,1571322.05,no labelled examples,True
+citr.frt,Citr.frt,1475,0,0,1518945.74,no labelled examples,True
+pcklscndmn,pcklscndmn,9023,3,2,1109064.5,contradictory labels,True
+tinnefrt,TINNEFRT,3682,0,0,1014987.89,no labelled examples,True
+me>pork,ME > PORK,5856,0,0,996232.6,no labelled examples,True
+dog-fd,dog-fd,8762,0,0,953446.91,no labelled examples,True
+soft-squashgrp3,Soft-Squash Grp 3,3754,0,0,927185.12,no labelled examples,True
+pr_ts,pr_ts,5181,0,0,914140.21,no labelled examples,True
+ice_icecrm,Ice_Ice crm,6425,8,2,883969.18,contradictory labels,True
+dips_kids,Dips_Kids,1238,0,0,878934.44,no labelled examples,True
+presldscore,PRESLDS Core,5088,9,2,814833.74,contradictory labels,True
+hot/tea,HOT/TEA,4274,0,0,812400.25,no labelled examples,True
+scns.tcks,Scns.tcks,1150,13,3,806485.62,contradictory labels,True
+wat/sparkwater,Wat/Sparkwater,9396,0,0,804031.75,no labelled examples,True
+crisps/crisps,Crisps/Crisps,4268,0,0,791447.24,no labelled examples,True
+pts_pet.cr,PTS_PET.CR,7333,0,0,753041.84,no labelled examples,True
+tinned-to,Tinned-to  ,2416,0,0,745573.7,no labelled examples,True
+bkng.in,Bkng.in,3791,0,0,707484.75,no labelled examples,True
+nap-wipesandpetcare,NAP-WIPES AND PET CARE,8762,0,0,683600.9,no labelled examples,True
+herbs:drd.hrbs.spices,Herbs: Drd.hrbs.spices,6054,0,0,671821.26,no labelled examples,True
+yogurtfryogurtandntrlyogurt,YOGURT FRYOGURT AND NTRL YOGURT,7219,0,0,661929.95,no labelled examples,True
+spark.water,spark.water,9396,0,0,656148.88,no labelled examples,True
+cf+hotchclt,Cf + Hot chclt,9269,0,0,644614.18,no labelled examples,True
+chs>hrdchs,CHS > HRD CHS,2931,0,0,608050.68,no labelled examples,True
+yogurt-yogurtdrinks,YOGURT-YOGURTDRINKS,2537,0,0,601959.9099999999,no labelled examples,True
+sconestcks+cropas,SCONESTCKS + CRO PAS,1150,0,0,596289.68,no labelled examples,True
+yogurt-yogurtdrink,YOGURT-YOGURT DRINK,2537,0,0,578664.51,no labelled examples,True
+scnstcks,SCNSTCKS,1150,5,2,576494.3,contradictory labels,True
+lndrylicaps,Lndry Li Caps,2793,2,2,569111.2,contradictory labels,True
+juic_smthsandotherjuices,juic_smths and other juices,6975,0,0,568405.38,no labelled examples,True
+plsgrain,PLS GRAIN,9228,0,0,562686.16,no labelled examples,True
+meat:bcn,Meat: Bcn,5856,0,0,556687.4,no labelled examples,True
+soft-squash,Soft-Squash,4366,0,0,551430.67,no labelled examples,True
+home.bkng.mixes,home.bkng.mixes,3762,3,2,546808.95,contradictory labels,True
+pulsgra,Puls gra,9228,4,2,546401.96,contradictory labels,True
+dips-deli,Dips - Deli,2154,0,0,534116.54,no labelled examples,True
+hot.choco,hot.choco,7773,0,0,530518.21,no labelled examples,True
+sal:sml,sal: Sml,4782,8,2,527946.29,contradictory labels,True
+foiandwhtwi,Foi and Wht wi,3754,6,2,525708.35,contradictory labels,True
+skincrandsalad,SKIN CR AND SALAD,9134,12,3,524590.24,contradictory labels,True
+petcaandcatfood,Pet ca and Cat food,6111,2,2,524460.02,contradictory labels,True
+bkd.beansandtndfish,BKD.BEANS AND TND FISH,7139,0,0,524114.87,no labelled examples,True
+rice>foodservice,Rice > Foodservice,7444,9,2,522511.12,contradictory labels,True
+oilsoil,Oils Oil,7014,0,0,516609.54,no labelled examples,True
+hotch,HOT CH,7773,0,0,511347.61,no labelled examples,True
+cdr&col,Cdr   & Col,7789,0,0,505392.66000000003,no labelled examples,True
+prk,Prk,4045,3,2,505182.79,contradictory labels,True
+plant-based.drnks,PLANT-BASED.DRNKS,5179,4,2,505102.88,contradictory labels,True
+tascs,Ta Scs,7070,0,0,501714.11,no labelled examples,True
+gondolaendwk16,Gondola end WK16,9269,0,0,500733.89,no labelled examples,True
+wtr_still.wtr,wtr_still.wtr,7286,0,0,492528.49,no labelled examples,True
+tin-tinned-fish,tin - tinned-fish,8191,0,0,489185.66000000003,no labelled examples,True
+ready>ch.ready.me&prprdslds,Ready > Ch.ready.me & Prprd Slds,1531,0,0,488633.94,no labelled examples,True
+chilledde+ygrtdrnks,chilledde + ygrt drnks,1034,0,0,488074.97,no labelled examples,True
+br-whol.bread&scnsteacakes,br - whol.bread & scns teacakes,5363,0,0,484931.49,no labelled examples,True
+cr&chewinggum,cr & chewing gum,4268,4,2,481766.49,contradictory labels,True
+shwrbath,SHWR BATH,5824,0,0,480468.24,no labelled examples,True
+bee/ale.st,bee/ale.st,6845,0,0,479479.75,no labelled examples,True
+petcare,Pet Care,7333,0,0,473503.13,no labelled examples,True
+soft/squash,Soft/Squash,9396,0,0,472041.54,no labelled examples,True
+hm.bakin.mixes,Hm.bakin.mixes,3762,0,0,466757.44,no labelled examples,True
+mus,mus,8421,0,0,462668.89,no labelled examples,True
+wrap.fla,WRAP.FLA,2674,10,2,457769.96,contradictory labels,True
+garl.brd&rolbaps,GARL.BRD & ROL BAPS,4748,0,0,457254.79,no labelled examples,True
+bacon&ckdme,Bacon & Ckd Me,5856,0,0,455939.63,no labelled examples,True
+promowkq3,PROMO WK Q3,4024,0,0,454627.41000000003,no labelled examples,True
+brs,Brs,1475,0,0,452587.57,no labelled examples,True
+puls-grains/noodles,puls-grains/noodles,9228,0,0,446864.53,no labelled examples,True
+worldnoodl,WORLD NOODL,4718,0,0,444752.38,no labelled examples,True
+ygrtdrinks,Ygrt drinks,2537,4,2,444571.86,contradictory labels,True
+deodorant+rlsba,DEODORANT + RLS BA,4748,0,0,443620.91,no labelled examples,True
+ga-breadandwrapflatbreads,ga-bread and wrap flatbreads,6200,4,2,440846.56,contradictory labels,True
+wrldfds,wrld fds,1201,0,0,440236.24,no labelled examples,True
+gondolaendspring,Gondola end Spring,2537,4,3,437555.31,contradictory labels,True
+sftsqua-core,sft squa-Core,4366,0,0,436747.49,no labelled examples,True
+dish>washi-liq/tndfish,Dish > Washi-liq/Tnd fish,6643,7,2,435759.34,contradictory labels,True
+dried.herbs.spic,DRIED.HERBS.SPIC,6054,0,0,430972.6,no labelled examples,True
+ygrtdrin,YGRT DRIN,7219,0,0,427181.72,no labelled examples,True
+dips/mtfr,Dips/Mtfr,2154,0,0,424339.07,no labelled examples,True
+cakeslcsbars,Cake Slcs Bars,1365,0,0,421063.69,no labelled examples,True
+sug&bakinging,sug & baking ing,7788,0,0,416279.8,no labelled examples,True
+tea,tea,4274,0,0,412882.14,no labelled examples,True
+dntl-dntlcare/hrdchs,dntl-dntlcare/hrd chs,8449,0,0,411273.64,no labelled examples,True
+misc-other-chilled,MISC - OTHER - chilled,5970,4,4,408995.95,contradictory labels,True
+chewing.gum,Chewing.gum,5411,0,0,407425.1,no labelled examples,True
+skin.care,Skin.care,9134,0,0,405934.36,no labelled examples,True
+pet-cat.fd/dogfd,PET - CAT.FD/DOG FD,1387,5,2,405734.43,contradictory labels,True
+crl-ba/drfruit,CRL-BA/DR FRUIT,9978,0,0,405257.68,no labelled examples,True
+spir/sprts,SPIR/SPRTS,9849,0,0,402579.68,no labelled examples,True
+lawk,LA Wk,2980,7,2,402531.16,contradictory labels,True
+chilled-dsrts,Chilled-dsrts,2363,3,2,401873.56,contradictory labels,True
+promo,PROMO,7443,6,4,399959.03,contradictory labels,True
+sou-sml,Sou-Sml,2768,0,0,397591.89,no labelled examples,True
+tomatoes+chipptpro,Tomatoes + Chip Pt Pro,6663,0,0,395234.86,no labelled examples,True
+porridge+cereals,PORRIDGE + CEREALS,8689,0,0,394091.83999999997,no labelled examples,True
+tinnedfrt/tinfish,TINNEDFRT/TIN FISH,3682,5,3,390382.59,contradictory labels,True
+tbl.sauces,Tbl.sauces,7070,7,2,389844.4,contradictory labels,True
+dips_dips/chrdymeals,dips_dips/ch rdy meals,2154,0,0,387398.32,no labelled examples,True
+sofsq,SOF SQ,7286,0,0,387263.87,no labelled examples,True
+fr-chipspotatpro+chgum,FR-CHIPSPOTATPRO + CH GUM,4761,4,2,386599.76,contradictory labels,True
+milk/fr-milk,MILK/FR-MILK,3201,0,0,382142.16000000003,no labelled examples,True
+popcornpr,popcornpr,4803,0,0,379945.48,no labelled examples,True
+frozevege,froze vege,1458,10,2,376423.83,contradictory labels,True
+muffinscrumpets,MUFFINS CRUMPETS,9870,9,2,376170.58,contradictory labels,True
+teaandsmoot,TEA AND SMOOT,4274,0,0,372650.12,no labelled examples,True
+snack-crlbars+driefrt,SNACK-CRLBARS + DRIE FRT,9978,0,0,371844.25,no labelled examples,True
+npswps/babyfoo,NPS WPS/BABY FOO,2870,0,0,363906.65,no labelled examples,True
+crea:fre-cr,Crea: Fre-cr,2931,0,0,363584.22000000003,no labelled examples,True
+cottagecheese,Cottage Cheese,5179,2,2,360006.34,contradictory labels,True
+savbiscu,SAV BISCU,6633,6,2,359184.73,contradictory labels,True
+teaprem,Tea Prem,4274,7,2,359070.61,contradictory labels,True
+cks/cakeslbrs,Cks/Cakeslbrs,1365,7,3,358986.7,contradictory labels,True
+fruit-aplspears,Fruit - Aplspears,7245,0,0,358956.27,no labelled examples,True
+pe>pet-care,PE > PET-CARE,6111,0,0,358215.57999999996,no labelled examples,True
+orangejc,orange jc,1919,0,0,354476.88,no labelled examples,True
+croipas,Croipas,1416,2,2,353378.2,contradictory labels,True
+stonfr&be,ston fr & be,7245,0,0,351520.33,no labelled examples,True
+fr:aplspears,FR: APLS PEARS,7245,0,0,351348.87,no labelled examples,True
+froze-dessertsandalest,Froze-desserts And Ale St,2500,0,0,350521.02999999997,no labelled examples,True
+mtfr:mtfr,MTFR: MTFR,1238,0,0,347830.57,no labelled examples,True
+bathshwrbath,BATH SHWR BATH,5824,0,0,347691.56,no labelled examples,True
+frzn-veg/chpsptprodu,Frzn-veg/Chps pt produ,1458,7,3,345637.4,contradictory labels,True
+pet_catfo,PET_CAT FO,1387,4,2,344493.71,contradictory labels,True
+sundries4,Sundries 4,5970,0,0,344328.47,no labelled examples,True
+citrus.frui,Citrus.frui,4548,0,0,342654.19,no labelled examples,True
+cri-nutsandchba>export,CRI - NUTS AND CH BA > Export,6788,2,2,341813.08999999997,contradictory labels,True
+crsntpa,CRSNT PA,1416,6,2,341037.04,contradictory labels,True
+beecdr,Bee Cdr,7789,0,0,339947.53,no labelled examples,True
+misc-other,MISC - OTHER,8174,3,2,339688.99,contradictory labels,True
+meat:bacon,MEAT: BACON,9205,11,2,339659.9,contradictory labels,True
+bkng:bkng-ingrd,bkng: bkng-ingrd,3791,0,0,339226.35,no labelled examples,True
+bkng/sugar+suga,BKNG/SUGAR + SUGA,7788,0,0,336832.33999999997,no labelled examples,True
+sld+babyfd,SLD + BABY FD,2870,0,0,336070.39,no labelled examples,True
+eg_eggs-imported,Eg_Eggs - Imported,8090,0,0,334470.9,no labelled examples,True
+cakeswhlcakes+cakeslibars,CAKES WHLCAKES + CAKE SLI BARS,1501,0,0,330091.7,no labelled examples,True
+cer&prdg,CER & PRDG,8689,4,2,329279.42,contradictory labels,True
+laun:washi-pwdr,laun: washi-pwdr,5401,0,0,329048.16000000003,no labelled examples,True
+mt-beef/coomeat,Mt-Beef/Coo Meat,4045,0,0,328953.81,no labelled examples,True
+tea&coffe,tea & coffe,4274,0,0,328050.79,no labelled examples,True
+tea/sub,Tea/Sub,4274,4,2,327035.99,contradictory labels,True
+catfood,cat food,6111,0,0,325330.58,no labelled examples,True
+green+onionsgrlc,green + onions grlc,1352,0,0,323270.43,no labelled examples,True
+srfcclnrs+bthrmtoilet,Srfc clnrs + Bthrm toilet,2138,0,0,323133.16,no labelled examples,True
+sho.bath,Sho.bath,5824,0,0,320009.98,no labelled examples,True
+bathroom.toilet,Bathroom.toilet,2138,0,0,318398.38,no labelled examples,True
+tnstinnedtomatoes,TNS TINNED TOMATOES,2416,0,0,318058.44,no labelled examples,True
+tomatoesandpotat,Tomatoes And Potat,6663,0,0,317825.85000000003,no labelled examples,True
+wat_stlwater,Wat_Stl water,7286,0,0,317272.55,no labelled examples,True
+tndfrt,Tnd Frt,3682,0,0,317177.81,no labelled examples,True
+applesprs,APPLES PRS,1475,5,3,315372.5,contradictory labels,True
+clng:srfc.clean,CLNG: SRFC.CLEAN,2138,0,0,313432.20999999996,no labelled examples,True
+pulses.grains+enrgyspodrinks,PULSES.GRAINS + ENRGY SPO DRINKS,7981,0,0,312405.35,no labelled examples,True
+misc,MISC,1387,3,2,311261.21,contradictory labels,True
+homebakinmixes,HOMEBAKINMIXES,3762,4,2,308737.83,contradictory labels,True
+banappieswps,Ba Nappies wps,8762,0,0,308036.73,no labelled examples,True
+promowk3,PROMO WK3,2138,0,0,307446.96,no labelled examples,True
+rssprklwine,Rs Sprkl Wine,9822,0,0,305037.47,no labelled examples,True
+meat:lmb,meat: lmb,9318,0,0,304992.68,no labelled examples,True
+ti.frt+tinnedfi,TI.FRT + TINNED FI,3682,0,0,304763.8,no labelled examples,True
+dishwashing/dishprdct,Dishwashing/Dish Prdct,5756,0,0,304007.27,no labelled examples,True
+sauces-pastascs,Sauces-Pastascs,9535,5,2,303589.23,contradictory labels,True
+ce&porri,ce & porri,1484,0,0,303526.92,no labelled examples,True
+aplsprs,APLS PRS,7245,0,0,297746.8,no labelled examples,True
+frordymls/pizza,Fro rdy mls/Pizza,3961,0,0,297645.88,no labelled examples,True
+veget-tomatoes/pepperschi,Veget-Tomatoes/Peppers Chi,6663,0,0,296382.56,no labelled examples,True
+ti-fruit,TI-FRUIT,3682,0,0,295306.63999999996,no labelled examples,True
+whobread,Who bread,4748,2,2,294029.23,contradictory labels,True
+ygrt-yogurtdrnks,ygrt - yogurt drnks,4748,4,3,293789.14,contradictory labels,True
+promoxmasq3,Promo Xmas Q3,6633,5,4,293692.99,contradictory labels,True
+chegum,CHE GUM,8522,0,0,292259.11,no labelled examples,True
+alest,Ale st,6845,0,0,290348.05,no labelled examples,True
+shwrbat,Shwr Bat,5824,0,0,289867.01,no labelled examples,True
+showe.bath,showe.bath,5824,8,2,287249.69,contradictory labels,True
+frzn-frozdes,FRZN - FROZ DES,2500,0,0,287216.32,no labelled examples,True
+spwtrandstillwat,sp wtr and still wat,9396,0,0,287182.65,no labelled examples,True
+bathtoile&savouryps,BATH TOILE & SAVOURY PS,3743,4,2,285776.58,contradictory labels,True
+nuts+driefruit,nuts + drie fruit,9983,0,0,285185.55,no labelled examples,True
+chwnggum,CHWNG GUM,5411,0,0,285054.09,no labelled examples,True
+vegetablestmts,Vegetables Tmts,6663,0,0,284420.06,no labelled examples,True
+brd-whtbread&wrfl,BRD - WHT BREAD & WR FL,8297,0,0,284394.84,no labelled examples,True
+vgtbl:tmts,VGTBL: TMTS,6663,0,0,283803.72,no labelled examples,True
+scteacakes,SC   TEACAKES,1150,0,0,283414.09,no labelled examples,True
+fis_prwnsseafo&smkdfish,fis_prwns seafo & smkd fish,5655,3,2,283125.92,contradictory labels,True
+confectionery>chewgum,confectionery > chewgum,5411,0,0,280674.19,no labelled examples,True
+lmb+prk,Lmb + Prk,2980,0,0,279453.75,no labelled examples,True
+shwr-bath,Shwr-bath,5824,0,0,279197.15,no labelled examples,True
+frmilk/fruityogur,Fr Milk/Fruit Yogur,3201,4,2,277089.79,contradictory labels,True
+tinnedtom,Tinned tom,2416,6,2,276104.52999999997,contradictory labels,True
+ntrlyog,NTRL YOG,7219,0,0,275181.14,no labelled examples,True
+frozenfish+prawnsseafood,FROZEN FISH + PRAWNS SEAFOOD,9181,5,2,274154.74,contradictory labels,True
+food>foil,FOOD > FOIL,9123,0,0,273528.13,no labelled examples,True
+dshwsprodu+wshngliquid,Dshws Produ + Wshng Liquid,5756,0,0,272562.26,no labelled examples,True
+bkdbea,BKDBEA,7139,0,0,272408.01,no labelled examples,True
+na.ygrt+fruyogu,Na.ygrt + Fru Yogu,7219,0,0,271254.21,no labelled examples,True
+baby_bafoo+nappieswps,Baby_Ba foo + Nappies wps,2870,0,0,270466.97000000003,no labelled examples,True
+yogurtdrink,Yogurt Drink,2537,0,0,269044.52999999997,no labelled examples,True
+chilldsrts/nood,chill dsrts/nood,4718,0,0,267725.11,no labelled examples,True
+wrld_wrld.fdsandicelol,wrld_wrld.fds and ice   lol,1201,0,0,266824.13,no labelled examples,True
+frshsoupandwrpsfltbr,FRSH SOUP AND WRPS FLTBR,2674,2,2,266033.18,contradictory labels,True
+spwtr,Spwtr,1025,4,2,265716.89,contradictory labels,True
+nps.wipe,NPS.WIPE,8762,0,0,265716.24,no labelled examples,True
+soft-sqsh,soft - sqsh,4366,0,0,265143.39,no labelled examples,True
+wofds+sugar,wo fds + sugar,1201,0,0,264001.17,no labelled examples,True
+tomat,TOMAT,6663,0,0,263912.12,no labelled examples,True
+pr-tlt.rl,Pr - Tlt.rl,3615,0,0,262420.32,no labelled examples,True
+nuts/sweet,nuts/sweet,9983,0,0,260470.94999999998,no labelled examples,True
+fruit_citfrt&berr,FRUIT_CITFRT & BERR,1475,0,0,260347.00999999998,no labelled examples,True
+bread-wraps-fla,BREAD-WRAPS-FLA,2674,4,2,258946.13,contradictory labels,True
+cerea,Cerea,8689,0,0,258537.22999999998,no labelled examples,True
+sof-enesportsdrin,Sof - Enesportsdrin,7981,0,0,257836.55,no labelled examples,True
+tinneveg,TINNE VEG,9330,0,0,257507.38,no labelled examples,True
+cdr/bakebeans,Cdr/Bake Beans,7789,0,0,256307.15,no labelled examples,True
+cnfct-swe+chewinggum,cnfct-swe + chewing gum,5411,3,2,256216.99000000002,contradictory labels,True
+toilroll,TOIL ROLL,3615,4,2,255919.68,contradictory labels,True
+bthrmtoiletandsucleaners,Bthrm toilet and Su cleaners,3743,0,0,255308.94999999998,no labelled examples,True
+dr.frt,Dr.frt,1093,0,0,254806.52,no labelled examples,True
+la/chicken,la/chicken,2980,0,0,254338.08000000002,no labelled examples,True
+driedherspcs,dried her spcs,6054,4,2,254210.26,contradictory labels,True
+saus+bf,Saus + Bf,4045,0,0,251707.96,no labelled examples,True
+ro-baps,Ro-baps,4748,0,0,251470.66,no labelled examples,True
+misc-other2,MISC - OTHER 2,4748,4,2,251389.37,contradictory labels,True
+baingredients,Baingredients,3791,0,0,251059.91,no labelled examples,True
+freshmi,Fresh Mi,3201,0,0,249231.13999999998,no labelled examples,True
+cra+chcltbars,Cra + Chclt bars  ,7626,0,0,249107.63,no labelled examples,True
+deodorant/freshpa,DEODORANT/FRESH PA,6275,3,2,248667.05,contradictory labels,True
+cakesliceba&whlcakes,CAKESLICEBA & WHL CAKES,1501,0,0,248478.69,no labelled examples,True
+sqshandenerspordri,Sqsh and Ener spor dri,4366,0,0,248342.21,no labelled examples,True
+promosummerwk51,Promo Summer Wk 51,2870,0,0,247951.26,no labelled examples,True
+nappieswipesplus,Nappies wipes Plus,8762,0,0,247503.7,no labelled examples,True
+frshpasta,Frsh pasta,8421,0,0,247391.6,no labelled examples,True
+fl,FL,3754,0,0,247293.40999999997,no labelled examples,True
+misclines,Misc lines,2138,2,2,247277.21,contradictory labels,True
+croipastr,croipastr,1416,0,0,247027.48,no labelled examples,True
+meat>sausa,Meat > Sausa,6450,2,2,244367.23,contradictory labels,True
+cr-ownlabel,cr-Own Label,4268,0,0,243571.56,no labelled examples,True
+tinnedtmts,TINNED TMTS,2416,0,0,242634.39,no labelled examples,True
+deodorant,deodorant,6275,0,0,242376.72,no labelled examples,True
+chipptprdct,Chip Pt Prdct,4761,0,0,242329.33000000002,no labelled examples,True
+wofoods&dishwprod,WOFOODS & DISHW PROD,1201,0,0,242231.89,no labelled examples,True
+torcornsncks,Tor corn sncks,9841,10,2,242146.01,contradictory labels,True
+de,DE,7981,0,0,241479.86000000002,no labelled examples,True
+chde,CHDE,1034,0,0,241423.02000000002,no labelled examples,True
+prep-salad+dps,Prep-salad + Dps,5088,0,0,241133.97,no labelled examples,True
+misc-frozen,Misc - frozen,8449,0,0,240159.99000000002,no labelled examples,True
+driedfruit&cerealbrs,Dried fruit & Cereal brs,9978,0,0,240048.34,no labelled examples,True
+icecream_imp,ICE CREAM_Imp,6425,0,0,239871.4,no labelled examples,True
+whtbread,wht bread,8297,0,0,239652.92,no labelled examples,True
+dried-her-spcs,dried-her-spcs,6054,0,0,239509.03,no labelled examples,True
+bu,Bu,8993,0,0,239161.74,no labelled examples,True
+peppers.ch/porr,PEPPERS.CH/PORR,5747,4,2,238002.84,contradictory labels,True
+cake_cakeslicbars,Cake_Cake Slic Bars,1365,5,2,236966.65,contradictory labels,True
+pot,Pot,9123,3,2,236564.28,contradictory labels,True
+rosesparklingwin,ROSE SPARKLING WIN,9822,0,0,236190.07,no labelled examples,True
+beefandsausages,BEEF AND SAUSAGES,4045,0,0,235989.92,no labelled examples,True
+frzn.desserts,FRZN.DESSERTS,2500,3,2,235942.12,contradictory labels,True
+bak/fl/bulk,BAK/FL/BULK,4977,4,2,235749.79,contradictory labels,True
+sweets&ri,SWEETS & RI,7444,0,0,235741.59,no labelled examples,True
+bkngsgr,BKNG SGR,7788,0,0,235679.42,no labelled examples,True
+chilledreadymeals,CHILLED READY MEALS,1531,0,0,234822.22,no labelled examples,True
+tinn.vegetables,tinn.vegetables,9330,0,0,234011.76,no labelled examples,True
+dips&sugarstdrange,dips & sugar Std Range,2154,7,2,233779.46,contradictory labels,True
+ps-svryps&wrldfoods,Ps-Svry Ps & Wrld Foods,1201,4,2,233589.05,contradictory labels,True
+who-ca,WHO-CA,1501,0,0,232507.40999999997,no labelled examples,True
+pets-cat.fd,Pets - Cat.fd,6111,4,2,231770.78,contradictory labels,True
+who.cakes/caslcsbars,WHO.CAKES/CA SLCS BARS,1501,0,0,230938.44999999998,no labelled examples,True
+pulses>pls-grns,pulses > pls-grns,2537,0,0,230276.7,no labelled examples,True
+sa>value,Sa > Value,4782,0,0,230152.69,no labelled examples,True
+promolines,Promo lines,6643,0,0,230029.56,no labelled examples,True
+cks>cake-slices-bars+rollsbaps,CKS > CAKE-SLICES-BARS + ROLLS BAPS,1365,0,0,229599.94,no labelled examples,True
+saandwashing-upliqui,Sa And Washing-up Liqui,6450,2,2,229059.38,contradictory labels,True
+frozen-rdy-meals,Frozen-rdy-meals,3961,0,0,226371.72,no labelled examples,True
+whcake,Wh cake,1365,2,2,226050.83,contradictory labels,True
+whlcakes,WHLCAKES,1501,0,0,224790.54,no labelled examples,True
+ber,BER,1475,5,2,224211.17,contradictory labels,True
+sundries,Sundries,9023,5,3,223744.24,contradictory labels,True
+preparedsalads,preparedsalads,5088,0,0,223700.49,no labelled examples,True
+tns_babns&tinnedveg,TNS_BABNS & TINNED VEG,9330,3,2,223623.0,contradictory labels,True
+ps/svryps+salad,PS/SVRY PS + SALAD,2363,0,0,223219.40000000002,no labelled examples,True
+chewi-gum,Chewi-gum,5411,0,0,222344.9,no labelled examples,True
+garl-brd/mfnscrmpt,GARL-BRD/MFNS CRMPT,6200,0,0,222069.94,no labelled examples,True
+ciderandlager,Cider and Lager,7789,3,2,220921.88999999998,contradictory labels,True
+co/chwng-gum,Co/chwng-gum,5411,0,0,220617.97,no labelled examples,True
+red.win,RED.WIN,1025,0,0,220154.86000000002,no labelled examples,True
+waspowder,was powder,5401,5,2,219607.1,contradictory labels,True
+brea/ce/porridge,BREA/CE/PORRIDGE,8689,0,0,219444.06,no labelled examples,True
+snackdriefru,snack driefru,1093,8,2,219416.95,contradictory labels,True
+frozen/frzn-ready-mls,FROZEN/FRZN-READY-MLS,3961,0,0,218960.58,no labelled examples,True
+sauce_tblsauc+hardchees,sauce_tbl sauc + hard chees,7070,0,0,218799.62,no labelled examples,True
+dps/prsal,DPS/PR SAL,2154,2,2,218098.27,contradictory labels,True
+fo/coomeats,Fo/Coo Meats,3754,0,0,216381.27,no labelled examples,True
+ro-ba,ro-ba,4748,0,0,215641.72,no labelled examples,True
+frshmilk,Frsh Milk  ,3201,7,2,214992.4,contradictory labels,True
+icecrea,Ice crea,6425,4,2,214174.47999999998,contradictory labels,True
+noo,Noo,4718,0,0,214149.93,no labelled examples,True
+cakeslicesbars,CAKE SLICES BARS,1365,2,2,214134.38,contradictory labels,True
+smkdfish,SMKD FISH,9181,0,0,213722.34,no labelled examples,True
+ndls,NDLS,4718,5,2,212984.5,contradictory labels,True
+fabricconditionerandwashipwdr,fabricconditioner and washi pwdr,4024,0,0,212746.7,no labelled examples,True
+oils:oil-plus,OILS: OIL-Plus,7014,0,0,212344.57,no labelled examples,True
+ti-tinned.fr,Ti - Tinned.fr,3682,0,0,211959.38,no labelled examples,True
+tinnevegetables,tinnevegetables,9330,0,0,211950.57,no labelled examples,True
+mor:mfns-crumpets,MOR: MFNS-CRUMPETS,9870,4,2,210531.02,contradictory labels,True
+gree/sndwc,Gree/Sndwc,1352,0,0,210296.11,no labelled examples,True
+promolineswk42,Promo lines WK42,1531,3,3,209931.54,contradictory labels,True
+bcn,BCN,9205,5,2,209547.07,contradictory labels,True
+flr-lgepk,FLR - LGE PK,4977,0,0,208906.87,no labelled examples,True
+dshws:dshws-pr,DSHWS: DSHWS-PR,5756,2,2,208814.88,contradictory labels,True
+breakfast_po,breakfast_po,8689,0,0,208705.13,no labelled examples,True
+featurespacespring,Feature space Spring,1025,4,4,208399.78,contradictory labels,True
+rssprklwi,rs sprkl wi,6670,0,0,207284.54,no labelled examples,True
+mt-bacon,MT - BACON,2980,6,2,207265.86,contradictory labels,True
+tinnedfrt,tinned frt  ,3682,0,0,206358.63,no labelled examples,True
+fruitstonefru,fruit stone fru,7245,0,0,206258.56,no labelled examples,True
+dip:prprdslds,dip: prprdslds,5088,6,2,206055.79,contradictory labels,True
+cleaningsu.cl,Cleaning Su.cl,2138,3,2,204147.06,contradictory labels,True
+past,PAST,1565,0,0,203014.96999999997,no labelled examples,True
+wn>redwine,WN > REDWINE,1025,3,3,202737.76,contradictory labels,True
+eggs+enrgysportsdrnks,eggs + enrgy sports drnks,7981,4,2,202616.26,contradictory labels,True
+cotcheese+blchees,COTCHEESE + BL CHEES,8737,5,2,202557.62,contradictory labels,True
+byfoo,By Foo,2870,0,0,202144.49,no labelled examples,True
+frozenchipsptpr,frozen chips pt pr,1458,0,0,201561.34,no labelled examples,True
+promotionseaster,Promotions Easter,2638,3,2,199338.57,contradictory labels,True
+foo:sandw,foo: sandw,1273,0,0,198122.11000000002,no labelled examples,True
+crisps_pcrn.prtzl&crackers,CRISPS_PCRN.PRTZL & CRACKERS,4803,4,2,197866.24,contradictory labels,True
+ice>icecream/frovgtbl,ice > icecream/fro vgtbl,6425,0,0,197756.23,no labelled examples,True
+bakedbe,Baked Be,7139,0,0,196586.05,no labelled examples,True
+promowkeaster,PROMO WK Easter,5655,0,0,196501.38999999998,no labelled examples,True
+miscellaneous-ambient,Miscellaneous - ambient,3762,0,0,196268.54,no labelled examples,True
+no/worldfoods,No/World foods,4718,0,0,196222.04,no labelled examples,True
+ice:icecrm/homebakmxs,ICE: ICE CRM/HOME BAK MXS,6425,0,0,196173.99,no labelled examples,True
+rtvegetables,RT   VEGETABLES,4584,5,2,195793.94,contradictory labels,True
+smths/orngjui,smths/orng jui,6975,0,0,195154.87,no labelled examples,True
+washingpowder,WASHING POWDER,5401,0,0,194650.82,no labelled examples,True
+bac-z,Bac-Z,9205,3,2,193843.69,contradictory labels,True
+misclines8,Misc lines 8,6845,4,3,193611.13999999998,contradictory labels,True
+pulsgrains,Puls grains,9228,0,0,193515.36000000002,no labelled examples,True
+tortilla.corn.snacks,Tortilla.corn.snacks,9841,2,2,192541.31,contradictory labels,True
+cosauces,cosauces,7443,0,0,192514.46,no labelled examples,True
+energy-sports-drin/sq,energy-sports-drin/sq,7981,0,0,191939.96,no labelled examples,True
+pts-ambient,PTS-Ambient,9123,4,2,191870.23,contradictory labels,True
+energysprtsdrin,energy sprts drin,7981,0,0,191237.0,no labelled examples,True
+hotchoc,HOT CHOC,4274,4,2,190916.91,contradictory labels,True
+baking-baking-in/flr,Baking - Baking-in/Flr,3791,0,0,190856.62,no labelled examples,True
+fruit-ygrt,FRUIT-YGRT,2537,0,0,190065.82,no labelled examples,True
+assorted2,Assorted 2,6111,2,2,189284.99,contradictory labels,True
+veg-tomatoes+rtveg,VEG-TOMATOES + RT VEG,6663,0,0,188864.44,no labelled examples,True
+ctrs.fruit/brs,CTRS.FRUIT/BRS,1475,0,0,188793.46,no labelled examples,True
+promolineseaster,Promo lines Easter,2674,3,2,187754.16999999998,contradictory labels,True
+tmts+applespea-branded,Tmts + Apples pea - Branded,6663,0,0,187243.75,no labelled examples,True
+nuts&cr,nuts & cr,9983,0,0,187180.27,no labelled examples,True
+bread_wholebread,bread_whole bread,5363,0,0,186882.24,no labelled examples,True
+crisps>tortillacorsnac/cereaba,CRISPS > TORTILLA COR SNAC/CEREA BA,1093,0,0,186758.42,no labelled examples,True
+sndwc,SNDWC,1273,4,3,186595.26,contradictory labels,True
+npswps,Nps Wps,2870,5,2,186204.42,contradictory labels,True
+dishwashingdishwasherpro,DISHWASHING DISHWASHER PRO,5756,0,0,185932.19,no labelled examples,True
+tschilled,TS Chilled,9640,0,0,185917.15,no labelled examples,True
+hrbs>driherbsspi&tndveget,Hrbs > Driherbsspi & Tnd Veget,6054,3,2,184704.81,contradictory labels,True
+sft/squash,SFT/SQUASH,4366,0,0,184613.24,no labelled examples,True
+potatoes-export,Potatoes-Export,9123,0,0,184250.71000000002,no labelled examples,True
+ygrt.drinkandfrtyog,Ygrt.drink And Frt Yog,2537,9,2,183240.61000000002,contradictory labels,True
+ce&oil:basic,Ce & Oil: Basic,1484,2,2,182329.46,contradictory labels,True
+nu-org,NU-Org,9983,0,0,181699.75,no labelled examples,True
+sandwiches,SANDWICHES,1273,4,3,181341.48,contradictory labels,True
+frfis+beef,Fr Fis + Beef,9181,0,0,180076.95,no labelled examples,True
+pst_pst,PST_PST,1565,5,2,179769.01,contradictory labels,True
+kitchenrl,Kitchenrl,5181,6,2,179566.88,contradictory labels,True
+whole.cakes,WHOLE.CAKES,1501,0,0,179181.2,no labelled examples,True
+pa-tlt.roll,pa - tlt.roll,3615,0,0,178888.43,no labelled examples,True
+pls.graiandcerebrs,pls.grai and cere brs,9978,0,0,178528.71000000002,no labelled examples,True
+hot_co,HOT_CO,9269,0,0,177820.06999999998,no labelled examples,True
+appleprs&ctrsfrui,APPLEPRS & CTRS FRUI,7245,0,0,177722.72999999998,no labelled examples,True
+world_worldfoodsandnoo,World_World Foods And Noo,1201,0,0,177624.55,no labelled examples,True
+crisps>crandnts,Crisps > Cr And Nts,4268,2,2,177320.83,contradictory labels,True
+cake>whl.cakes+garbre,cake > whl.cakes + gar bre,1501,0,0,176970.8,no labelled examples,True
+dps/dps,Dps/Dps,2154,4,2,176132.84,contradictory labels,True
+miscitems(old),misc items (old),9228,6,3,176098.54,contradictory labels,True
+pape_ktchnrl,PAPE_KTCHN RL,5181,5,2,175239.84,contradictory labels,True
+ice>ice.creamandfrznreadymeals,ICE > ICE.CREAM AND FRZN READY MEALS,3961,0,0,175058.61000000002,no labelled examples,True
+fruit>trpcl-fruit,Fruit > Trpcl-fruit,4632,0,0,175056.91,no labelled examples,True
+peppers-chi,PEPPERS-CHI,5747,0,0,174267.03,no labelled examples,True
+frzn/fr.ready.meal,Frzn/Fr.ready.meal,3961,3,2,173697.37,contradictory labels,True
+dsrts_chi.desserts,dsrts_chi.desserts,1034,0,0,172313.26,no labelled examples,True
+sugar-bulk,Sugar-Bulk,7788,0,0,172228.2,no labelled examples,True
+fish:prwnsse,Fish: Prwns se,5655,0,0,172049.34999999998,no labelled examples,True
+rosesparklingwn,Rose Sparkling Wn,9822,0,0,171743.84,no labelled examples,True
+miscitems-chilled,misc items - chilled,8737,2,2,171684.34,contradictory labels,True
+wiredwn,Wi Red wn,6670,0,0,171552.64,no labelled examples,True
+drifrui,Dri frui,1093,3,2,171065.45,contradictory labels,True
+deod,Deod,6275,4,2,170954.52,contradictory labels,True
+savoury-bi,Savoury-bi,6633,0,0,170898.38,no labelled examples,True
+porkandbeef_grp3,Pork and Beef_Grp 3,4045,0,0,170848.48,no labelled examples,True
+cdr/coffee,Cdr/Coffee,9269,0,0,170821.57,no labelled examples,True
+whibread,WHIBREAD,8297,4,2,170292.72,contradictory labels,True
+ygrt>yodrink,YGRT > YO DRINK,2537,2,2,170240.34,contradictory labels,True
+crls,Crls,1484,4,2,170152.97,contradictory labels,True
+clean-bthrm.tlt,CLEAN - BTHRM.TLT,3743,0,0,170125.93,no labelled examples,True
+wrps.fltbr&whitebread,WRPS.FLTBR & WHITE BREAD,2674,0,0,169355.8,no labelled examples,True
+milk-plandrnks,Milk-Plan Drnks,5179,3,2,169315.66999999998,contradictory labels,True
+sauce>table.scs,Sauce > Table.scs,9023,0,0,169210.25,no labelled examples,True
+smoothiesandwhitbre,SMOOTHIES AND WHIT BRE,6975,0,0,168848.25,no labelled examples,True
+nutsrangea,nuts Range A,9983,0,0,168566.04,no labelled examples,True
+cris:popcornpretzels,CRIS: POPCORN PRETZELS,4803,0,0,167331.1,no labelled examples,True
+coffee/ownlabel,Coffee/Own Label,9269,5,2,167287.21,contradictory labels,True
+energ-sports-drnks,Energ-sports-drnks,7981,0,0,166918.63999999998,no labelled examples,True
+meat-bcn,MEAT-BCN,4045,3,2,166192.19,contradictory labels,True
+tins:tinnedfsh,tins: tinned fsh,8191,0,0,166063.19,no labelled examples,True
+cl/stdrange,cl/Std Range,3117,0,0,165753.69,no labelled examples,True
+yogurt:na-yogurt,Yogurt: Na-yogurt,7219,0,0,165607.50999999998,no labelled examples,True
+sgrandsug,SGR AND SUG,3834,4,2,165108.89,contradictory labels,True
+prprdslds+dips,Prprdslds + Dips,5088,0,0,165047.62,no labelled examples,True
+crispol,crisp OL,4268,0,0,164954.96,no labelled examples,True
+ju>smths,JU > SMTHS,6975,0,0,164644.83000000002,no labelled examples,True
+pas-lgepk,PAS - LGE PK,1565,0,0,164523.83000000002,no labelled examples,True
+cottage.chees,COTTAGE.CHEES,8737,0,0,164315.41999999998,no labelled examples,True
+conchwnggum,Con Chwng gum,5411,0,0,164182.91,no labelled examples,True
+mea&pz,Mea & Pz,1238,0,0,164131.8,no labelled examples,True
+brkfs-porridge,BRKFS-PORRIDGE,8689,0,0,164104.9,no labelled examples,True
+ba,BA,5856,0,0,162654.23,no labelled examples,True
+scon.tea+whlcks,Scon.tea + Whl Cks,1150,0,0,162443.59999999998,no labelled examples,True
+meat/pork&sa,MEAT/PORK & SA,5856,4,2,162299.08,contradictory labels,True
+fres.soup,fres.soup,5607,0,0,161870.57,no labelled examples,True
+pet-care,pet-care,7333,0,0,161797.76,no labelled examples,True
+rt.vgtbl&gre,Rt.vgtbl & Gre,1352,3,2,161773.58000000002,contradictory labels,True
+catfood+petcare,Cat Food + Pet Care,6111,0,0,161410.46,no labelled examples,True
+ntrl-yogurt,Ntrl-yogurt,7219,0,0,161251.16,no labelled examples,True
+vesalad,Ve Salad,4782,2,2,160677.43,contradictory labels,True
+fl-y,FL-Y,3754,0,0,160590.95,no labelled examples,True
+mrng_croissantspastr,MRNG_CROISSANTS PASTR,1416,0,0,159686.05,no labelled examples,True
+rice/rice+rice,Rice/Rice + Rice,7444,0,0,159585.13999999998,no labelled examples,True
+sausgrp2,Saus Grp 2,6450,0,0,159222.08000000002,no labelled examples,True
+sgr/sugar,Sgr/Sugar,7788,7,2,158809.69,contradictory labels,True
+tnd-vegetandtinnefrt,TND-VEGET AND TINNE FRT,9330,0,0,157917.3,no labelled examples,True
+citrus-fruit&ri,CITRUS-FRUIT & RI,7444,0,0,157748.8,no labelled examples,True
+dishw-wasliandktchnro,Dishw-Was li and Ktchn ro,5181,2,2,157620.79,contradictory labels,True
+sa_tabscs&natyogurt,Sa_Tab Scs & Nat Yogurt,7219,0,0,157470.34,no labelled examples,True
+sugar+sug,SUGAR + SUG,7788,0,0,156977.1,no labelled examples,True
+cks>wholecks,Cks > Whole Cks,1501,0,0,155930.38,no labelled examples,True
+froz-chipsptprdct,Froz - Chipsptprdct,4761,5,2,155454.04,contradictory labels,True
+energysportsdrinks,ENERGYSPORTSDRINKS,7981,4,2,155356.94,contradictory labels,True
+cerealsandpor,cereals and por,8689,0,0,155228.95,no labelled examples,True
+chill-re-mls,CHILL-RE-MLS,1531,0,0,154751.31,no labelled examples,True
+frozen-pizza,Frozen - Pizza,3903,0,0,154590.55,no labelled examples,True
+shampoocndtn,SHAMPOO CNDTN,6111,0,0,154274.14,no labelled examples,True
+ba-hombakinmxs,BA - HOM BAKIN MXS,3762,0,0,154100.38,no labelled examples,True
+crsnt.pstrs/scnste,crsnt.pstrs/scns te,1416,0,0,154005.76,no labelled examples,True
+dips/di_local,Dips/Di_Local,2154,0,0,153652.19,no labelled examples,True
+rose-sparkling-wi,rose-sparkling-wi,9822,0,0,153342.51,no labelled examples,True
+bak.ingredients,BAK.INGREDIENTS,3791,0,0,151799.41,no labelled examples,True
+dendntlcr,Den Dntl cr,9205,0,0,151486.39,no labelled examples,True
+wholemealbrd,Wholemeal Brd,2674,2,2,151472.84,contradictory labels,True
+chld.rdy.mls/swtbscts,CHLD.RDY.MLS/SWT BSCTS,1531,0,0,151117.34,no labelled examples,True
+spi,SPI,9849,6,2,151103.66999999998,contradictory labels,True
+vgtbl_fresh-hrbs,vgtbl_fresh-hrbs,7818,4,2,150691.07,contradictory labels,True
+saucespicklcndmn/tablesau,SAUCES PICKL CNDMN/TABLE SAU,7070,4,2,150356.97999999998,contradictory labels,True
+gramln,GRA MLN,7773,0,0,150239.88999999998,no labelled examples,True
+citrusfrt+mushrooms,Citrus frt + Mushrooms,4548,6,3,149808.81,contradictory labels,True
+bu-butte,bu - butte,8993,0,0,149142.02,no labelled examples,True
+surfa-cleaners/bathroomtoilet,Surfa-cleaners/bathroom Toilet,2138,0,0,148735.99,no labelled examples,True
+assortedlines-grocery,ASSORTED LINES - grocery,3117,2,2,148133.93,contradictory labels,True
+mfnscrmpt,Mfns crmpt,9870,0,0,148073.54,no labelled examples,True
+frt>apple.pears,Frt > Apple.pears,7245,0,0,147845.49,no labelled examples,True
+cider-spec,CIDER - Spec,7789,0,0,147438.69,no labelled examples,True
+cotchees,COTCHEES,8737,0,0,147409.46,no labelled examples,True
+sp/blchs,SP/BL CHS,1464,0,0,146965.55000000002,no labelled examples,True
+meatmeat--grp1,Meat Meat--Grp 1,1238,0,0,146622.64,no labelled examples,True
+promoq2,Promo Q2,4584,0,0,146595.42,no labelled examples,True
+sauces-tablsauc,SAUCES-TABL SAUC,7070,0,0,146483.58,no labelled examples,True
+othjuices&orajui,Oth juices & Ora jui,8882,0,0,145765.95,no labelled examples,True
+noodandworldfds,nood and world fds,4718,0,0,145603.73,no labelled examples,True
+pulses-grains,Pulses-grains,9228,4,2,145339.28,contradictory labels,True
+bakiningre/pst,Bakiningre/Pst,3791,0,0,145106.35,no labelled examples,True
+confectionery-chewgum,Confectionery - Chewgum,5411,0,0,144994.77,no labelled examples,True
+clngsrfc-clnrs,Clng Srfc-clnrs,2138,0,0,144859.19,no labelled examples,True
+sweet.biscu,SWEET.BISCU,9417,0,0,144433.81,no labelled examples,True
+chps.potat.prdct,Chps.potat.prdct,4761,2,2,143369.55,contradictory labels,True
+flvalue,fl Value,3754,0,0,143348.2,no labelled examples,True
+tea/orangjuice,Tea/Orang Juice,4274,0,0,143329.69,no labelled examples,True
+homebakimxs,HOMEBAKIMXS,3762,3,2,143072.94999999998,contradictory labels,True
+sa-biscu,SA-BISCU,6633,0,0,142266.35,no labelled examples,True
+wshng-li,Wshng-li,6643,0,0,142084.05,no labelled examples,True
+ckdme,CKD ME,3682,0,0,141741.82,no labelled examples,True
+yogur-dri,YOGUR-DRI,2537,0,0,141713.64,no labelled examples,True
+oil-oil/oil,Oil-Oil/Oil,9991,0,0,141211.59,no labelled examples,True
+yogur-frt.yogu,Yogur-Frt.yogu,4439,3,2,141194.24,contradictory labels,True
+egg:eggs&lag:ext,EGG: EGGS & LAG: Ext,8090,2,2,141172.63,contradictory labels,True
+food/sandw,Food/Sandw,1273,2,2,141025.72,contradictory labels,True
+nappies-wipe,Nappies-wipe,8762,0,0,140095.07,no labelled examples,True
+naturyogurt,NATUR YOGURT,7219,0,0,139989.08000000002,no labelled examples,True
+sof-sq/rssprklwn,Sof - Sq/Rs sprkl wn,4366,0,0,139956.5,no labelled examples,True
+cookedmeat,cookedmeat,9318,4,2,139919.3,contradictory labels,True
+bathroomtoilet,bathroom toilet,3743,0,0,139696.0,no labelled examples,True
+pasta-past&past,pasta - past & past,1565,0,0,139366.58000000002,no labelled examples,True
+prkitchen-roll,PR KITCHEN-ROLL,5181,0,0,139264.66,no labelled examples,True
+frsh_freshsoup,FRSH_FRESH SOUP,5607,3,2,139261.77,contradictory labels,True
+icecrm,ICECRM,6425,0,0,139038.71,no labelled examples,True
+btr:deli,btr: Deli,8993,0,0,138928.28,no labelled examples,True
+pulsegrns,Pulse grns,9228,0,0,138668.46,no labelled examples,True
+misc-other6,MISC - OTHER 6,3791,4,3,138462.71,contradictory labels,True
+rosparwine,Ro spar wine,9822,0,0,138392.67,no labelled examples,True
+baking.ingrd,Baking.ingrd,3791,4,2,137960.87,contradictory labels,True
+ca:cksliceba,ca: ck slice ba,1365,0,0,137956.62,no labelled examples,True
+prepared-sa,PREPARED-SA,5088,0,0,137489.66999999998,no labelled examples,True
+table-sauces,table-sauces,7070,0,0,137265.89,no labelled examples,True
+hot-hotchocolateandco,Hot - Hot Chocolate And Co,7773,0,0,137159.15,no labelled examples,True
+miscellaneous-drinks,Miscellaneous - drinks,2537,2,2,137121.17,contradictory labels,True
+whlca,whlca,1501,0,0,135704.94,no labelled examples,True
+chld-de,Chld-de,1034,3,2,135485.65,contradictory labels,True
+torticornsnac,TORTICORNSNAC,9841,0,0,135458.88,no labelled examples,True
+yogu_ygrtdrinks,YOGU_YGRTDRINKS,2537,0,0,135445.7,no labelled examples,True
+plandrinks,PLANDRINKS,5179,0,0,135100.09,no labelled examples,True
+prwnssfd,Prwns Sfd,5655,5,2,134992.17,contradictory labels,True
+frozfish,froz fish,9181,3,2,134933.61,contradictory labels,True
+ba.toilet,Ba.toilet,3743,0,0,134852.51,no labelled examples,True
+di,DI,2154,0,0,134625.11000000002,no labelled examples,True
+mo_scns-teaca,Mo_Scns-teaca,1150,0,0,134422.04,no labelled examples,True
+crsps-cra,Crsps-Cra,7626,0,0,134171.72,no labelled examples,True
+wrps-flatbreads,WRPS-FLATBREADS,2674,0,0,134048.09,no labelled examples,True
+squas-core,SQUAS-Core,4366,0,0,133990.04,no labelled examples,True
+frshcream,Frsh cream,7386,2,2,133869.86,contradictory labels,True
+frozvgtbl,Froz Vgtbl,1458,0,0,132742.59,no labelled examples,True
+potatoes+pepperschil,potatoes + peppers chil,9123,5,2,132658.47,contradictory labels,True
+yogurt_naturalyogurt/fryogurt,YOGURT_NATURAL YOGURT/FR YOGURT,7219,0,0,132463.15,no labelled examples,True
+frt_berri,Frt_Berri,1475,0,0,132197.06,no labelled examples,True
+shbath+petcare,SH BATH + PET CARE,5824,0,0,131987.62,no labelled examples,True
+winerosesparklingwn,wine rosesparklingwn,9822,0,0,131793.8,no labelled examples,True
+crack&nts,Crack & Nts,7626,3,2,131707.82,contradictory labels,True
+washing-upliqu&dshwsproducts,WASHING-UP LIQU & DSHWS PRODUCTS,6643,0,0,131682.6,no labelled examples,True
+to,to,6663,0,0,131532.61,no labelled examples,True
+promo-seasonalwk47,Promo - Seasonal Wk 47,7623,0,0,131337.92,no labelled examples,True
+wineredwine,WINE RED WINE,6670,0,0,131121.63,no labelled examples,True
+oil,OIL,7014,0,0,131015.0,no labelled examples,True
+grmelon,Grmelon,8174,3,2,130922.79,contradictory labels,True
+childe,Chil De,1034,0,0,130722.59,no labelled examples,True
+smoo+otherjuices,Smoo + Other juices,6975,0,0,130425.97000000002,no labelled examples,True
+energsportdrnks,ENERG SPORT DRNKS,7981,0,0,130313.04000000001,no labelled examples,True
+hmbkngmi,HM BKNG MI,3762,2,2,130244.09,contradictory labels,True
+stilwtr/sprklwate,stil wtr/sprkl wate,7286,3,2,129805.23000000001,contradictory labels,True
+di/prprdslds,Di/Prprd Slds,2154,0,0,129739.03,no labelled examples,True
+paper_tltroll,Paper_Tlt Roll,5181,0,0,129737.36,no labelled examples,True
+cottacheese,COTTA CHEESE,8737,0,0,128988.32,no labelled examples,True
+tnd-tomatoes,Tnd-tomatoes,2416,3,2,128976.48,contradictory labels,True
+crls-grp1,Crls-Grp 1,1484,0,0,128616.96,no labelled examples,True
+morning/croissantspstrs+muffcrumpets,MORNING/CROISSANTS PSTRS + MUFF CRUMPETS,9870,4,2,128592.97,contradictory labels,True
+bac,Bac,9205,0,0,128466.17,no labelled examples,True
+frozenfish+comts,Frozen fish + Co mts,9181,0,0,128461.11,no labelled examples,True
+prawsea&sausages,Prawsea & Sausages,5655,0,0,127805.64000000001,no labelled examples,True
+assorted3,Assorted 3,8421,6,5,127589.77,contradictory labels,True
+savou-pies+lam,savou-pies + lam,2363,0,0,127396.44,no labelled examples,True
+popcornpret,Popcornpret,4803,0,0,126899.33,no labelled examples,True
+assorted(old),Assorted (old),3201,5,4,126802.96,contradictory labels,True
+mor-crsnt-pstrs,Mor-Crsnt-pstrs,1416,0,0,126799.03,no labelled examples,True
+tis,TIS,9640,0,0,126594.49,no labelled examples,True
+ols_oil/oil_ctr,Ols_Oil/Oil_CTR,7014,0,0,126478.3,no labelled examples,True
+promo-seasonalwk20,Promo - Seasonal WK20,4803,5,4,126318.25,contradictory labels,True
+dried-herbs-spices+rice,Dried-herbs-spices + Rice,6054,0,0,125963.48,no labelled examples,True
+promosummerq3,Promo Summer Q3,4045,2,2,125925.2,contradictory labels,True
+icecreamandicelolli,Icecream And Ice Lolli,6425,0,0,125866.12000000001,no labelled examples,True
+iceicecre&icels,ICE ICE CRE & ICE LS,6425,0,0,125712.01,no labelled examples,True
+pickcondandtablesauce,pickcond and table sauce,9023,0,0,124765.45999999999,no labelled examples,True
+tocornsnacks,Tocornsnacks,9841,0,0,124610.26,no labelled examples,True
+batoilet+surfacl,ba toilet + surfa cl,3743,0,0,124559.81999999999,no labelled examples,True
+dried.fruitandcr,Dried.fruit and Cr,1093,2,2,124543.76999999999,contradictory labels,True
+icelolli,Ice Lolli,8506,3,2,123963.12,contradictory labels,True
+crsps+savourybis,CRSPS + SAVOURY BIS ,4268,0,0,123850.34999999999,no labelled examples,True
+savoury-biscuits,Savoury-biscuits,6633,0,0,123826.35,no labelled examples,True
+promo-seasonalq3,Promo - Seasonal Q3,8191,2,2,123668.92,contradictory labels,True
+me>baco,ME > BACO,9205,0,0,123173.59,no labelled examples,True
+tns:tnd-vege,Tns: Tnd-vege,9330,0,0,121824.87,no labelled examples,True
+tinnedvege,Tinned vege,9330,0,0,121718.33,no labelled examples,True
+chckn&cookmeats,CHCKN & COOK MEATS,2638,6,2,121578.17,contradictory labels,True
+wtr>sparwtr,WTR > SPAR WTR,9396,0,0,121342.27,no labelled examples,True
+dntlcare,DNTL CARE,8449,0,0,121163.41,no labelled examples,True
+cakewhlca,Cake Whlca,1501,0,0,121135.29000000001,no labelled examples,True
+whitewn,white wn,1025,0,0,121099.15,no labelled examples,True
+mlk:frshmi/popcornprtzl,mlk: frshmi/popcorn prtzl,3201,0,0,120631.77,no labelled examples,True
+cat.fd,Cat.fd,6111,0,0,120411.95,no labelled examples,True
+prawnsseafood,Prawns Seafood,5655,0,0,120154.65,no labelled examples,True
+cider/lgr,cider/lgr,7789,0,0,120063.25,no labelled examples,True
+butter_sprea+btr,butter_sprea + btr,1464,0,0,120031.11,no labelled examples,True
+stonefruit,Stone Fruit,7245,2,2,119385.67,contradictory labels,True
+pie/svry-pie,Pie/Svry-pie,2363,2,2,119380.58,contradictory labels,True
+baby-nappiwipe,Baby-Nappi wipe,8762,0,0,119370.42999999998,no labelled examples,True
+nps.wipes,NPS.WIPES,8762,0,0,119286.31999999999,no labelled examples,True
+sconteaca&rollsbap,SCONTEACA & ROLLS BAP,1150,0,0,119030.31000000001,no labelled examples,True
+pul.graandharcheese,Pul.gra and Har cheese,9228,0,0,118859.53,no labelled examples,True
+tnd.tomatoes,Tnd.tomatoes,2416,0,0,118295.77,no labelled examples,True
+po,Po,8689,0,0,118207.45,no labelled examples,True
+to.roll,to.roll,5181,0,0,118108.81999999999,no labelled examples,True
+crls>basic,crls > Basic,1484,3,3,118070.89,contradictory labels,True
+cebars,CE BARS,1093,2,2,117919.48,contradictory labels,True
+noodl&wrldfoods,noodl & wrld foods,4718,0,0,117378.51,no labelled examples,True
+salad/tom-spec,SALAD/TOM - Spec,4782,0,0,117230.18000000001,no labelled examples,True
+misclines(old),Misc lines (old),1201,0,0,117229.25,no labelled examples,True
+sweetsandchewinggum,SWEETS AND CHEWING GUM,5411,0,0,117084.84,no labelled examples,True
+ba>homebakinmxs,Ba > Homebakinmxs,9278,4,3,116960.48,contradictory labels,True
+bynappies-wipes,by nappies-wipes,2870,0,0,116945.03,no labelled examples,True
+fsh:prasfd+ts,fsh: pra sfd + ts,5655,0,0,116463.26000000001,no labelled examples,True
+flourbulk,FLOUR BULK,7623,0,0,116420.42,no labelled examples,True
+wholemeal.bread,Wholemeal.bread,5363,0,0,116388.29,no labelled examples,True
+vegetables-tomatoes,Vegetables-Tomatoes,4782,2,2,116169.1,contradictory labels,True
+crsps,Crsps,4268,0,0,116116.26,no labelled examples,True
+noodl,Noodl,4718,0,0,116064.81,no labelled examples,True
+enrgyspordrnks,ENRGY SPOR DRNKS,7981,4,2,115974.65000000001,contradictory labels,True
+dips/presalad,DIPS/PRE SALAD,5088,0,0,114910.54,no labelled examples,True
+flavouredmlk,FLAVOUREDMLK,3201,0,0,114817.51,no labelled examples,True
+di/dshwspro,di/dshws pro,5756,0,0,114589.03,no labelled examples,True
+pet-petcare-deli,Pet-Pet Care-Deli,7333,0,0,114535.22,no labelled examples,True
+confe/chgumandsweets,Confe/Ch Gum And Sweets,5411,0,0,114471.36,no labelled examples,True
+sugar/energysportdrnks,Sugar/Energy Sport Drnks,3834,0,0,114437.48,no labelled examples,True
+sc.tcks,SC.TCKS,1150,0,0,114368.38,no labelled examples,True
+crisps>rangea,Crisps > Range A,4268,0,0,113884.47,no labelled examples,True
+wshngliquid_lime,Wshng Liquid_Lime,6643,0,0,113883.93,no labelled examples,True
+meat--meat-free&gramln,MEAT- - MEAT-FREE & GRA MLN,1238,3,2,113718.8,contradictory labels,True
+wholecak,Wholecak,1501,0,0,113660.09,no labelled examples,True
+crm/frescrm/ndls,Crm/Fres Crm/Ndls,4718,4,2,113529.5,contradictory labels,True
+drie-frt,drie-frt,1093,0,0,113448.34,no labelled examples,True
+grns,Grns,1352,0,0,113387.19,no labelled examples,True
+meat>pork,Meat > Pork,5856,0,0,113359.29999999999,no labelled examples,True
+cks:cakeslcsbars+la,CKS: CAKE SLCS BARS + LA,1365,0,0,113234.28,no labelled examples,True
+soft-cheese,Soft-cheese,9117,0,0,113187.47,no labelled examples,True
+paper>tltro,Paper > Tltro,3615,0,0,113186.73,no labelled examples,True
+yog.drnks,Yog.drnks,2537,0,0,112737.19,no labelled examples,True
+dri.frt,DRI.FRT,1093,5,2,112396.56999999999,contradictory labels,True
+ch/soft-cheese,Ch/Soft-cheese,9117,0,0,112181.11,no labelled examples,True
+hr-shconditioner&lndrylqdcapsules,HR-SHCONDITIONER & LNDRY LQD CAPSULES,5471,6,2,111781.44,contradictory labels,True
+petcr-x,Pet Cr - X,7333,0,0,111478.56,no labelled examples,True
+chpspotatoprdct,chps potato prdct,4761,0,0,111188.26000000001,no labelled examples,True
+babnappwps,Bab Napp wps,8762,0,0,110770.05,no labelled examples,True
+pizz+froreadymls,Pizz + Fro Ready Mls,3903,0,0,110382.95999999999,no labelled examples,True
+plntbdrink,Plntb Drink,5179,0,0,110096.48,no labelled examples,True
+frozefsh,FROZE FSH,9181,0,0,109914.47,no labelled examples,True
+food-foil,FOOD-FOIL,3754,0,0,109617.76999999999,no labelled examples,True
+egs/single,Egs/Single,8090,0,0,109311.19,no labelled examples,True
+wn:rssparklingwine,WN: RSSPARKLINGWINE,9822,0,0,109263.52,no labelled examples,True
+sauce/picklcndmn,SAUCE/PICKL CNDMN,9023,0,0,109081.3,no labelled examples,True
+pts&rovegetables,Pts & Ro   vegetables,6663,0,0,108803.24,no labelled examples,True
+froze.dess,FROZE.DESS,2500,0,0,108747.42,no labelled examples,True
+grns:ol,GRNS: OL,1352,0,0,108666.07,no labelled examples,True
+ba:wk,BA: Wk,9205,0,0,108096.65,no labelled examples,True
+dips-chilled,Dips-Chilled,2154,0,0,107845.72,no labelled examples,True
+ctrs-fruit,Ctrs-fruit,1475,2,2,107826.84999999999,contradictory labels,True
+whtbrd,wht brd,8297,0,0,107610.25,no labelled examples,True
+cake-slices-brs,cake-slices-brs,1365,0,0,107536.35,no labelled examples,True
+sabiscuits,Sa biscuits,6633,0,0,107263.1,no labelled examples,True
+baking:sugar,BAKING: SUGAR,3834,0,0,106855.53,no labelled examples,True
+dsrts:chil-dessertsandfrznvegetables,DSRTS: CHIL-DESSERTS AND FRZN VEGETABLES,1034,4,2,106682.57,contradictory labels,True
+frshsp,Frsh sp,5607,0,0,106651.26,no labelled examples,True
+ntrl-yo,ntrl-yo,7219,0,0,106552.02,no labelled examples,True
+cerealbrs&nts,Cereal brs & Nts,9978,0,0,106406.89,no labelled examples,True
+nts/chirdymeals,Nts/Chi Rdy Meals,9983,0,0,106334.49,no labelled examples,True
+plntb-dr/freshmil,PLNTB-DR/FRESH MIL,5179,7,2,106274.72,contradictory labels,True
+vege/pota,VEGE/POTA,7818,2,2,106077.77,contradictory labels,True
+pts_catfoo,PTS_CATFOO,6111,0,0,105991.89,no labelled examples,True
+fruityogu,Fruit Yogu,4439,0,0,105680.63,no labelled examples,True
+cola+icelolli,Cola + Ice Lolli,3117,0,0,105551.54,no labelled examples,True
+juice-orng.juice,JUICE - ORNG.JUICE,1919,0,0,105107.09,no labelled examples,True
+stofru,STO FRU,9644,0,0,104990.43,no labelled examples,True
+worldfoods,WORLD FOODS,1201,0,0,104848.1,no labelled examples,True
+enspodrin,en spo drin,7981,0,0,104584.7,no labelled examples,True
+toma,Toma,6663,0,0,104512.79000000001,no labelled examples,True
+pr_tissues,Pr_Tissues,9640,0,0,104416.88,no labelled examples,True
+preparedsala,PREPARED SALA,8421,3,2,104357.73,contradictory labels,True
+pets>pet-care&dogfood,PETS > PET-CARE & DOG FOOD,7333,0,0,103931.94,no labelled examples,True
+spreadsandbutte,Spreads And Butte,1464,3,2,103930.47,contradictory labels,True
+frsoup,frsoup,5607,0,0,103872.54999999999,no labelled examples,True
+biscuits_savoury-bisc,Biscuits_Savoury-bisc,6633,2,2,103861.52,contradictory labels,True
+frznrdymeals,Frzn rdy meals,3961,4,2,103722.61,contradictory labels,True
+hmbkngmixe,hm bkng mixe,3762,0,0,103292.97,no labelled examples,True
+ric:rc:lgepk,Ric: Rc: Lge Pk,7444,0,0,103174.36,no labelled examples,True
+bacon,Bacon,1150,3,3,102984.34999999999,contradictory labels,True
+wapo,Wa po,4024,0,0,102790.97,no labelled examples,True
+dishw:dis-prdct,dishw: dis-prdct,5756,0,0,101944.95000000001,no labelled examples,True
+sweetbisc,sweet bisc,6633,0,0,101936.41,no labelled examples,True
+drnt>drnt,drnt > drnt,6275,0,0,101849.52,no labelled examples,True
+froz:pizza,FROZ: PIZZA,3903,2,2,101436.45,contradictory labels,True
+pulses:plsgrain,Pulses: Pls Grain,8506,2,2,101046.85,contradictory labels,True
+baby/byfd,BABY/BY FD,2870,0,0,100959.95999999999,no labelled examples,True
+crls_ownlabel,CRLS_Own Label,1484,0,0,100627.48,no labelled examples,True
+sweets-sml,SWEETS-Sml,6788,2,2,100496.59,contradictory labels,True
+drieherbsspices,DRIE HERBS SPICES,6054,0,0,100426.16,no labelled examples,True
+ti.to,Ti.to,2416,3,3,100188.81999999999,contradictory labels,True
+washing-powder+laundryliqucapsules,WASHING-POWDER + LAUNDRY LIQU CAPSULES,5401,0,0,100128.37999999999,no labelled examples,True
+pu-grains,Pu-grains,9228,0,0,99437.01,no labelled examples,True
+dips:dip,dips: dip,2154,0,0,99338.1,no labelled examples,True
+dips:dips,Dips: Dips,2154,0,0,98844.79,no labelled examples,True
+frordymeals,Fro Rdy Meals,3961,0,0,98459.98,no labelled examples,True
+cak>whcks,cak > wh cks,1501,0,0,98198.07,no labelled examples,True
+meatporkselect,MEAT PORK Select,5856,0,0,98081.09,no labelled examples,True
+alestou,Ale stou,6845,0,0,98034.12,no labelled examples,True
+sundries(old),Sundries (old),3615,0,0,97657.88,no labelled examples,True
+tinnetomatoesandric,tinnetomatoes and ric,2416,0,0,97527.08,no labelled examples,True
+fdfoilandsugar,Fd Foil And Sugar,7788,3,2,97376.08,contradictory labels,True
+featurespace,Feature space,1458,5,3,97361.63,contradictory labels,True
+conf-chwnggum,Conf - Chwnggum,5411,0,0,97244.59,no labelled examples,True
+beer-cdrandalestout,beer - cdr and ale stout,6845,4,2,97238.05,contradictory labels,True
+smths/ol,SMTHS/OL,6975,0,0,97163.11,no labelled examples,True
+sqsh,SQSH,4366,0,0,97127.84999999999,no labelled examples,True
+frshsou,frsh sou,5607,0,0,97011.23,no labelled examples,True
+cerandtinnedfruit:ownlabel,cer and tinned fruit: Own Label,1484,3,2,96863.37,contradictory labels,True
+cat-foodbranded,CAT-FOOD Branded,6111,0,0,96497.94,no labelled examples,True
+cookingsauces,Cooking Sauces,7443,0,0,96495.94,no labelled examples,True
+sw/basic,SW/Basic,6788,2,2,96251.21,contradictory labels,True
+cakes_wholeca&pi,Cakes_Whole ca & Pi,1501,0,0,95530.91,no labelled examples,True
+riandrc,Ri And Rc,7444,3,2,95438.17,contradictory labels,True
+na.yogurtandfrtygrt,na.yogurt and frt ygrt,7219,0,0,95413.11,no labelled examples,True
+btr-btr,Btr-Btr,8993,0,0,95316.45000000001,no labelled examples,True
+bre/prdg,Bre/Prdg,8689,3,2,95287.83,contradictory labels,True
+dntl.care/de,Dntl.care/De,6275,2,2,94910.34999999999,contradictory labels,True
+squ,SQU,4366,0,0,94654.15,no labelled examples,True
+cr>salt,CR > SALT,4268,0,0,94414.63,no labelled examples,True
+flour&oil,FLOUR & OIL,4977,4,2,94235.64,contradictory labels,True
+bath-toile,BATH-TOILE,2138,4,2,93470.88,contradictory labels,True
+water-sparkling.water,water - sparkling.water,7286,0,0,93463.90000000001,no labelled examples,True
+cak-ck.slices.bars,cak-ck.slices.bars,1365,0,0,93365.7,no labelled examples,True
+frozvgtbl&cerealbars,froz vgtbl & cereal bars,1458,0,0,91951.23,no labelled examples,True
+plntb-drinksandflvrdmlk,Plntb-drinks and Flvrd mlk,5179,0,0,91913.29,no labelled examples,True
+baby-nappieswipes,BABY - NAPPIESWIPES,8762,0,0,91889.33,no labelled examples,True
+mushrooms,Mushrooms,8530,0,0,91596.34000000001,no labelled examples,True
+bkng_hombkngmixes,BKNG_HOMBKNGMIXES,3762,0,0,91543.46,no labelled examples,True
+na.wipe+petcare,na.wipe + pet care,8762,0,0,91421.43000000001,no labelled examples,True
+frzn-veg,FRZN-VEG,1458,0,0,90804.56,no labelled examples,True
+wrld>ndls/ext,Wrld > Ndls/Ext,1201,2,2,90346.17,contradictory labels,True
+jc:orangejuice+otherjuice,jc: orange juice + other juice,1919,0,0,90268.27,no labelled examples,True
+tiss,tiss,9640,0,0,90185.24,no labelled examples,True
+flour-bulk,Flour - Bulk,7623,0,0,90089.78,no labelled examples,True
+scstasauces,SCS TA SAUCES,7070,0,0,89988.63,no labelled examples,True
+saus,Saus,4045,0,0,89954.07,no labelled examples,True
+tinnedfruit,Tinned fruit,3682,0,0,89892.11,no labelled examples,True
+cks-cakeslicesbar,CKS-CAKE SLICES BAR,1365,0,0,89676.74,no labelled examples,True
+plsgrains,Pls Grains,7286,0,0,89634.29000000001,no labelled examples,True
+petcr,PETCR,7333,0,0,89345.63,no labelled examples,True
+hot-chclt+tea,HOT-CHCLT + TEA,7773,0,0,89308.20000000001,no labelled examples,True
+prprd.salads,Prprd.salads,5088,0,0,89132.2,no labelled examples,True
+pts&greens:family,PTS & GREENS: Family,1352,2,2,89022.56999999999,contradictory labels,True
+citrusfrt/tropicalfruit,CITRUSFRT/TROPICAL FRUIT,4548,0,0,88871.48999999999,no labelled examples,True
+pic.con,pic.con,9023,0,0,87816.3,no labelled examples,True
+red-wi,red-wi,6670,0,0,87751.89,no labelled examples,True
+beef+bcn,beef + bcn,4045,2,2,87388.47,contradictory labels,True
+fish/prwnssfdandsmfis,fish/prwnssfd and sm fis,5655,0,0,87197.25,no labelled examples,True
+brea-garli-bread,BREA - GARLI-BREAD,6200,0,0,87187.56,no labelled examples,True
+ceandrtvgtbl,CE AND RT VGTBL,4584,3,2,87044.28,contradictory labels,True
+worldndls>stdrange,WORLD NDLS > Std Range,4718,3,2,86954.21,contradictory labels,True
+chld-rdy-meals,Chld-rdy-meals,1531,0,0,86898.44,no labelled examples,True
+waslqd,Was lqd,6643,0,0,86863.72,no labelled examples,True
+crsps_crisps,crsps_crisps,4268,0,0,86687.64,no labelled examples,True
+world:noodl,World: Noodl,4718,0,0,86672.91,no labelled examples,True
+savourypi,SAVOURYPI,2363,0,0,86306.07,no labelled examples,True
+tablesauce,table sauce,7070,0,0,86298.64,no labelled examples,True
+so-squ,So - Squ,4366,0,0,86271.53,no labelled examples,True
+bab:babyfd/nappieswps,BAB: BABYFD/NAPPIES WPS,2870,0,0,86109.62,no labelled examples,True
+ch.desserts,CH.DESSERTS,8364,0,0,86034.81,no labelled examples,True
+dencare,DEN CARE,8449,0,0,86012.0,no labelled examples,True
+sof/squash,Sof/Squash,4366,0,0,85774.48,no labelled examples,True
+fr-rdy-mls+pizza,fr-rdy-mls + pizza,3961,0,0,85679.69,no labelled examples,True
+frshpas,FRSHPAS,8421,0,0,85641.69,no labelled examples,True
+world/ndls+bacon,World/Ndls + Bacon,4718,0,0,84855.87,no labelled examples,True
+worldndls,World Ndls,4718,0,0,84851.58,no labelled examples,True
+tinn-fruit+bakedbns,Tinn-fruit + Baked bns,3682,0,0,84361.48000000001,no labelled examples,True
+sft-sqsh,SFT-SQSH,4366,0,0,84340.28,no labelled examples,True
+vegetables-mushrooms,VEGETABLES - MUSHROOMS,8530,0,0,84244.37,no labelled examples,True
+cr.pa+mfnscr,CR.PA + MFNS CR,9870,0,0,84019.48999999999,no labelled examples,True
+dentaldent-care,Dental Dent-care,8449,0,0,83903.09,no labelled examples,True
+pasta-foodservice,Pasta-Foodservice,1565,0,0,83896.13,no labelled examples,True
+flavmilk&freshmil,Flavmilk & Fresh mil,2033,0,0,83613.98,no labelled examples,True
+nuts,Nuts,9983,0,0,83476.56999999999,no labelled examples,True
+wholcakes+grlcbrd,WHOL CAKES + GRLC BRD,1501,0,0,83413.75,no labelled examples,True
+citr.frui,CITR.FRUI,6663,0,0,83309.31999999999,no labelled examples,True
+frozen_frozen.rdy.me,frozen_frozen.rdy.me,3961,0,0,83060.62,no labelled examples,True
+sprklwate,SPRKL WATE,9396,0,0,83057.13,no labelled examples,True
+hm.baki.mix,Hm.baki.mix,3762,0,0,82923.66,no labelled examples,True
+morningcrsnt.pstrs,morning crsnt.pstrs,1416,0,0,82846.48,no labelled examples,True
+croissants-past,Croissants-past,1416,0,0,82742.23,no labelled examples,True
+fd-sandwiches,Fd - Sandwiches,1273,2,2,82452.78,contradictory labels,True
+ti,Ti,9640,0,0,82252.99,no labelled examples,True
+mor:crsnt-pastriesandfrcrea,Mor: Crsnt-pastries And Fr Crea,1416,0,0,82165.55,no labelled examples,True
+bak-ingrd+hmbkngmixes,bak-ingrd + hm bkng mixes,3762,0,0,82126.59,no labelled examples,True
+peppe-chlsandmus,PEPPE-CHLS AND MUS,8530,3,2,81346.94,contradictory labels,True
+spirits:spirits,SPIRITS: SPIRITS,9849,0,0,81087.15999999999,no labelled examples,True
+orangejuice,Orangejuice,1919,0,0,80966.69,no labelled examples,True
+prepared.sala,prepared.sala,5088,3,2,80900.84,contradictory labels,True
+wrap.fltbrandwholemealbread,Wrap.fltbr And Wholemeal Bread,2674,0,0,80690.23,no labelled examples,True
+mrng_scones-teacakes,MRNG_SCONES-TEACAKES,1150,0,0,80269.05,no labelled examples,True
+savourybiscu/swbiscuits,Savoury biscu/Sw biscuits,9417,0,0,80239.17,no labelled examples,True
+mo/croissantspastr+muffinscr,Mo/Croissants pastr + Muffins cr,1416,0,0,80009.42,no labelled examples,True
+prprdsal,Prprdsal,5088,0,0,79483.86,no labelled examples,True
+baking:baki.in,BAKING: BAKI.IN,3791,0,0,79474.82,no labelled examples,True
+gr&rootve-prem,Gr & Root ve - Prem,1352,5,2,79344.68,contradictory labels,True
+sweet.biscuits,Sweet.biscuits,9417,0,0,79294.65,no labelled examples,True
+prepared-sala,Prepared-sala,8421,0,0,79047.64,no labelled examples,True
+foi:grp3,Foi: Grp 3,3754,3,3,78744.8,contradictory labels,True
+orng-juice&smths,ORNG-JUICE & SMTHS,1919,0,0,78661.79,no labelled examples,True
+surfaceclnrs+bathroomtlt,SURFACE CLNRS + BATHROOM TLT,2138,0,0,78310.19,no labelled examples,True
+picon,PI CON,9023,0,0,78222.16,no labelled examples,True
+crsntpstrs,Crsnt Pstrs,1416,0,0,78220.53,no labelled examples,True
+bkngingredients,BKNG INGREDIENTS,3791,3,2,77857.42,contradictory labels,True
+frozenreadymls,FROZEN READY MLS,3903,2,2,77459.97,contradictory labels,True
+diprdct,di prdct  ,5756,0,0,77411.83,no labelled examples,True
+baking.ing,BAKING.ING,3791,0,0,77256.39,no labelled examples,True
+popcornprtzl+crsps,popcornprtzl + crsps,4803,0,0,76937.34,no labelled examples,True
+piccond,Pic Cond,9023,0,0,76881.89,no labelled examples,True
+toiletrol+ktchnroll,TOILET ROL + KTCHN ROLL,3615,0,0,76817.73,no labelled examples,True
+svrypies,svry pies,2363,0,0,76768.44,no labelled examples,True
+ts,TS,9640,0,0,76574.35,no labelled examples,True
+meat->grp1,Meat- > Grp 1,1238,0,0,76254.79,no labelled examples,True
+butte-sprds,Butte - Sprds,8993,0,0,76058.08,no labelled examples,True
+flour+flour,Flour + Flour,4977,0,0,76004.15000000001,no labelled examples,True
+deo_drnt,DEO_DRNT,6275,0,0,75964.34000000001,no labelled examples,True
+cola,COLA,3117,0,0,75702.83,no labelled examples,True
+pet-care_value,Pet-care_Value,7333,0,0,75624.96,no labelled examples,True
+wholemeal.brdandwrpsflatbreads,WHOLEMEAL.BRD AND WRPS FLATBREADS,2674,0,0,75500.48,no labelled examples,True
+ols:oil,Ols: Oil,7014,4,3,74976.8,contradictory labels,True
+water/sti.wtr,water/sti.wtr,7286,0,0,74901.79000000001,no labelled examples,True
+frtyogur,FRT YOGUR,4439,0,0,74775.95,no labelled examples,True
+pckls-condiments&pstsauces,PCKLS-CONDIMENTS & PST SAUCES,9535,0,0,74547.48,no labelled examples,True
+baco,BACO,5856,0,0,74497.82,no labelled examples,True
+tinned.fruit/soup,tinned.fruit/soup,3682,0,0,74493.66,no labelled examples,True
+hot:tea,hot: tea,4274,2,2,74329.92,contradictory labels,True
+sau/frozefish,sau/froze fish,6450,0,0,74215.54,no labelled examples,True
+pr.salads,PR.SALADS,5088,0,0,74012.59,no labelled examples,True
+dental-cr,Dental-cr,8449,0,0,73751.34,no labelled examples,True
+sq/energysprtsdrin,sq/energy sprts drin,4366,3,2,73676.81999999999,contradictory labels,True
+gar-brd,gar-brd,6200,0,0,73542.56999999999,no labelled examples,True
+babyfood&napwip,Baby food & Nap wip,2870,0,0,73516.32,no labelled examples,True
+vgtbl-pot,VGTBL-POT,9123,0,0,73448.91,no labelled examples,True
+promotionswinter,Promotions Winter,9318,0,0,73366.54,no labelled examples,True
+cake.slices.brs,Cake.slices.brs,1365,0,0,73209.13,no labelled examples,True
+tins-tintom,TINS-TIN TOM,2416,0,0,73138.2,no labelled examples,True
+garlicbrd,GARLIC BRD,6200,0,0,73117.03,no labelled examples,True
+meat-free_meat-,MEAT-FREE_MEAT-,1238,3,2,73111.84,contradictory labels,True
+egandctgchorg,EG AND CTG CH Org,8090,0,0,72993.08,no labelled examples,True
+ntrlyogu,ntrlyogu ,7219,0,0,72671.91,no labelled examples,True
+other-juice&smths,Other-juice & Smths,8882,0,0,72608.94,no labelled examples,True
+tissues-value,TISSUES-Value,9640,0,0,72487.78,no labelled examples,True
+sprklwater/lm,Sprkl Water/Lm,9396,0,0,72402.11,no labelled examples,True
+petcare-family,PET CARE-Family,6111,0,0,72372.8,no labelled examples,True
+baby-nawps,BABY - NA WPS,8762,0,0,72314.35,no labelled examples,True
+pastscs,PASTSCS,9535,0,0,72295.61,no labelled examples,True
+tor-cor-sncks,TOR-COR-SNCKS,9841,0,0,72050.67,no labelled examples,True
+prawns.seafo,Prawns.seafo,5655,0,0,72019.02,no labelled examples,True
+surcleaners+battoile,Sur Cleaners + Bat Toile,2138,0,0,71952.91,no labelled examples,True
+yogurt_frt-yogu,yogurt_frt-yogu,4439,0,0,71841.68,no labelled examples,True
+den>de-crandchwnggum,den > de-cr and chwng gum,8449,0,0,71809.84,no labelled examples,True
+world>wrldfoods,WORLD > WRLDFOODS,1201,0,0,71757.81,no labelled examples,True
+savoury-bi_ched,Savoury-bi_Ched,6633,0,0,71611.34,no labelled examples,True
+fruit/stn-frui,FRUIT/STN-FRUI,9644,0,0,71324.15,no labelled examples,True
+sld_grp3,Sld_Grp 3,4782,0,0,71226.77,no labelled examples,True
+cerealsandworldfood,cereals and world food,1484,0,0,71152.69,no labelled examples,True
+cider:x,Cider: X,6845,0,0,70935.52,no labelled examples,True
+rt-vegetables,RT-VEGETABLES,1352,0,0,70879.76,no labelled examples,True
+br/cid,Br/Cid,7789,0,0,70407.33,no labelled examples,True
+tinsbabea,TINS BABEA,7139,0,0,70358.73,no labelled examples,True
+pets-pet-cr,PETS-PET-CR,7333,0,0,70150.94,no labelled examples,True
+soft:enespordrnks+cola,Soft: Ene spor drnks + Cola,3117,3,3,70121.12,contradictory labels,True
+assortedlines(old),ASSORTED LINES (old),2870,4,4,70086.09,contradictory labels,True
+pie-svrypies,Pie - Svry pies,2363,0,0,70059.42,no labelled examples,True
+whitebread/wrapsflatb,WHITE BREAD/WRAPS FLATB,8297,0,0,69767.51999999999,no labelled examples,True
+misc-other-drinks,MISC - OTHER - drinks,2033,4,3,69597.95999999999,contradictory labels,True
+butter-wk,BUTTER - Wk,8993,0,0,69473.79000000001,no labelled examples,True
+tablesauc,Table Sauc,7070,0,0,69461.95,no labelled examples,True
+paper_tis+tndfruit,Paper_tis + Tnd Fruit,9640,0,0,69254.18,no labelled examples,True
+vegetables-gr&rootvgtbl,Vegetables-Gr & Root vgtbl,1352,5,2,69107.72,contradictory labels,True
+miscellaneous(old),Miscellaneous (old),9123,0,0,69066.91,no labelled examples,True
+mea-local,mea-Local,1238,0,0,69027.32,no labelled examples,True
+chewing-gum&chcltba,Chewing-gum & Chclt ba,5411,0,0,68869.51,no labelled examples,True
+applespears,applespears,7245,6,2,68863.03,contradictory labels,True
+lmb+sau,Lmb + Sau,2980,0,0,68733.04000000001,no labelled examples,True
+vgtbl-potatoes,VGTBL - POTATOES,6663,2,2,68589.9,contradictory labels,True
+cri,CRI,4268,0,0,68476.9,no labelled examples,True
+butte_butter,BUTTE_BUTTER,8993,0,0,68055.78,no labelled examples,True
+sn>driedfru,SN > DRIED FRU,1093,0,0,67952.82,no labelled examples,True
+wasliqui,WAS LIQUI,6643,0,0,67821.63,no labelled examples,True
+pizza,PIZZA,3903,0,0,67689.97,no labelled examples,True
+frznfish,FRZN FISH,9181,0,0,67607.34,no labelled examples,True
+dntl-care,dntl-care,8449,0,0,67590.9,no labelled examples,True
+dried-herbs-spices,Dried-herbs-spices,6054,0,0,67587.04000000001,no labelled examples,True
+me-lmb,ME-LMB,2980,0,0,67550.68000000001,no labelled examples,True
+nts,nts,9983,0,0,67195.51,no labelled examples,True
+sgr&sugar-multi,SGR & SUGAR - Multi,7788,0,0,67022.44,no labelled examples,True
+wh.ca,Wh.ca,1501,0,0,67002.18,no labelled examples,True
+frt-app-pear,FRT - APP-PEAR,7245,0,0,66912.18000000001,no labelled examples,True
+garlibread,GARLI BREAD,6200,0,0,66878.74,no labelled examples,True
+crisps:torcrnsnacks,CRISPS: TOR CRN SNACKS,9841,0,0,66773.52,no labelled examples,True
+lager-classic,LAGER - Classic,8945,0,0,66664.01000000001,no labelled examples,True
+dips:export,DIPS: Export,2154,0,0,66620.5,no labelled examples,True
+crls&driedhrbsspcs,CRLS & DRIED HRBS SPCS,1484,0,0,66614.86,no labelled examples,True
+froz/frozenrdymls,froz/frozen rdy mls,3961,3,2,66604.31,contradictory labels,True
+cakes-wholecakes,Cakes - Wholecakes,1501,0,0,66568.1,no labelled examples,True
+redwine,Red wine,6670,0,0,66473.04,no labelled examples,True
+ti>tinntom&cookscs,ti > tinntom & cook scs,2416,2,2,66352.14,contradictory labels,True
+ston.fruit,Ston.fruit,5747,2,2,66270.01000000001,contradictory labels,True
+meatbacon+lam,Meat Bacon + Lam,2980,0,0,66200.4,no labelled examples,True
+byfood/npswi,BY FOOD/NPS WI,8762,3,2,65706.58,contradictory labels,True
+orange.juice&smths,Orange.juice & Smths,1919,2,2,65658.72,contradictory labels,True
+yogurt-yogur-drinks,YOGURT-YOGUR-DRINKS,2537,0,0,65511.56,no labelled examples,True
+world_worfds,WORLD_WORFDS,1201,0,0,65141.92,no labelled examples,True
+milkplant-based.dr,MILK PLANT-BASED.DR,5179,0,0,64998.06,no labelled examples,True
+porr,PORR,8689,0,0,64887.76,no labelled examples,True
+miscitems8,misc items 8,2931,2,2,64876.1,contradictory labels,True
+dips:prepared.salads,Dips: Prepared.salads,5088,0,0,64857.72,no labelled examples,True
+lauliquidcaps,lauliquidcaps,2793,2,2,64818.25,contradictory labels,True
+brkfs-cere,brkfs - cere,1484,0,0,64718.51,no labelled examples,True
+sof-col,sof - col,3117,0,0,64498.5,no labelled examples,True
+chilledrdymls,Chilled rdy mls,1531,0,0,64434.95,no labelled examples,True
+tndveget,TND VEGET,9330,0,0,64374.85,no labelled examples,True
+tifrt,tifrt,3682,4,2,64345.130000000005,contradictory labels,True
+yo.drinks,YO.DRINKS,2537,0,0,64027.83,no labelled examples,True
+pul-grns,PUL-GRNS,9228,0,0,63960.82,no labelled examples,True
+cri-tortcornsncks,CRI-TORTCORNSNCKS,9841,0,0,63907.47,no labelled examples,True
+ciderandstlwate,Cider And Stl Wate,7789,3,2,63724.34,contradictory labels,True
+vegsala,VEG SALA,4782,0,0,63462.329999999994,no labelled examples,True
+butter>butte,Butter > Butte,8993,0,0,63294.97,no labelled examples,True
+nuts-imported,Nuts-Imported,9983,0,0,63078.96,no labelled examples,True
+pasta-sauces,Pasta-sauces,9023,2,2,62953.78,contradictory labels,True
+eggsandnaygrt,EGGS AND NA YGRT,8090,0,0,62950.1,no labelled examples,True
+kitchenro,KITCHEN RO,5181,0,0,62931.74,no labelled examples,True
+porridge&rice,Porridge & Rice,8689,0,0,62769.9,no labelled examples,True
+ckslcsbars/ch,Ckslcsbars/Ch,1365,0,0,62029.56,no labelled examples,True
+brkfs_porridge,BRKFS_PORRIDGE,8689,0,0,61968.88,no labelled examples,True
+mt_beef&lamb,MT_BEEF & LAMB,4045,0,0,61939.41,no labelled examples,True
+roovegetables,ROOVEGETABLES,4584,5,2,61917.03,contradictory labels,True
+spirits>grp3,spirits > Grp 3,9849,0,0,61894.2,no labelled examples,True
+pls.grai,pls.grai,9228,0,0,61887.75,no labelled examples,True
+breakfastce,BREAKFAST CE,8689,0,0,61777.18,no labelled examples,True
+eg,EG,8090,0,0,61672.66,no labelled examples,True
+pot_branded,pot_Branded,9123,0,0,61666.36,no labelled examples,True
+lmb/chilled,lmb/Chilled,2980,0,0,61622.33,no labelled examples,True
+hot>coffee/sqsh,hot > coffee/sqsh,9269,0,0,61450.520000000004,no labelled examples,True
+fr_frshsoup,FR_FRSH SOUP,5607,0,0,61354.5,no labelled examples,True
+pets-pet-care-sub,Pets-Pet-care-Sub,7333,0,0,61303.58,no labelled examples,True
+egs>egs,Egs > Egs,8090,0,0,61205.009999999995,no labelled examples,True
+crsnt-past,Crsnt-past,1416,0,0,61128.200000000004,no labelled examples,True
+beef+sgs,BEEF + SGS,4045,0,0,61127.12,no labelled examples,True
+colaandsqu,COLA AND SQU,3117,2,2,60944.36,contradictory labels,True
+hot.cho,Hot.cho,7773,0,0,60943.96,no labelled examples,True
+green,green,1352,4,2,60910.74,contradictory labels,True
+ts/kids,TS/Kids,9640,0,0,60748.47,no labelled examples,True
+salad/oniongar,salad/onion gar,4782,4,2,60455.08,contradictory labels,True
+desserts_childe,Desserts_Childe,1034,0,0,60150.770000000004,no labelled examples,True
+tis/kitroll,Tis/Kit roll,5181,0,0,60146.52,no labelled examples,True
+ti/grp3,Ti/Grp 3,9640,3,2,60042.31,contradictory labels,True
+frznvege+chippotprodu,FRZNVEGE + CHIP POT PRODU,1458,2,2,59987.909999999996,contradictory labels,True
+frozen-ve,Frozen-ve ,1458,0,0,59882.93,no labelled examples,True
+cookingsauce,COOKING SAUCE,7443,0,0,59791.8,no labelled examples,True
+frshfrshpasta,FRSH FRSH PASTA,8421,0,0,59779.619999999995,no labelled examples,True
+baby>nps-wps,BABY > NPS-WPS,8762,0,0,59723.71,no labelled examples,True
+grapesmelo,GRAPESMELO,8174,0,0,59489.34,no labelled examples,True
+promosummerq4,Promo Summer Q4,1150,2,2,59413.66,contradictory labels,True
+eggs+fruityog,Eggs + Fruit Yog,8090,0,0,59225.79,no labelled examples,True
+fruit:citr-fr,Fruit: Citr-fr,4548,0,0,59218.82,no labelled examples,True
+pies-svrypies,PIES - SVRY PIES,2363,0,0,59207.71,no labelled examples,True
+mtfrme:premrange,Mtfr Me: Prem Range,1238,0,0,59103.13,no labelled examples,True
+flvrdmlk,FLVRD MLK,2033,0,0,58861.77,no labelled examples,True
+tea&hotchoc>local,Tea & Hot choc > Local,4274,4,2,58713.49,contradictory labels,True
+fruyog,FRU YOG,4439,0,0,58670.44,no labelled examples,True
+energy.sprts.drinks,Energy.sprts.drinks,7981,0,0,58566.240000000005,no labelled examples,True
+pasta:lgepk,pasta: lge pk,1565,0,0,58524.08,no labelled examples,True
+nutselect,Nut Select,9983,0,0,58518.83,no labelled examples,True
+rollsbap+fl,ROLLS BAP + FL,4748,0,0,58495.270000000004,no labelled examples,True
+moscns.teacakes/muffinscrmpt,Mo Scns.teacakes/Muffins Crmpt,1150,0,0,57968.950000000004,no labelled examples,True
+fo,FO,3754,0,0,57723.79,no labelled examples,True
+bkng-ingredients,bkng-ingredients,3791,0,0,57631.85,no labelled examples,True
+hot.choc,Hot.choc,7773,0,0,57519.56999999999,no labelled examples,True
+plant-based-drinks+frshmilk,plant-based-drinks + frsh milk,3201,0,0,57428.66,no labelled examples,True
+tabl-sauces/sp,tabl-sauces/sp,2768,3,2,57131.16,contradictory labels,True
+br/wraflatbreads,Br/Wra flatbreads,2674,0,0,56770.4,no labelled examples,True
+sparkling-wat,Sparkling-wat,9396,0,0,56719.58,no labelled examples,True
+fres-frsh.pst,FRES - FRSH.PST,8421,4,2,56716.46,contradictory labels,True
+mt_bf,mt_bf,4045,0,0,56680.05,no labelled examples,True
+pulsesgrain,PULSESGRAIN,2870,0,0,56626.2,no labelled examples,True
+ba:homebakingmxs+pcklscon,BA: HOME BAKING MXS + PCKLS CON,3762,2,2,56549.0,contradictory labels,True
+pulses.grns,PULSES.GRNS,9228,0,0,56542.63,no labelled examples,True
+pasta&pasta,pasta & pasta,1565,0,0,56408.34,no labelled examples,True
+baking/suga/catering,baking/suga/catering,3834,0,0,56217.17,no labelled examples,True
+butter/ext,Butter/Ext,8993,0,0,56180.85,no labelled examples,True
+tinn-veget,TINN-VEGET,9330,0,0,56122.44,no labelled examples,True
+ricericefs,RICE RICE FS,7444,0,0,56047.299999999996,no labelled examples,True
+vege-sld,vege-sld,4782,0,0,55690.58,no labelled examples,True
+dips&prepsalads,DIPS & PREP SALADS,2154,3,2,55667.97,contradictory labels,True
+ntrlyo,Ntrl Yo,7219,0,0,55469.0,no labelled examples,True
+brkfs>prdg,BRKFS > PRDG,1484,0,0,55468.41,no labelled examples,True
+tea:plus,tea: Plus,4274,0,0,55180.3,no labelled examples,True
+shmp-con,Shmp-con,5471,2,2,54900.64,contradictory labels,True
+chees-harchs,chees-har chs,2931,0,0,54838.81,no labelled examples,True
+cakes>cake-slic-bar,CAKES > CAKE-SLIC-BAR,1365,0,0,54774.39,no labelled examples,True
+cakeslbar,Cake sl bar,1365,0,0,54618.77,no labelled examples,True
+pepchil,pep chil,5747,3,2,54464.83,contradictory labels,True
+berriesandgrapesmelon,Berries and Grapes melon,1475,2,2,54393.61,contradictory labels,True
+cak_wholecks/scnstcks,CAK_WHOLE CKS/SCNS TCKS,1501,0,0,54389.82,no labelled examples,True
+torticrnsnacks,Torti crn snacks,8530,3,2,54358.82,contradictory labels,True
+tnd.tmts/bkdbeans,Tnd.tmts/Bkd Beans,2416,0,0,54211.1,no labelled examples,True
+tomatoes,TOMATOES,6663,0,0,54115.79,no labelled examples,True
+porridge/hmbakinmixes,Porridge/Hm Bakin Mixes,8689,0,0,54075.49,no labelled examples,True
+crm>freshcre,CRM > FRESHCRE,7386,2,2,53997.03,contradictory labels,True
+savourybiscu/sa,SAVOURY BISCU/SA,6633,0,0,53953.8,no labelled examples,True
+ch-dsrts&grmln,CH-DSRTS & GR MLN,1034,0,0,53741.47,no labelled examples,True
+hot.ch,HOT.CH,7773,0,0,53732.5,no labelled examples,True
+frznvgtbl,Frzn Vgtbl,1458,0,0,53648.08,no labelled examples,True
+bthrmtoilet,BTHRM TOILET,3743,0,0,53633.47,no labelled examples,True
+tns:tinnedveget,TNS: TINNED VEGET,9330,0,0,53583.53,no labelled examples,True
+crsnt.pastries+svrybisc,CRSNT.PASTRIES + SVRY BISC,1416,0,0,53566.12,no labelled examples,True
+cooksauce,COOK SAUCE,7443,3,2,53478.32,contradictory labels,True
+piessvrypies,PIES SVRYPIES,2363,0,0,53370.62,no labelled examples,True
+onio-garlic,ONIO-GARLIC,4818,3,2,53328.4,contradictory labels,True
+mt_lamb/rangea,Mt_Lamb/Range A,2980,0,0,53183.06,no labelled examples,True
+tins/tinnfrt,TINS/TINN FRT,3682,0,0,53157.77,no labelled examples,True
+scstablescs,Scs Table Scs,7070,0,0,53104.189999999995,no labelled examples,True
+pstsauces,PST SAUCES,9023,0,0,53060.64,no labelled examples,True
+driehrbsspices,Drie Hrbs Spices,6054,0,0,52629.08,no labelled examples,True
+brcereals,BR CEREALS,1484,0,0,52608.2,no labelled examples,True
+soft.cheese+hardche,SOFT.CHEESE + HARD CHE,2931,2,2,52385.72,contradictory labels,True
+pulpulsegrains,Pul Pulsegrains,9228,0,0,52182.240000000005,no labelled examples,True
+frozen/frzn.des,frozen/frzn.des,2500,0,0,52099.91,no labelled examples,True
+bakedbeans,BAKED BEANS,7139,0,0,52048.15,no labelled examples,True
+ntrl.yo,Ntrl.yo,7219,0,0,51760.0,no labelled examples,True
+cnfct:swts,Cnfct: Swts,8522,0,0,51680.5,no labelled examples,True
+chgum+tortillacorsnac-organic,CH GUM + TORTILLA COR SNAC-Organic,5411,2,2,51653.53,contradictory labels,True
+crispsandnts,crisps and nts,4268,0,0,51477.5,no labelled examples,True
+pet.cr,Pet.cr,6111,2,2,51451.990000000005,contradictory labels,True
+frzndes,Frzn Des,2500,0,0,51357.05,no labelled examples,True
+meat-free/family,Meat-free/Family,1238,0,0,51205.54,no labelled examples,True
+fres/fresoup,fres/fresoup,5607,0,0,51159.03999999999,no labelled examples,True
+foofl,foo fl,3754,0,0,51156.89,no labelled examples,True
+sofchs,sof chs,9117,0,0,51018.909999999996,no labelled examples,True
+bak.bns,Bak.bns,3682,2,2,50749.27,contradictory labels,True
+citrusfruit,Citrusfruit,4548,0,0,50633.44,no labelled examples,True
+btrspreads,BTR SPREADS,1464,0,0,50587.06,no labelled examples,True
+frsh.cr,frsh.cr,7386,0,0,50584.32,no labelled examples,True
+surf.cle,surf.cle,2138,0,0,50572.8,no labelled examples,True
+ce,ce,8689,0,0,50444.89,no labelled examples,True
+plandrnks,Plan drnks,5179,0,0,50320.08,no labelled examples,True
+drdfrt,DRD FRT,1093,0,0,50284.29,no labelled examples,True
+baconandsausa,bacon and sausa,5856,0,0,50217.64,no labelled examples,True
+natural-yogurt,natural-yogurt,7219,0,0,49974.229999999996,no labelled examples,True
+enrgy-sports-drnks&whitewine,enrgy-sports-drnks & white wine,7981,0,0,49954.05,no labelled examples,True
+wh.bread,Wh.bread,8297,0,0,49852.95,no labelled examples,True
+freshcream,Freshcream,2033,0,0,49605.93,no labelled examples,True
+brkfs/porridge-value,brkfs/porridge-Value,8689,0,0,49580.97,no labelled examples,True
+sof/squa,sof/squa,4366,0,0,49375.53,no labelled examples,True
+pi.cndmn,Pi.cndmn,9023,0,0,49289.25,no labelled examples,True
+pastapstlgepk,Pasta Pst Lge Pk,1565,0,0,49227.97,no labelled examples,True
+water/sprkl.water,WATER/SPRKL.WATER,9396,0,0,49151.62,no labelled examples,True
+prepared-slds,Prepared-slds,5088,0,0,48925.67,no labelled examples,True
+fabriccndtn,FABRIC CNDTN,4024,0,0,48460.96,no labelled examples,True
+froz-desse,FROZ-DESSE,2500,0,0,48423.08,no labelled examples,True
+picklescndmn,pickles cndmn,9023,0,0,48318.26,no labelled examples,True
+br:cerea,Br: Cerea,8689,0,0,48305.0,no labelled examples,True
+frozen-fsh&prwnsseafo,Frozen-fsh & Prwns seafo,9181,0,0,48302.27,no labelled examples,True
+fish>prawnssfd,Fish > Prawnssfd,5655,0,0,48292.28,no labelled examples,True
+bcn/plus,BCN/Plus,9205,0,0,48272.58,no labelled examples,True
+drieherbsspcs,DRIE HERBS SPCS,6054,0,0,48107.93,no labelled examples,True
+tins_sou,TINS_SOU,2768,0,0,48094.65,no labelled examples,True
+ctrsfr,ctrsfr,1475,0,0,48088.26,no labelled examples,True
+lmb,lmb,2980,0,0,48042.53,no labelled examples,True
+bthrm-tlt,BTHRM-TLT,3743,0,0,48041.6,no labelled examples,True
+cookingscs,COOKING SCS,7443,0,0,47876.66,no labelled examples,True
+spwater,Sp Water,9396,0,0,47830.56,no labelled examples,True
+mrngsconesteacakes,MRNG SCONESTEACAKES,1150,0,0,47418.91,no labelled examples,True
+chpspotatoproducts/frzndesserts,Chpspotatoproducts/Frzn desserts,4761,0,0,47018.14,no labelled examples,True
+porridge>wk,porridge > Wk,8689,0,0,47012.18,no labelled examples,True
+squa,SQUA,4366,0,0,46982.12,no labelled examples,True
+sof-sqsh,sof-sqsh,3117,4,2,46974.03,contradictory labels,True
+milk/plant-baseddrinks,milk/plant-baseddrinks,5179,0,0,46801.3,no labelled examples,True
+tndfish,Tndfish,4718,0,0,46701.21,no labelled examples,True
+cak-ck.slic.brs,Cak-Ck.slic.brs,1365,0,0,46568.21,no labelled examples,True
+croissantspas,Croissants pas,1416,0,0,46471.67,no labelled examples,True
+grapemelo,GRAPE MELO,8174,0,0,46301.28,no labelled examples,True
+chs/cott-chee/flavouredmilk,CHS/COTT-CHEE/FLAVOURED MILK,8737,0,0,46284.03,no labelled examples,True
+by/by-food/carrot,By/By-food/Carrot,8762,0,0,46227.86,no labelled examples,True
+rosspawn,ROS SPA WN,9822,0,0,46158.520000000004,no labelled examples,True
+meat_lamb,Meat_Lamb,2980,0,0,46131.86,no labelled examples,True
+crls-family,crls-Family,1484,0,0,46096.24,no labelled examples,True
+drntorg,Drnt Org,9134,0,0,45926.17,no labelled examples,True
+br-wh-brd,Br-Wh-brd,5363,0,0,45843.380000000005,no labelled examples,True
+laundry/washingpowder+laundryliquidcap,Laundry/Washing powder + Laundry liquid cap,2793,2,2,45802.75,contradictory labels,True
+tablesauces>garlic,table sauces > garlic,7070,0,0,45769.8,no labelled examples,True
+cr_nts&crckr,Cr_Nts & Crckr,9983,0,0,45650.08,no labelled examples,True
+squas,squas,7981,0,0,45413.83,no labelled examples,True
+di/prepasalads,DI/PREPA SALADS,4366,2,2,45355.119999999995,contradictory labels,True
+ktchnro,ktchn ro,5181,2,2,45099.44,contradictory labels,True
+bakingflr,Baking Flr,4977,0,0,45051.4,no labelled examples,True
+skncr,SKN CR,9134,0,0,45025.1,no labelled examples,True
+ice-icecream,Ice - Ice Cream,6425,0,0,45018.32,no labelled examples,True
+sugar,sugar,7788,0,0,44703.04,no labelled examples,True
+hot-cof,Hot-Cof,9269,0,0,44643.1,no labelled examples,True
+me,Me,1238,0,0,44516.93,no labelled examples,True
+cheese-cottagechs,Cheese-Cottage Chs,8737,0,0,44220.700000000004,no labelled examples,True
+crmfreshcrea,Crm Fresh Crea,2033,0,0,44047.69,no labelled examples,True
+nappies.wpsandbabyfd,nappies.wps and baby fd,8762,0,0,43892.799999999996,no labelled examples,True
+cak/whlca,Cak/Whl ca,1501,2,2,43854.479999999996,contradictory labels,True
+petcare/z,pet care/Z,7333,0,0,43586.159999999996,no labelled examples,True
+wht-wine,Wht-wine,1025,0,0,43569.15,no labelled examples,True
+naturalyogu&fruygrt,Naturalyogu & Fru Ygrt,7219,0,0,43482.77,no labelled examples,True
+sqsh_seasonal,sqsh_Seasonal,4366,0,0,43446.91,no labelled examples,True
+tissu/branded,TISSU/Branded,9640,0,0,43133.96,no labelled examples,True
+frreadymls,fr ready mls,3961,0,0,43124.2,no labelled examples,True
+froze-desserts,FROZE-DESSERTS,2500,0,0,43074.78,no labelled examples,True
+de>spec,DE   > Spec,6275,0,0,43040.12,no labelled examples,True
+mtfr,MTFR,1238,0,0,42851.75,no labelled examples,True
+grlcbre,Grlc Bre,6200,0,0,42317.7,no labelled examples,True
+ba/sug,ba/sug,7788,0,0,42299.15,no labelled examples,True
+chlddes+spreads,CHLDDES + SPREADS,1034,2,2,42266.9,contradictory labels,True
+rssparklingwn,RS SPARKLING WN,6670,2,2,42266.78,contradictory labels,True
+enrgysportsdrinks,ENRGYSPORTSDRINKS,7981,0,0,42008.259999999995,no labelled examples,True
+cof_seasonal,COF_Seasonal,9269,0,0,41948.76,no labelled examples,True
+mtfrandorngjc>premrange,MTFR AND ORNG JC > Prem Range,1238,0,0,41877.78,no labelled examples,True
+tns>tinnedto,Tns > Tinned To,2416,0,0,41797.97,no labelled examples,True
+sausages,Sausages,6450,0,0,41403.72,no labelled examples,True
+frozen.fsh,Frozen.fsh,9181,0,0,41216.560000000005,no labelled examples,True
+brwrpsflatbreads&garlicbrd,BR WRPSFLATBREADS & GARLIC BRD,6200,0,0,41188.369999999995,no labelled examples,True
+ygrt-ntrl-yogurt,Ygrt - Ntrl-yogurt,7219,0,0,41169.95,no labelled examples,True
+oils-oil-foodservice,Oils-Oil-Foodservice,7014,4,2,41104.61,contradictory labels,True
+berries/grp2,Berries/Grp 2,1475,3,2,41053.509999999995,contradictory labels,True
+ba&sgs-chilled,ba & sgs-Chilled,9205,0,0,41014.53,no labelled examples,True
+picklesco,Pickles co,9023,0,0,40963.42,no labelled examples,True
+pet.care,Pet.care,6111,0,0,40675.67,no labelled examples,True
+vgtbl>mshrm-core,Vgtbl > Mshrm-Core,8530,3,2,40627.380000000005,contradictory labels,True
+dentalcare,dental care,8449,0,0,40333.51,no labelled examples,True
+beercider,Beer Cider,7789,0,0,40308.63,no labelled examples,True
+crm/frshcream,Crm/Frsh cream,7386,0,0,40239.41,no labelled examples,True
+yogu:yogurdr,yogu: yogur dr,2537,0,0,39134.36,no labelled examples,True
+crsps-nut,Crsps - Nut,9983,0,0,39131.11,no labelled examples,True
+frshsp/le,FRSH SP/LE,5607,0,0,39028.14,no labelled examples,True
+deoandcrls,Deo And Crls,6275,0,0,38866.88,no labelled examples,True
+tbl.scschl,TBL.SCS CHL,7070,0,0,38421.100000000006,no labelled examples,True
+rose.spar.wineandrc,Rose.spar.wine And Rc,9822,0,0,38375.020000000004,no labelled examples,True
+chocobarsorang,CHOCO BARS ORANG,6788,0,0,38177.65,no labelled examples,True
+fruityogur,FRUIT YOGUR,4439,0,0,38077.67,no labelled examples,True
+petca,Pet Ca,7333,0,0,38067.9,no labelled examples,True
+sala,SALA,4782,0,0,37892.47,no labelled examples,True
+chs_sftchee,Chs_Sft Chee,9117,5,2,37577.39,contradictory labels,True
+torol,TO ROL,5181,0,0,37435.89,no labelled examples,True
+frt/citr-fruit,FRT/CITR-FRUIT,4548,0,0,37382.81,no labelled examples,True
+frt-st.frt,FRT - ST.FRT,9644,0,0,37334.88,no labelled examples,True
+shwrbth&fbrccon,Shwr Bth & Fbrc Con,5824,0,0,37245.5,no labelled examples,True
+rosesprklwine,ROSESPRKLWINE,9822,0,0,37127.23,no labelled examples,True
+sa:pickcndmn/prem,SA: PICK CNDMN/Prem,9023,0,0,37104.76,no labelled examples,True
+fsh/sm.fis,FSH/SM.FIS,5970,0,0,36969.73,no labelled examples,True
+so/tinnedto,SO/TINNED TO,2768,3,2,36946.93,contradictory labels,True
+pet-cr,PET-CR,7333,0,0,36848.86,no labelled examples,True
+bread:wholemealbread,BREAD: WHOLEMEALBREAD,5363,0,0,36839.79,no labelled examples,True
+apples.pears+gramelon,Apples.pears + Gra melon,8174,0,0,36778.799999999996,no labelled examples,True
+sauces-pastasauces,Sauces - Pasta Sauces,9535,0,0,36751.9,no labelled examples,True
+wht-brd,Wht-brd,8297,0,0,36697.729999999996,no labelled examples,True
+petcr:sml,Pet Cr: Sml,7333,0,0,36667.96,no labelled examples,True
+pu-grns,Pu-grns,9228,0,0,36356.7,no labelled examples,True
+tintmts,tintmts,2416,0,0,36203.86,no labelled examples,True
+fresh-milk,FRESH-MILK,3201,0,0,36185.48,no labelled examples,True
+tltroll,Tlt Roll,3615,0,0,36140.1,no labelled examples,True
+who.bread,who.bread,5363,0,0,35895.73,no labelled examples,True
+sauc-pcklscondiments,SAUC-PCKLS CONDIMENTS,9023,0,0,35841.02,no labelled examples,True
+frozenvegetables,frozen vegetables,1458,0,0,35819.86,no labelled examples,True
+veget/sala,Veget/Sala,4782,0,0,35396.450000000004,no labelled examples,True
+bacon/smkdfsh,bacon/smkd fsh,5856,0,0,35322.229999999996,no labelled examples,True
+passauces,PAS SAUCES,9535,0,0,35255.96,no labelled examples,True
+fro-desserts,FRO-DESSERTS,2500,0,0,35239.09,no labelled examples,True
+sw,Sw,6788,0,0,35222.61,no labelled examples,True
+sp,sp,1464,0,0,35075.91,no labelled examples,True
+crpstrs,Cr Pstrs,1416,0,0,34955.56,no labelled examples,True
+sconteacakes,Sconteacakes,1150,0,0,34691.1,no labelled examples,True
+cat.foo+petcr,cat.foo + pet cr,6111,0,0,34671.07,no labelled examples,True
+egs:eggs_wk,egs: eggs_Wk,8090,0,0,34641.78,no labelled examples,True
+coo.meats,COO.MEATS,9318,5,3,34625.770000000004,contradictory labels,True
+nut:sub,NUT: Sub,9983,0,0,34563.63,no labelled examples,True
+bakin-ingrd,BAKIN-INGRD,3791,0,0,34553.75,no labelled examples,True
+porr&cere>grp3,PORR & CERE > Grp 3,8689,0,0,34505.52,no labelled examples,True
+beer/cider,beer/cider,7789,0,0,34475.15,no labelled examples,True
+toil.roll,toil.roll,3615,0,0,34153.64,no labelled examples,True
+fre.cre,Fre.cre,2033,2,2,34000.8,contradictory labels,True
+yogu.drinks,YOGU.DRINKS,2537,0,0,33851.33,no labelled examples,True
+prepared.salads,PREPARED.SALADS,2154,2,2,33663.4,contradictory labels,True
+wholecake,Wholecake,1501,0,0,33536.770000000004,no labelled examples,True
+mt/sa,mt/sa,6450,0,0,33301.32,no labelled examples,True
+ice-crm,Ice-crm,6425,0,0,33122.5,no labelled examples,True
+vegetables:tomatoes,VEGETABLES: TOMATOES,6663,0,0,32919.5,no labelled examples,True
+beer>lager&othrjuic,Beer > Lager & Othr Juic,8882,2,2,32806.42,contradictory labels,True
+brea/cer,BREA/CER,1484,0,0,32782.19,no labelled examples,True
+foi:plus,FOI: Plus,3754,0,0,32428.71,no labelled examples,True
+tnd.fruit,TND.FRUIT,3682,0,0,32358.35,no labelled examples,True
+cottage-chees,COTTAGE-CHEES,8737,0,0,32284.53,no labelled examples,True
+btr&sprds_old,btr & sprds_Old,8993,0,0,32094.82,no labelled examples,True
+presalad,PRE SALAD,5088,0,0,31978.3,no labelled examples,True
+cl:surfaclnrs/bathroomto,Cl: Surfaclnrs/Bathroom To,2138,2,2,31757.02,contradictory labels,True
+hot-chocolate,hot-chocolate,7773,2,2,31574.96,contradictory labels,True
+savourybisc&nu,Savourybisc & Nu,6633,0,0,31517.74,no labelled examples,True
+che.gum,CHE.GUM,5411,0,0,31488.54,no labelled examples,True
+pets>pet.care,PETS > PET.CARE,6111,2,2,31327.26,contradictory labels,True
+potatoes,Potatoes,9123,0,0,31181.489999999998,no labelled examples,True
+veget-sld,VEGET-SLD,4782,0,0,31110.07,no labelled examples,True
+chocolatebrs>mint,Chocolate brs > Mint,6788,0,0,31006.149999999998,no labelled examples,True
+sau_tbl-sauce,sau_tbl-sauce,7070,0,0,31001.77,no labelled examples,True
+lndry-laundryliqucapsules,lndry - laundry liqu capsules,2793,0,0,30948.969999999998,no labelled examples,True
+scon-teaca,Scon-teaca,1150,0,0,30701.940000000002,no labelled examples,True
+papertltrl&ktchnrol,PAPER TLTRL & KTCHN ROL,3615,0,0,30439.46,no labelled examples,True
+btr:organic,BTR: Organic,8993,0,0,30152.61,no labelled examples,True
+scstablsauceschilli,Scs Tabl sauces Chilli,7070,0,0,29629.6,no labelled examples,True
+frzn>froze.ready.mls,FRZN > FROZE.READY.MLS,3961,0,0,29577.68,no labelled examples,True
+ygrt>natural.yogurt,YGRT > NATURAL.YOGURT,7219,0,0,29535.15,no labelled examples,True
+dps:prepared-salad,DPS: PREPARED-SALAD,5088,0,0,28635.25,no labelled examples,True
+wasliqu,Was liqu,6643,0,0,28526.31,no labelled examples,True
+cottacheandsftch,COTTACHE AND SFT CH,8737,0,0,28484.55,no labelled examples,True
+bth>sh-bth,Bth > Sh-bth,5824,0,0,28351.53,no labelled examples,True
+squashcore,Squash Core,4366,0,0,28309.36,no labelled examples,True
+fresh-mlk,Fresh-mlk,3201,0,0,28296.66,no labelled examples,True
+tea:family,TEA: Family,4274,0,0,28137.28,no labelled examples,True
+stnfrt,Stn Frt,7245,0,0,28033.04,no labelled examples,True
+salad>lge,salad > Lge,4782,0,0,27865.5,no labelled examples,True
+sugar/sugar,Sugar/Sugar,7788,0,0,27760.21,no labelled examples,True
+chipspotaproducts,Chips pota products,4761,0,0,27503.739999999998,no labelled examples,True
+showebath,SHOWE BATH,5824,0,0,27294.8,no labelled examples,True
+tinned-fruit,TINNED-FRUIT,3682,0,0,27229.5,no labelled examples,True
+tissues,Tissues,9640,0,0,27086.99,no labelled examples,True
+ctrs.frt,ctrs.frt,4548,0,0,27032.079999999998,no labelled examples,True
+washliq,Washliq,6643,0,0,26976.75,no labelled examples,True
+tinstintom,tins tintom,2416,0,0,26886.85,no labelled examples,True
+applpear,Appl Pear,7245,0,0,26798.829999999998,no labelled examples,True
+cider-stdrange,cider - Std Range,7789,0,0,26673.37,no labelled examples,True
+cnfctchewgum,Cnfct Chew Gum,5411,0,0,26670.46,no labelled examples,True
+ctrs-fru,CTRS-FRU,4548,0,0,26627.32,no labelled examples,True
+ice.lollies,ice.lollies,8506,3,2,26516.29,contradictory labels,True
+prdg,prdg,8689,0,0,26347.379999999997,no labelled examples,True
+sugar>catering,sugar > catering,7788,0,0,26233.14,no labelled examples,True
+chgum,CH GUM,5411,0,0,25745.629999999997,no labelled examples,True
+ctrs.fruit,CTRS.FRUIT,4548,0,0,25508.260000000002,no labelled examples,True
+sparklingwate,Sparkling Wate,9396,0,0,25434.39,no labelled examples,True
+dshws>dis.products,DSHWS > DIS.PRODUCTS,5756,0,0,25167.96,no labelled examples,True
+crisp>sw,crisp > sw,4268,0,0,25082.629999999997,no labelled examples,True
+babe,ba be,7139,0,0,25008.16,no labelled examples,True
+fruyogurt,FRUYOGURT,4439,0,0,24846.43,no labelled examples,True
+citrufruit,Citru fruit,4548,0,0,24776.36,no labelled examples,True
+juic>sm,JUIC > SM,6975,0,0,24716.980000000003,no labelled examples,True
+chwng-gum,Chwng-gum,5411,0,0,24697.32,no labelled examples,True
+ntrl.yogu,ntrl.yogu,7219,0,0,24600.17,no labelled examples,True
+yo.drin,YO.DRIN,2537,0,0,24446.35,no labelled examples,True
+na-yogurt,Na-yogurt,7219,0,0,24445.37,no labelled examples,True
+co.che,co.che,8737,0,0,24176.36,no labelled examples,True
+fruit-applpears,fruit - appl pears,7245,0,0,23925.01,no labelled examples,True
+cr_nut,cr_nut,9983,0,0,23729.600000000002,no labelled examples,True
+softsqsh:x,SOFT SQSH: X,4366,0,0,23713.3,no labelled examples,True
+chewing-gum,chewing-gum,5411,0,0,23499.26,no labelled examples,True
+sweets,sweets,6788,0,0,23354.96,no labelled examples,True
+herdri.her.sp,HER DRI.HER.SP,6054,0,0,23329.54,no labelled examples,True
+energy-sports-drnks,energy-sports-drnks,7981,0,0,23220.73,no labelled examples,True
+orangjc,ORANGJC,1919,0,0,22926.92,no labelled examples,True
+dips:preslds,DIPS: PRE SLDS,5088,0,0,22642.100000000002,no labelled examples,True
+natyogurt,NATYOGURT,7219,0,0,22630.949999999997,no labelled examples,True
+whlml.brea,whlml.brea,5363,0,0,22484.18,no labelled examples,True
+smoothies-premrange,Smoothies-Prem Range,6975,0,0,22387.309999999998,no labelled examples,True
+deodo-deod,Deodo - Deod,6275,0,0,22266.28,no labelled examples,True
+rssparwi,Rssparwi,9822,0,0,22181.23,no labelled examples,True
+pape-ts,PAPE-TS,9640,0,0,21842.61,no labelled examples,True
+fresfresh.pasta,Fres Fresh.pasta,8421,0,0,21794.15,no labelled examples,True
+petcare+catfood,Pet Care + Cat Food,6111,0,0,21739.7,no labelled examples,True
+kitchenroll,KITCHEN ROLL,5181,0,0,21697.12,no labelled examples,True
+laund-fbrcco,Laund-Fbrcco,4024,0,0,20949.82,no labelled examples,True
+tnd-toma,TND-TOMA,2416,0,0,20868.02,no labelled examples,True
+wrps.flatb,wrps.flatb,2674,0,0,20638.239999999998,no labelled examples,True
+potat,POTAT,9123,0,0,20553.059999999998,no labelled examples,True
+nappiwipes,Nappiwipes,8762,0,0,20495.2,no labelled examples,True
+baked.bns,Baked.bns,7139,0,0,20456.8,no labelled examples,True
+prwns.seafood,Prwns.seafood,5655,0,0,19904.79,no labelled examples,True
+tinnefru,Tinnefru,3682,0,0,19894.54,no labelled examples,True
+crsps:nuts,Crsps: Nuts,9983,0,0,19627.41,no labelled examples,True
+co.cheese/hardchs,co.cheese/hard chs,8737,0,0,19610.85,no labelled examples,True
+cer-brs,Cer-brs,1093,0,0,19579.3,no labelled examples,True
+cer,Cer,1484,0,0,19459.93,no labelled examples,True
+baco/ext,baco/Ext  ,9205,0,0,19450.649999999998,no labelled examples,True
+cakeslicba,CAKE SLIC BA,1365,0,0,19382.940000000002,no labelled examples,True
+jc:othrju,JC: OTHR JU,8882,0,0,19297.09,no labelled examples,True
+yogurtygrtdrinks,Yogurt Ygrtdrinks,2537,0,0,18962.65,no labelled examples,True
+bakingingredients,bakingingredients,3791,0,0,18707.07,no labelled examples,True
+clean:surfacecleaners,clean: surface cleaners,2138,0,0,18599.2,no labelled examples,True
+spawate,SPAWATE,9396,0,0,18575.260000000002,no labelled examples,True
+sto-fruit,STO-FRUIT,9644,0,0,18545.83,no labelled examples,True
+deodo/deod+showebath,DEODO/DEOD + SHOWE BATH,6275,0,0,18191.27,no labelled examples,True
+wapwdr,WA PWDR,5401,0,0,17811.36,no labelled examples,True
+di-washing-upliqui,DI-WASHING-UP LIQUI,6643,0,0,17787.239999999998,no labelled examples,True
+fruyogur,FRU YOGUR,2537,0,0,17300.41,no labelled examples,True
+dntl-dentacr,DNTL-DENTACR,8449,0,0,17285.64,no labelled examples,True
+sft-energysportsdri,Sft - Energy sports dri,7981,0,0,17225.09,no labelled examples,True
+brcider-rangea,Br Cider - Range A,7789,0,0,16919.96,no labelled examples,True
+re:chilled.rea.meals,RE: CHILLED.REA.MEALS,1531,0,0,16907.61,no labelled examples,True
+crlsmulti,Crls Multi,1484,0,0,16842.86,no labelled examples,True
+frozdesserts,Froz Desserts,2500,0,0,16782.92,no labelled examples,True
+spreads/ol,SPREADS/OL,1464,0,0,16455.3,no labelled examples,True
+butter/spreads,BUTTER/SPREADS,1464,0,0,16163.600000000002,no labelled examples,True
+cider,cider,7789,0,0,16047.72,no labelled examples,True
+ene-sprts-drinks,ene-sprts-drinks,7981,0,0,15813.990000000002,no labelled examples,True
+berr,Berr,1475,0,0,15712.74,no labelled examples,True
+nap-wipes,Nap-wipes,8762,0,0,15709.720000000001,no labelled examples,True
+clng_bthrmtoilet,clng_bthrmtoilet,3743,0,0,15536.619999999999,no labelled examples,True
+frzndesse,Frzn Desse,2500,0,0,15495.439999999999,no labelled examples,True
+cookisauces,cookisauces,7443,0,0,15105.39,no labelled examples,True
+deodo,Deodo,6275,0,0,15034.329999999998,no labelled examples,True
+svry.biscuits,svry.biscuits,6633,0,0,15017.57,no labelled examples,True
+dips>prprd-salad,Dips > Prprd-salad,5088,0,0,14433.89,no labelled examples,True
+meat_lmb,MEAT_LMB,9318,0,0,14270.45,no labelled examples,True
+confectionery:chwnggum,confectionery: chwnggum,5411,0,0,13930.219999999998,no labelled examples,True
+fre-frsh.so,FRE - FRSH.SO,5607,0,0,13843.869999999999,no labelled examples,True
+tmts_wk,TMTS_Wk,6663,0,0,13770.01,no labelled examples,True
+onions-ga,ONIONS-GA,4818,0,0,12975.1,no labelled examples,True
+cakes:whole-cakes,cakes: whole-cakes,1501,0,0,12813.86,no labelled examples,True
+prawnssfd,Prawnssfd,5655,0,0,12748.01,no labelled examples,True
+fl/lgepk,FL/LGE PK,4977,0,0,12662.67,no labelled examples,True
+scs-pickl-cndmn,Scs - Pickl-cndmn,9023,0,0,12649.09,no labelled examples,True
+mi_flavoured.mlk,mi_flavoured.mlk,2033,0,0,12314.13,no labelled examples,True
+pst/catering,PST/CATERING,1565,0,0,12090.130000000001,no labelled examples,True
+ols/oil,OLS/OIL,7014,0,0,11959.86,no labelled examples,True
+frozrdymeals,FROZRDYMEALS,3961,0,0,11728.18,no labelled examples,True
+piccndmn,pic cndmn,9023,0,0,11398.24,no labelled examples,True
+brkfs-crls,Brkfs - Crls  ,1484,0,0,10738.89,no labelled examples,True
+meat,MEAT,1238,0,0,10573.12,no labelled examples,True
+confe-che.gum,confe - che.gum,5411,0,0,10514.8,no labelled examples,True
+frt/apples.pears,Frt/Apples.pears,7245,0,0,10065.83,no labelled examples,True
+rosesparklingwine,rosesparklingwine,9822,0,0,9594.310000000001,no labelled examples,True
+drdhrbsspi,Drd Hrbs Spi,6054,0,0,9448.19,no labelled examples,True
+bkng_sugar,Bkng_Sugar,3834,0,0,8708.2,no labelled examples,True
+hot_cf,HOT_CF,9269,0,0,8667.14,no labelled examples,True
+cid-basic,Cid - Basic,7789,0,0,8538.75,no labelled examples,True
+tin.vgtbl,tin.vgtbl,9330,0,0,8531.09,no labelled examples,True
+bthrmtoile,bthrm toile,3743,0,0,8488.64,no labelled examples,True
+meat-:meat-free,meat-: meat-free,1238,0,0,8484.85,no labelled examples,True
+fd:sndwc,FD: SNDWC,1273,0,0,8262.95,no labelled examples,True
+fruit:grapesmln,fruit: grapes mln,8174,0,0,8227.279999999999,no labelled examples,True
+bre/grlc-brd,BRE/GRLC-BRD,6200,0,0,7947.67,no labelled examples,True
+cola-select,Cola-Select,3117,0,0,7752.820000000001,no labelled examples,True
+foil-lge,FOIL-Lge,3754,0,0,6959.02,no labelled examples,True
+roveget,Ro Veget,4584,0,0,6860.38,no labelled examples,True
+dshwsprodu,Dshws Produ,5756,0,0,6452.219999999999,no labelled examples,True
+tinneveget,Tinneveget,9330,0,0,6201.59,no labelled examples,True
+laundrylicaps,LAUNDRY LI CAPS,2793,0,0,5068.25,no labelled examples,True
+swts,SWTS,6788,0,0,4764.12,no labelled examples,True
+babyfood,baby food,2870,0,0,4335.400000000001,no labelled examples,True
+smokedfsh,SMOKED FSH,5970,0,0,4325.36,no labelled examples,True
+lgr>organic,LGR > Organic,8945,0,0,3407.29,no labelled examples,True
+meaba,Mea Ba,9205,0,0,3293.4,no labelled examples,True
+fro:frznvgtbl,Fro: Frzn vgtbl,1458,0,0,2162.57,no labelled examples,True
+launchesoct,Launches Oct,6788,2,2,0.0,contradictory labels,True
+newlines-pendingjan,New lines - pending Jan,5655,5,3,0.0,contradictory labels,True
+newlinesq3,New Lines Q3,5607,6,4,0.0,contradictory labels,True
+newproductssept,NEW PRODUCTS Sept,5655,4,4,0.0,contradictory labels,True
+newlines-pendingjul,New lines - pending Jul,8882,4,3,0.0,contradictory labels,True
+newlistingsq3,New listings Q3,2674,2,2,0.0,contradictory labels,True
+newlines-pending-chilled,New lines - pending - chilled,1201,4,4,0.0,contradictory labels,True
+newlines,New Lines,2931,6,2,0.0,contradictory labels,True
+newlines-pending,New lines - pending,5747,2,2,0.0,contradictory labels,True
+newproductsq4,NEW PRODUCTS Q4,3903,4,4,0.0,contradictory labels,True
+newlistings-frozen,New listings - frozen,1365,2,2,0.0,contradictory labels,True
+newinq1,New in Q1,2768,2,2,0.0,contradictory labels,True
+newin,New in,6845,6,3,0.0,contradictory labels,True
+newlines-pendingq4,New lines - pending Q4,5856,3,2,0.0,contradictory labels,True
+swe.biscuits-lemo,Swe.biscuits-Lemo,9417,12,1,1025578.5599999999,labelled,False
+bathroomto,bathroomto,3743,11,1,835019.91,labelled,False
+whole-cakes+cakeslicesbars,WHOLE-CAKES + CAKE SLICES BARS,1501,1,1,787779.11,labelled,False
+clng-bathrtoil,Clng-Bathrtoil,3743,10,1,761937.44,labelled,False
+pz,PZ,3903,15,1,726325.31,labelled,False
+yogurt.drnks,yogurt.drnks,2537,15,1,635820.79,labelled,False
+wo/noodles,wo/noodles,4718,3,1,622286.64,labelled,False
+sweets_grp2,Sweets_Grp 2,8522,7,1,544210.22,labelled,False
+morni>cro-past,Morni > Cro-past,1416,3,1,525127.38,labelled,False
+me-rangeb,me-Range B,5088,2,1,525050.53,labelled,False
+promowk33,PROMO WK33,7219,1,1,515388.58999999997,labelled,False
+crsps-crsps,crsps-crsps,4268,8,1,511480.62,labelled,False
+be,Be,4045,8,1,506284.36,labelled,False
+smoothies,Smoothies,6975,5,1,486865.12,labelled,False
+rlsbaps,rls baps,4748,1,1,478121.2,labelled,False
+cakeslcsbar,Cakeslcsbar,1365,2,1,474062.58999999997,labelled,False
+wh-wn,WH-WN,1025,7,1,468056.68,labelled,False
+rose.sp.wine,ROSE.SP.WINE,9822,9,1,463916.11,labelled,False
+tmts,TMTS,6663,8,1,462305.6,labelled,False
+scnsteac,scnsteac,1150,5,1,460995.04000000004,labelled,False
+tivgtbl,ti vgtbl,9330,8,1,454221.58,labelled,False
+tropicalfruit,TROPICAL FRUIT,4632,5,1,450700.47000000003,labelled,False
+apls-pears,Apls-pears,7245,3,1,444173.31,labelled,False
+dishwashing_wshnglqd,dishwashing_wshnglqd,6643,5,1,441324.54,labelled,False
+fd_fl,FD_FL,3754,14,1,438354.13,labelled,False
+lager,LAGER,8945,4,1,430898.39,labelled,False
+bkngingrd,Bkng ingrd,3791,5,1,417345.65,labelled,False
+sq,sq,4366,4,1,414603.36,labelled,False
+bre_cereals,Bre_Cereals,1484,3,1,411689.39,labelled,False
+st-fruit,ST-FRUIT,9644,8,1,411018.01,labelled,False
+by-foo,BY-FOO,1387,4,1,409244.38,labelled,False
+butter,butter,8993,3,1,408392.0,labelled,False
+dipsdips-grp3,Dips Dips-Grp 3,2154,5,1,404988.7,labelled,False
+butt/sprds,Butt/Sprds,1464,2,1,401836.11,labelled,False
+me:me+petcare-export,ME: ME + PET CARE-Export,1238,2,1,392623.27,labelled,False
+tinfrui,TINFRUI,2768,2,1,388633.1,labelled,False
+cakes_wh.cks,Cakes_Wh.cks,1501,9,1,386403.79,labelled,False
+ora-juice,ora-juice,1919,5,1,382332.3,labelled,False
+dishprdct,Dishprdct,5756,1,1,370947.87,labelled,False
+vgtbl-pota,VGTBL-POTA,9123,10,1,368655.78,labelled,False
+cereals/multi,Cereals/Multi,1484,8,1,367558.86,labelled,False
+froze.desserts,FROZE.DESSERTS,2500,4,1,366975.74,labelled,False
+des_chill-dess,des_chill-dess,1034,3,1,359362.56,labelled,False
+cat-food,cat-food,6111,2,1,358886.03,labelled,False
+ric,Ric,7444,6,1,358705.25,labelled,False
+pcklscondiments,pcklscondiments,9023,7,1,358542.38,labelled,False
+whl.ca,Whl.ca,1501,2,1,357717.49,labelled,False
+bluchees,Blu chees,8364,6,1,355673.26,labelled,False
+natural-ygrt,Natural-ygrt,7219,4,1,355654.46,labelled,False
+btr/spr&frmlk,btr/spr & fr mlk,1464,5,1,354541.92,labelled,False
+chldreadymls,CHLD READY MLS,1531,3,1,354335.84,labelled,False
+crsps>crckr,crsps > crckr,8882,1,1,353686.22,labelled,False
+orngjuice,Orngjuice,1919,6,1,345878.76,labelled,False
+co_chewing.gum/spec,co_chewing.gum/Spec,5411,3,1,344835.83999999997,labelled,False
+flr&flo,FLR & FLO,7623,3,1,341156.17,labelled,False
+pckls-cond,PCKLS-COND,9023,2,1,340914.1,labelled,False
+vgtbl-sadeli,VGTBL - SA Deli,4782,4,1,339771.71,labelled,False
+pas-pst_sml,PAS-PST_Sml,1565,3,1,334700.33,labelled,False
+ck-sli-brs,Ck-sli-brs,1365,5,1,332646.2,labelled,False
+confe-sweet,Confe - Sweet,8522,3,1,329428.0,labelled,False
+beef-rangeb,Beef - Range B,4045,6,1,328818.19,labelled,False
+apple.pe,Apple.pe,7245,3,1,324637.29,labelled,False
+garbread,Gar Bread,6200,4,1,323532.01,labelled,False
+smoo,smoo,6975,4,1,320063.55,labelled,False
+dishwasher-prdct,Dishwasher-prdct,5756,3,1,319984.92,labelled,False
+stnfruit,STNFRUIT,9644,8,1,319371.64,labelled,False
+sa,Sa,4782,1,1,315547.18,labelled,False
+dsrts-chlddesse,DSRTS - CHLD DESSE,1034,4,1,311625.99,labelled,False
+but,But,8993,3,1,311176.34,labelled,False
+tin-tndfruit,TIN-TNDFRUIT,3682,3,1,309685.68,labelled,False
+butt,Butt,8993,3,1,308829.56,labelled,False
+toilet-rl,toilet-rl,3615,2,1,306599.67,labelled,False
+spr,Spr,1464,1,1,305424.2,labelled,False
+frt-stnfru,Frt - Stnfru,9644,7,1,303188.74,labelled,False
+wholecks,Wholecks,1501,5,1,303170.65,labelled,False
+sweetsandflr,SWEETS AND FLR,8522,4,1,301158.64,labelled,False
+wrafltbr,Wra fltbr,6200,1,1,300914.03,labelled,False
+svrybiscu+sweetbiscuits,Svrybiscu + Sweet biscuits,9417,1,1,298333.5,labelled,False
+surfa-clnrs,SURFA-CLNRS,2138,3,1,297393.84,labelled,False
+brdwhitbrea,brd whit brea,8297,4,1,295106.45,labelled,False
+squash-grp1,Squash - Grp 1,4366,5,1,294054.05,labelled,False
+dogfd,dog fd,1387,2,1,292962.37,labelled,False
+toiletrl,toiletrl,3615,5,1,292894.71,labelled,False
+tins/bkdbean,Tins/Bkd bean,7139,5,1,292238.46,labelled,False
+tea_select,TEA_Select,4274,5,1,291667.42,labelled,False
+crisps-crackers,Crisps-Crackers,7626,7,1,291468.08,labelled,False
+mt:bac,MT: BAC,9205,6,1,290840.59,labelled,False
+apples-prs,apples-prs,7245,2,1,289628.35,labelled,False
+pr:tisanddshwsprdct,Pr: Tis and Dshws prdct,9640,2,1,288365.86,labelled,False
+cake.slice.bars,cake.slice.bars,9023,1,1,288061.39,labelled,False
+ba-ba.food,Ba-Ba.food,2870,5,1,287203.57,labelled,False
+pape>tissues,Pape > Tissues,9640,1,1,284635.49,labelled,False
+cide,Cide,7789,4,1,283910.23,labelled,False
+fsh/smo-fsh,Fsh/Smo-fsh,5970,3,1,282476.75,labelled,False
+bakedbns,BAKED BNS,7139,1,1,282398.11,labelled,False
+homebakingmxs,Home Baking Mxs,3762,4,1,281882.66,labelled,False
+yogurdrink/frtygrt,YOGURDRINK/FRT YGRT,4439,1,1,280878.88,labelled,False
+cheese-har.cheese,CHEESE - HAR.CHEESE,2931,6,1,280708.04,labelled,False
+tnd-fr,Tnd-fr,3682,2,1,279232.84,labelled,False
+chwnggum-imported,chwng gum - Imported,5411,5,1,276840.29,labelled,False
+dip/dip,DIP/DIP,2154,3,1,276415.51,labelled,False
+br_ci,BR_CI,7789,2,1,275723.21,labelled,False
+so_sqandcola,So_Sq and Cola,4366,1,1,274775.13,labelled,False
+smo.fis,SMO.FIS,5970,10,1,273546.28,labelled,False
+washing-upliqu,WASHING-UP LIQU,6643,5,1,272313.77,labelled,False
+sprklwater,Sprkl Water,7286,2,1,271368.76,labelled,False
+washingpwdr,Washing Pwdr,5401,3,1,271102.83,labelled,False
+pets-catfood,Pets-Cat food,6111,1,1,266869.7,labelled,False
+cdr_pear,Cdr_Pear,7789,3,1,265300.73,labelled,False
+tea>core,Tea > Core,4274,2,1,264014.83,labelled,False
+meat:pork/seasonal,meat: pork/Seasonal,5856,7,1,261433.44,labelled,False
+frzn-pizza,FRZN-PIZZA,3903,4,1,259439.9,labelled,False
+tinned-frt,tinned-frt,3682,4,1,259150.02,labelled,False
+tissues/laundryliquca,tissues/laundry liqu ca,2793,1,1,257186.63,labelled,False
+chillrdyme,chill rdy me,1531,4,1,254809.92,labelled,False
+pls/pulses.gr,Pls/Pulses.gr,9228,8,1,254584.28,labelled,False
+dsrts-chlddess,DSRTS-CHLD DESS,1034,5,1,254397.56,labelled,False
+chps-pota-prdct,CHPS-POTA-PRDCT,4761,2,1,253075.55000000002,labelled,False
+tins/tinntmts,TINS/TINN TMTS,2416,2,1,252548.02,labelled,False
+dips/preparedslds,DIPS/PREPARED SLDS,5088,1,1,251203.64,labelled,False
+energy-spor-dr,Energy-spor-dr,7981,4,1,250862.44999999998,labelled,False
+pckls.cond&drdherbssp,Pckls.cond & Drd Herbs Sp,9023,1,1,249876.75,labelled,False
+pet>petcare,Pet > Pet care,6054,1,1,249741.93,labelled,False
+frshmi,Frshmi,3201,5,1,249486.84,labelled,False
+croispstrs,CROIS PSTRS,1416,2,1,247766.88,labelled,False
+sw&chegum,sw & che gum,8522,1,1,247481.88,labelled,False
+hombakingmixes,HOMBAKINGMIXES,3762,1,1,245967.85,labelled,False
+pastsauce-ba,PAST SAUCE - BA,9535,3,1,245017.25,labelled,False
+tortillacornsnacks,Tortillacornsnacks,9841,3,1,244300.07,labelled,False
+sqsh/org,sqsh/Org,4366,2,1,241666.29,labelled,False
+meat-freemea,MEAT-FREE MEA,1238,2,1,240040.38,labelled,False
+bf,BF,4045,8,1,238531.13,labelled,False
+preparedslds,preparedslds,5088,1,1,238527.77000000002,labelled,False
+che-gum&chocobar,Che-gum & Choco Bar,5411,3,1,237110.76,labelled,False
+dps:lge,DPS: Lge,2154,2,1,234012.28,labelled,False
+dipsdps,DIPS DPS,2154,4,1,233554.64,labelled,False
+potatoesandsld,POTATOES AND SLD,9123,3,1,233525.6,labelled,False
+fo-foil,Fo - Foil,9123,1,1,232306.96000000002,labelled,False
+lndryliquidcpsls,LNDRY LIQUID CPSLS,2793,3,1,232289.85,labelled,False
+tnd-vegetables,TND-VEGETABLES,9330,4,1,231677.5,labelled,False
+ice-crea,Ice-crea,6425,3,1,230176.13999999998,labelled,False
+morningscns-tcks,MORNING SCNS-TCKS,1150,2,1,229734.37,labelled,False
+bacon/lamb,Bacon/Lamb,9205,1,1,229454.97999999998,labelled,False
+scones-teaca,SCONES-TEACA,1150,4,1,229370.72,labelled,False
+fabric.condi,FABRIC.CONDI,4024,5,1,229350.12,labelled,False
+vgtblfreshher,Vgtbl Fresh her,7818,4,1,228900.44999999998,labelled,False
+coffee>rangeb,coffee > Range B,9269,8,1,228572.62,labelled,False
+chilleddesserts,CHILLED DESSERTS,1034,3,1,228473.78,labelled,False
+cnfct-swts,CNFCT-SWTS,8522,5,1,228392.06,labelled,False
+frzn.rdy.mea,FRZN.RDY.MEA,3961,4,1,228146.74,labelled,False
+naturyogu,NATUR YOGU,7219,2,1,226758.7,labelled,False
+bkng-hom-bak-mixes,BKNG-HOM-BAK-MIXES,3762,3,1,226461.29,labelled,False
+chips.pt.products,CHIPS.PT.PRODUCTS,4761,5,1,225545.71,labelled,False
+whit-brd,Whit-brd,8297,6,1,225463.16,labelled,False
+juice:smths,Juice: Smths,6975,5,1,224469.55,labelled,False
+tabl.sa,Tabl.sa,7070,6,1,224086.34,labelled,False
+be+sgs,be + sgs,4045,3,1,223952.72,labelled,False
+pet-care:spec,PET-CARE: Spec,7333,3,1,223890.3,labelled,False
+dogfood,DOG FOOD,1387,6,1,223812.87,labelled,False
+ygrt_yog-drnks,Ygrt_Yog-drnks,2537,1,1,223391.22,labelled,False
+pr>ts,pr > ts,9640,4,1,222948.29,labelled,False
+vgtbl>to,Vgtbl > To,6663,2,1,222884.41,labelled,False
+dishw.prdct,Dishw.prdct,5756,2,1,221205.88,labelled,False
+tinned.frui,tinned.frui,3682,3,1,221049.45,labelled,False
+flou>spec,FLOU > Spec,4977,3,1,220923.63999999998,labelled,False
+crpastr,crpastr,1416,4,1,220540.43,labelled,False
+tins>sou,TINS > SOU,2768,2,1,220296.83,labelled,False
+prwns.seafood+frznfsh,Prwns.seafood + Frzn fsh,9181,1,1,219381.38999999998,labelled,False
+pet-care/y,PET-CARE/Y,7333,10,1,217390.61,labelled,False
+stillwater,Still Water,7286,1,1,217257.0,labelled,False
+ygrt-drnks&natuygrt,YGRT-DRNKS & NATU YGRT,2537,4,1,216486.87,labelled,False
+dntlcr,Dntl cr,8449,8,1,215950.5,labelled,False
+floursml,flour Sml,4977,6,1,215621.32,labelled,False
+dip_dps-rangea,dip_dps - Range A,2154,2,1,214722.53,labelled,False
+bkd-beans,bkd-beans,8191,2,1,214628.28,labelled,False
+crsps-nts,Crsps-Nts,9983,3,1,213107.6,labelled,False
+frsh-pas,FRSH-PAS,8421,4,1,212703.13999999998,labelled,False
+fre:fresh-sou,FRE: FRESH-SOU,5607,1,1,211841.96,labelled,False
+crsntpastries,Crsnt pastries,1416,1,1,211611.7,labelled,False
+flr_main,FLR_Main,4977,2,1,210818.16,labelled,False
+tinnvegetables,TINN VEGETABLES,9330,1,1,209786.64,labelled,False
+juice-smths,JUICE - SMTHS,6975,2,1,209520.27,labelled,False
+chireadymea,Chi ready mea,1531,2,1,207576.83,labelled,False
+hotchocolate,hot chocolate,7773,2,1,207501.24,labelled,False
+tomatoes-prem,TOMATOES-Prem,6663,4,1,206551.08,labelled,False
+bak-sugar,BAK - SUGAR,7788,3,1,205755.56,labelled,False
+bre-wrps.fla,bre-wrps.fla,2674,2,1,205543.09,labelled,False
+promotionsq2,Promotions Q2,1387,1,1,205240.48,labelled,False
+bisc-savobi,Bisc-Savo bi,6633,4,1,204413.77,labelled,False
+tns:tin-tomat,Tns: Tin-tomat,2416,3,1,204385.43,labelled,False
+wrldfoods,wrld foods,1201,3,1,203478.68,labelled,False
+sou,SOU,2768,3,1,202640.61,labelled,False
+hotchclt,hotchclt,7773,3,1,202577.99,labelled,False
+bee,Bee,4045,6,1,202555.05,labelled,False
+whole-cks,Whole-cks,1365,1,1,202333.69999999998,labelled,False
+sauces-pstsau,sauces - pst sau,9535,6,1,202196.17,labelled,False
+ps>savouryps,PS > SAVOURY PS,2363,5,1,200852.15,labelled,False
+savourypiesandwofoods,savourypies and wo foods,1201,1,1,200665.33,labelled,False
+vegto,veg to,6663,3,1,199882.58,labelled,False
+rosesparwine&whitewn,Rose Spar Wine & White Wn,9822,3,1,198958.02,labelled,False
+sconestcks,SCONESTCKS,1150,3,1,198907.55,labelled,False
+otherjuic,other juic,8882,5,1,198809.59999999998,labelled,False
+shampoo-cndtn,SHAMPOO-CNDTN,5471,5,1,198003.50999999998,labelled,False
+fr.herb,Fr.herb,7818,2,1,197765.13,labelled,False
+tins-soup,TINS-SOUP,2768,1,1,197706.63,labelled,False
+crsps:cra,CRSPS: CRA,7626,6,1,196988.94,labelled,False
+ctrsfrt,CTRS FRT,4548,8,1,196733.52,labelled,False
+world_world-foods,WORLD_WORLD-FOODS,1201,1,1,196045.22,labelled,False
+sausa-main,Sausa-Main,6450,4,1,194562.61,labelled,False
+blchs,BLCHS,8364,4,1,194422.44,labelled,False
+onsgarlic,ONS GARLIC,4818,6,1,194282.93,labelled,False
+pets:cat-fd:chic,pets: cat-fd: chic,6111,2,1,194074.17,labelled,False
+nuts-wk,nuts-Wk,9983,3,1,193457.72999999998,labelled,False
+cof,Cof,9269,4,1,192798.4,labelled,False
+cakslbar,CAK SL BAR,1365,1,1,192670.7,labelled,False
+morn_crsntpastries,MORN_CRSNT PASTRIES,1416,3,1,192230.85,labelled,False
+paper-tissues,Paper-Tissues,9640,1,1,192180.65,labelled,False
+bthrmto,BTHRM TO,3743,3,1,192120.45,labelled,False
+frozen.fish,FROZEN.FISH,9181,5,1,191857.59,labelled,False
+squash-premrange,Squash-Prem Range,4366,2,1,190902.7,labelled,False
+fd-foil,Fd - Foil,3754,3,1,190657.63,labelled,False
+sgs,Sgs,6450,2,1,190294.83,labelled,False
+croissantspastr,croissants pastr,1416,1,1,189674.66,labelled,False
+muffinscrandwholecks,Muffins Cr And Whole Cks,9870,1,1,188203.06,labelled,False
+spreads,SPREADS,1464,3,1,187855.66,labelled,False
+wrld-foods,Wrld-foods,1201,4,1,186114.57,labelled,False
+sqanddishwasherprdct,Sq and Dishwasher prdct,4366,3,1,186063.12,labelled,False
+hom-baki-mxs,HOM-BAKI-MXS,3762,4,1,185622.57,labelled,False
+plant-baseddr,Plant-baseddr,5179,3,1,185578.16,labelled,False
+che-gum,CHE-GUM,5411,4,1,185536.28,labelled,False
+chipspotatpr,CHIPSPOTATPR,4761,2,1,184648.94,labelled,False
+crsps/crisps-old,Crsps/Crisps-Old,4268,1,1,182693.63999999998,labelled,False
+crisps:nts,crisps: nts,9983,2,1,182407.62,labelled,False
+pet_catfd>rangec,pet_catfd > Range C,6111,2,1,182391.24,labelled,False
+baking-hmbakingmixes,Baking - Hm Baking Mixes,3762,2,1,181963.86000000002,labelled,False
+mtfr-mtfr,mtfr - mtfr,1238,2,1,181580.03,labelled,False
+pre.slds,Pre.slds,5088,3,1,181041.95,labelled,False
+tins-tinn-tmts,tins - tinn-tmts,2416,2,1,181005.06,labelled,False
+mo-crpastries,mo - crpastries,1416,2,1,180507.69,labelled,False
+stonfrui,Stonfrui,9644,4,1,179959.42,labelled,False
+paper>ti,paper > ti,9640,2,1,179691.77,labelled,False
+tinnedtomatoes,TINNED TOMATOES,2416,2,1,179610.9,labelled,False
+hrbsdrdherbsspcs,HRBS DRD HERBS SPCS,6054,4,1,179277.23,labelled,False
+popcprtzl,POPC PRTZL,4803,1,1,179249.97,labelled,False
+bacon-z,BACON-Z,5856,1,1,179231.7,labelled,False
+deod:drnt,DEOD: DRNT,6275,2,1,179025.66,labelled,False
+redwine>y,RED WINE > Y,6670,5,1,178868.53,labelled,False
+pets>cat-fd,PETS > CAT-FD,6111,1,1,178420.6,labelled,False
+dips:presala,DIPS: PRESALA,5088,2,1,177276.09,labelled,False
+driedfruit,dried fruit,1093,4,1,177224.69,labelled,False
+cere,Cere,1484,1,1,176970.84,labelled,False
+pulses.grainsandbakedbea,PULSES.GRAINS AND BAKED BEA,9228,1,1,176274.05,labelled,False
+stillwtr,Still wtr,7286,4,1,175305.06,labelled,False
+tropi.fruit,TROPI.FRUIT,4632,9,1,175249.23,labelled,False
+baking:sgr,Baking: Sgr,3834,3,1,175246.75,labelled,False
+showerbath>honey,SHOWER BATH > HONEY,5824,2,1,175139.09,labelled,False
+vegetables_tom,Vegetables_Tom,6663,3,1,174894.94,labelled,False
+napp-wps,NAPP-WPS,8762,4,1,174693.83,labelled,False
+energysportsdr,ENERGY SPORTS DR,7981,2,1,173596.06,labelled,False
+enrgy.sports.dr,ENRGY.SPORTS.DR,7981,1,1,173018.59,labelled,False
+crisps-chilled,Crisps - Chilled,4268,4,1,172883.41,labelled,False
+baking-ing,BAKING-ING,3791,2,1,172597.52,labelled,False
+chilled-rdy-mls,chilled-rdy-mls,1531,2,1,172573.41,labelled,False
+ba-ingrd,Ba-ingrd,3791,1,1,172269.6,labelled,False
+bkng-su,bkng-su,7788,4,1,171975.35,labelled,False
+chi-desserts,Chi-desserts,1034,2,1,171155.3,labelled,False
+table-sauces:chilli,Table-sauces: Chilli,7070,4,1,170794.29,labelled,False
+soup_basic,Soup_Basic,2768,6,1,170738.1,labelled,False
+tltro,tlt ro,3615,3,1,170525.9,labelled,False
+cak.slices.bars,Cak.slices.bars,1365,2,1,170308.81,labelled,False
+fish>pr-seafood,Fish > Pr-seafood,5655,3,1,170113.74,labelled,False
+wine_red.wn,Wine_Red.wn,6670,3,1,169831.71,labelled,False
+tndtmts,TND TMTS,2416,1,1,169828.56,labelled,False
+frsh.herbs,frsh.herbs,7818,5,1,169758.65,labelled,False
+tomat_lge,tomat_Lge,6663,2,1,169709.30000000002,labelled,False
+homebkngmixes,Home bkng mixes,4977,1,1,169488.93,labelled,False
+di-wshngliq,DI - WSHNG LIQ,6643,1,1,169385.46,labelled,False
+hot_tea,HOT_TEA,4274,1,1,169381.41,labelled,False
+chld-rea-mea,Chld-rea-mea,1531,1,1,169290.45,labelled,False
+bee:lager/value,bee: lager/Value,7789,2,1,168647.31,labelled,False
+dog-food+nappieswipe,DOG-FOOD + NAPPIES WIPE,4632,2,1,168127.9,labelled,False
+sld,Sld,4782,1,1,168125.71,labelled,False
+wraps-fltbr,wraps-fltbr,2674,3,1,167730.41,labelled,False
+baki-bkngingrd,Baki - Bkng Ingrd,3791,4,1,167579.19,labelled,False
+sausagesimp,SAUSAGES Imp,6450,3,1,167298.73,labelled,False
+surfacl,SURFACL,2138,1,1,165741.57,labelled,False
+prwnsseafood,PRWNSSEAFOOD,5655,5,1,165245.3,labelled,False
+cr,CR,4268,2,1,165025.80000000002,labelled,False
+yog-drnks,yog-drnks,2537,1,1,164388.29,labelled,False
+pickcondi,PICK CONDI,9023,2,1,164216.68,labelled,False
+svrybiscuits,svry biscuits,6633,1,1,163883.81,labelled,False
+pls.grns,pls.grns,9228,2,1,163266.11,labelled,False
+petscatfood-kids,Pets Catfood - Kids,6111,2,1,162807.48,labelled,False
+dips>dips,DIPS > DIPS,2154,4,1,162735.68,labelled,False
+wate>stlwtr,Wate > Stlwtr,7286,2,1,162349.45,labelled,False
+chipspotapro,CHIPSPOTAPRO,4761,2,1,161659.4,labelled,False
+tns/titmts,Tns/Ti Tmts,2416,2,1,161654.79,labelled,False
+fro.dess,Fro.dess,2500,5,1,161644.86000000002,labelled,False
+fish-froze-fsh,FISH - FROZE-FSH,9181,5,1,161512.85,labelled,False
+crl.bars,CRL.BARS,9978,3,1,161324.18,labelled,False
+wtr/spawater,Wtr/Spa water,9396,3,1,161169.72,labelled,False
+cerealsmulti,Cereals Multi,1484,3,1,160772.35,labelled,False
+pa-tltrol,PA-TLTROL,5181,1,1,160507.51,labelled,False
+hardchs,HARD CHS,2931,2,1,160407.13,labelled,False
+ci,CI,7789,1,1,160260.4,labelled,False
+pcrnpr,PCRN PR,4803,2,1,159818.16,labelled,False
+orng.jui,ORNG.JUI,1919,4,1,159626.52,labelled,False
+tns_tndveget,TNS_TND VEGET,9330,2,1,159201.91,labelled,False
+hard.chee,hard.chee,2931,1,1,159027.63999999998,labelled,False
+bread/wrpsfltbr,Bread/Wrpsfltbr,2674,3,1,158458.89,labelled,False
+porri,Porri,8689,3,1,158171.31,labelled,False
+cleaning:su-cleaners,CLEANING: SU-CLEANERS,2138,2,1,157569.55,labelled,False
+chpoproducts,ch po products,4761,3,1,157172.86,labelled,False
+morning>croissantspstrs,morning > croissants pstrs,1416,3,1,157121.96,labelled,False
+nps-wipes,nps-wipes,8762,4,1,157104.82,labelled,False
+ba.ingrdandsugar,BA.INGRD AND SUGAR,7788,1,1,156423.74,labelled,False
+frshcrm,frsh crm,7386,4,1,156036.63,labelled,False
+world.foods,World.foods,1201,2,1,155924.16,labelled,False
+tabl-saucesgrlc,TABL-SAUCES GRLC,7070,2,1,155454.28,labelled,False
+yogu.drnks,Yogu.drnks,2537,2,1,154497.71,labelled,False
+redwin,red win,6670,4,1,154286.41,labelled,False
+fresh-hrbs,FRESH-HRBS,7818,2,1,153128.02,labelled,False
+prsch,PRS CH,5747,3,1,153056.47,labelled,False
+mt_beef,Mt_Beef,4045,2,1,152714.16,labelled,False
+juice/smoothies,JUICE/SMOOTHIES,6975,1,1,152688.36000000002,labelled,False
+tablsauces,Tabl sauces,7070,3,1,151646.13999999998,labelled,False
+tins_soup,TINS_SOUP,2768,1,1,151574.73,labelled,False
+tablesaucesga,tablesauces ga,7070,3,1,151545.36000000002,labelled,False
+othr-juices,othr-juices,8882,7,1,151459.51,labelled,False
+pets/petcare,PETS/PET CARE,7333,4,1,151139.09,labelled,False
+frozen/froze-vgtbl,frozen/froze-vgtbl,1458,1,1,151036.85,labelled,False
+chilledrdymeals,CHILLED RDY MEALS,1531,5,1,151025.13,labelled,False
+cri/nuts,Cri/Nuts,9983,2,1,150615.45,labelled,False
+ice/icecr-basic,ICE/ICE CR - Basic,6425,3,1,150528.22999999998,labelled,False
+tnstinnedtomat,Tns Tinnedtomat,2416,1,1,150254.72,labelled,False
+eggs,eggs,8090,1,1,150225.36,labelled,False
+tea-y,Tea - Y,4274,2,1,150020.29,labelled,False
+onionsgrlc,onionsgrlc,4818,9,1,149510.57,labelled,False
+hot_hotchclt,hot_hot chclt,7773,2,1,149480.4,labelled,False
+stonefr,STONE FR,9644,4,1,149280.36,labelled,False
+featurespacewk42,Feature space WK42,9278,2,1,148763.86000000002,labelled,False
+cf,Cf,9269,4,1,148333.61,labelled,False
+misc.(old),Misc. (old),7219,1,1,148018.45,labelled,False
+babfd,Babfd,2870,2,1,147941.93,labelled,False
+citrus-frt,Citrus-frt,4548,1,1,147900.57,labelled,False
+wrldfood,Wrld food,1201,3,1,147810.15,labelled,False
+mt>por,Mt > Por,5856,3,1,147245.03,labelled,False
+bkdbe,Bkd Be,7139,6,1,146829.43,labelled,False
+crsnt-pstrs,Crsnt-pstrs,1416,4,1,146782.35,labelled,False
+hrbs>drdherbsspice,HRBS > DRD HERBS SPICE,6054,4,1,146565.4,labelled,False
+chipspotatpro,CHIPS POTAT PRO,4761,2,1,146284.38999999998,labelled,False
+fabr.con,FABR.CON,4024,4,1,145941.88,labelled,False
+breakfast_cereals,Breakfast_Cereals,1484,4,1,145612.09,labelled,False
+napp.wip,NAPP.WIP,8762,1,1,144805.47,labelled,False
+soft/cola,SOFT/COLA,3117,5,1,144408.98,labelled,False
+pet.cr>wk,PET.CR > Wk,7333,1,1,144346.66,labelled,False
+hottea,HOT TEA,4274,2,1,144040.24,labelled,False
+tinn-vege,TINN-VEGE,9330,4,1,143802.41999999998,labelled,False
+frzn.fsh,FRZN.FSH,9181,3,1,143792.56,labelled,False
+food/foi,Food/Foi,3754,5,1,143604.51,labelled,False
+salad>value,SALAD > Value,4782,2,1,143562.54,labelled,False
+ba_shwrbath,BA_SHWR BATH,5824,5,1,142906.37,labelled,False
+freshsp,freshsp,5607,4,1,142696.34,labelled,False
+dip>swee,Dip > Swee,2154,2,1,142439.76,labelled,False
+tinnedvgtbl,TINNED VGTBL,9330,2,1,142250.51,labelled,False
+crisps-nuts_std,crisps-nuts_Std,9983,3,1,142115.59,labelled,False
+paper:tlt.rl,PAPER: TLT.RL,5181,1,1,142077.04,labelled,False
+meat--meat-,MEAT--MEAT-,1238,3,1,141917.87,labelled,False
+savopie,SAVO PIE,2363,4,1,141749.68,labelled,False
+napp.wipes,NAPP.WIPES,8762,1,1,141568.02,labelled,False
+frozdesse,FROZ DESSE,2500,2,1,140693.66,labelled,False
+mshrm,MSHRM,8530,3,1,140398.11,labelled,False
+bread>wrpsfltbrandto,bread > wrpsfltbr and to,2674,1,1,140355.23,labelled,False
+hotcho,Hot cho,7773,4,1,140305.93,labelled,False
+tifruit,TI FRUIT,3682,2,1,139702.45,labelled,False
+flo,Flo,4977,2,1,139176.13,labelled,False
+fabriccondi,Fabriccondi,4024,2,1,138975.44,labelled,False
+pts,pts,9123,1,1,138652.07,labelled,False
+nuts-value,NUTS - Value,9983,1,1,137638.27,labelled,False
+deod_deodorant,Deod_Deodorant,9134,1,1,137631.44,labelled,False
+natu-yogurandhrdchs,natu-yogur and hrd chs,2931,1,1,136137.87,labelled,False
+pet-ca,PET-CA,7333,4,1,135482.61000000002,labelled,False
+petcarelocal,PETCARE Local,7333,3,1,135163.29,labelled,False
+promotionsq1,Promotions Q1,4803,1,1,134873.89,labelled,False
+babyfo,baby fo,2870,1,1,134596.79,labelled,False
+frsh-pst,Frsh-pst,8421,4,1,134590.91999999998,labelled,False
+dentacr,dentacr,8449,2,1,134469.54,labelled,False
+confectionery_chocolate.bar,CONFECTIONERY_CHOCOLATE.BAR,6788,2,1,134455.87,labelled,False
+batshower-bth&rc,Bat Shower-bth & Rc,9134,1,1,134252.59,labelled,False
+whitbrd,Whit brd,8297,2,1,133499.64,labelled,False
+hot.chclt,hot.chclt,7773,2,1,133454.23,labelled,False
+lmb+chckn,LMB + CHCKN,2980,1,1,133425.5,labelled,False
+sconesteacakes,SCONES TEACAKES,9870,1,1,133224.55,labelled,False
+enrgy-sports-dri,enrgy-sports-dri,7981,3,1,132900.4,labelled,False
+biscuits-savbiscandswtbscts,BISCUITS-SAV BISC AND SWT BSCTS,6633,4,1,132186.49,labelled,False
+pets-petcare,pets-pet care,7333,3,1,131755.21,labelled,False
+by.food,By.food,2870,2,1,131127.97,labelled,False
+tinnedfr,TINNEDFR,3682,1,1,130815.49,labelled,False
+la:lndry.liqui.capsu,la: lndry.liqui.capsu,2793,1,1,130687.61,labelled,False
+saandgrapesme,SA AND GRAPES ME,4782,1,1,130680.55,labelled,False
+savpies,Sav pies,2363,1,1,130434.56999999999,labelled,False
+worfds,worfds,1201,2,1,130395.31,labelled,False
+ce/seasonal,ce/Seasonal,1484,2,1,130366.43,labelled,False
+citr.fruit,CITR.FRUIT,4548,4,1,130140.54000000001,labelled,False
+srfc-clean,Srfc-clean,2138,6,1,129627.42,labelled,False
+fresh-soup,FRESH-SOUP,5607,1,1,129324.11,labelled,False
+tns/tndtomatoes,TNS/TNDTOMATOES,2416,3,1,129308.88,labelled,False
+yogur-drinks,Yogur-drinks,2537,1,1,129007.85,labelled,False
+smkdfis,SMKD FIS,5970,4,1,128939.54,labelled,False
+morning/sconestea,morning/sconestea,1150,1,1,128542.81999999999,labelled,False
+cakes-whcak,CAKES-WHCAK,1501,2,1,128400.95,labelled,False
+frozreadymeals,Froz Ready Meals,3961,1,1,128370.08,labelled,False
+dishpr,DISH PR,5756,5,1,128171.21,labelled,False
+soup,soup,7139,2,1,128081.12,labelled,False
+baco>local,Baco > Local,9205,1,1,127719.91,labelled,False
+pi-condiments,Pi-condiments,9023,2,1,127656.25,labelled,False
+su,SU,7788,2,1,127316.34999999999,labelled,False
+applespe,Apples Pe,7245,2,1,127271.87999999999,labelled,False
+fruit.yogu,fruit.yogu,4439,4,1,127108.61,labelled,False
+eg:x,EG: X,8090,1,1,126929.13,labelled,False
+dental-care/single,Dental-care/Single,8449,5,1,126855.47,labelled,False
+cott-cheese,COTT-CHEESE,8737,3,1,126719.2,labelled,False
+enespdrinks,ENESPDRINKS,7981,4,1,126600.49,labelled,False
+mtfr-meat,Mtfr - Meat,1238,3,1,126589.38,labelled,False
+rovgtbl,Rovgtbl,4584,1,1,126561.07,labelled,False
+frtberri&citrfruit,FRT BERRI & CITR FRUIT,1475,3,1,126544.18000000001,labelled,False
+egg:eggs,Egg: Eggs,8090,5,1,126435.22,labelled,False
+bakbeans,BAK BEANS,3682,1,1,126077.25,labelled,False
+ice-cre,ICE-CRE,6425,2,1,125290.79000000001,labelled,False
+meat-,MEAT-,1238,4,1,124983.2,labelled,False
+crsps:nut/sub,CRSPS: NUT/Sub,9983,1,1,124652.19,labelled,False
+ygrtdrnks,Ygrt drnks,2537,1,1,124538.86,labelled,False
+by-nps-wip,By-Nps-wip,8762,4,1,124404.21,labelled,False
+tinnfsh,TINN FSH,8191,2,1,123804.7,labelled,False
+meat/baco-premrange,MEAT/BACO - Prem Range,9205,1,1,123615.06,labelled,False
+butter_buwk,Butter_Bu Wk,8993,1,1,123439.5,labelled,False
+cookedmts,COOKED MTS,9318,4,1,123148.81,labelled,False
+melamb,Me Lamb,2980,2,1,122893.35,labelled,False
+freshcr,FRESH CR,7386,1,1,122185.68,labelled,False
+nu+crisps,NU + CRISPS,9983,1,1,121941.64,labelled,False
+saucepickcndmn,SAUCE PICK CNDMN,9023,3,1,121892.22,labelled,False
+lamdeli,LAM Deli,2980,2,1,121477.53,labelled,False
+icecrm>grp1,ice crm > Grp 1,6425,3,1,121106.68,labelled,False
+chlddesserts,CHLD DESSERTS,1034,1,1,121019.48,labelled,False
+natural.yog,Natural.yog,7219,1,1,120413.97,labelled,False
+mea/sausa,Mea/Sausa,6450,1,1,120411.93000000001,labelled,False
+biscuits_savo-biscuits,Biscuits_Savo-biscuits,6633,1,1,120365.63,labelled,False
+drihespices,DRI HE SPICES,6054,2,1,120305.56999999999,labelled,False
+meat-freesml,MEAT-FREE Sml,1238,4,1,120190.06,labelled,False
+cereals_std,Cereals_Std,1484,2,1,120029.09,labelled,False
+brkfs-cereals,Brkfs - Cereals,1484,2,1,119263.01000000001,labelled,False
+fro_frzndsrts,FRO_FRZN DSRTS,2500,2,1,118962.35,labelled,False
+lachilled,LA Chilled,5824,1,1,118894.36,labelled,False
+tns/sp,Tns/Sp,2768,1,1,118776.1,labelled,False
+savourybiscuits,SAVOURYBISCUITS,6633,1,1,118772.81,labelled,False
+vegetables:tomat,VEGETABLES: TOMAT,6663,1,1,118668.29,labelled,False
+chidsrts,Chi dsrts,1034,1,1,118617.84,labelled,False
+vegetables_salad/grp1,VEGETABLES_SALAD/Grp 1,4782,3,1,118607.48,labelled,False
+chocolatebrs:ora,CHOCOLATE BRS: ORA,6788,3,1,118410.17,labelled,False
+croispastries,Crois pastries,1416,3,1,118210.3,labelled,False
+ri/lgepk,RI/LGE PK,7444,1,1,118151.3,labelled,False
+washing-up-lqd:lime,Washing-up-lqd: Lime,6643,1,1,118080.08,labelled,False
+croissantspastries,croissants pastries,1416,3,1,118057.33,labelled,False
+wn_rose.sprkl.wn,Wn_Rose.sprkl.wn,9822,2,1,117982.91,labelled,False
+picklescondiments,Picklescondiments,9023,1,1,117704.98,labelled,False
+dps,Dps,5088,1,1,117377.53,labelled,False
+but-seasonal,BUT-Seasonal,8993,1,1,116879.63,labelled,False
+oilstd,Oil Std,7014,1,1,116860.37,labelled,False
+frofsh,Fro Fsh,9181,2,1,116817.93000000001,labelled,False
+sgsandch,SGS AND CH,8449,1,1,116700.25,labelled,False
+brd-whlml-brea,BRD-WHLML-BREA,5363,3,1,116630.90000000001,labelled,False
+icelollies,ICE LOLLIES,8506,4,1,116206.68000000001,labelled,False
+fruityogurt,FRUIT YOGURT,4439,5,1,116180.02,labelled,False
+nappies-wipes,NAPPIES-WIPES,8762,2,1,115999.01999999999,labelled,False
+cak-slcs-bars,CAK-SLCS-BARS,1365,1,1,115929.18,labelled,False
+pickles-condi,PICKLES-CONDI,9023,1,1,115545.53,labelled,False
+by.food+dogfoo,By.food + Dog Foo,2870,1,1,115492.66,labelled,False
+meat/sausages,meat/sausages,6450,3,1,115055.15,labelled,False
+rosespawine,ROSE SPA WINE,9822,1,1,114534.2,labelled,False
+prawnssfd+smofis,Prawns Sfd + Smo Fis,5655,2,1,114478.89,labelled,False
+pls-pulse.grns,Pls - Pulse.grns,9228,1,1,114328.72,labelled,False
+wo/nood,wo/nood,4718,1,1,114224.26,labelled,False
+trtlcorsnacks,trtl cor snacks,8522,1,1,114097.6,labelled,False
+tnstndtomatoes,tns tnd tomatoes,2416,1,1,113985.84,labelled,False
+dishwashing-dishwasherprandongarlic,Dishwashing - Dishwasher pr and On garlic,5756,1,1,113660.68,labelled,False
+nood:rangeb,NOOD: Range B,4718,2,1,113625.92,labelled,False
+pr:tiss,PR: TISS,9640,1,1,113230.18,labelled,False
+wraps-fl,wraps-fl,2674,1,1,112874.31,labelled,False
+wht.brea,Wht.brea,8297,1,1,112757.49,labelled,False
+egegs,Eg Egs,8090,2,1,112489.15,labelled,False
+soft-squa,SOFT - SQUA,4366,1,1,112316.79000000001,labelled,False
+dips,DIPS,2154,2,1,111746.43,labelled,False
+veget>fresh-herbs,Veget > Fresh-herbs,7818,3,1,111688.70000000001,labelled,False
+cks_cakeslbars,Cks_Cake Sl Bars,1365,2,1,111620.5,labelled,False
+fres:freshsp,fres: fresh sp,5607,1,1,111503.55,labelled,False
+coff,COFF,9269,1,1,111140.91,labelled,False
+cheese/cochs,Cheese/Cochs,8737,1,1,111081.06999999999,labelled,False
+yogurtdr,yogurt dr,2537,2,1,110506.84,labelled,False
+enrgysportsdrnks,Enrgy Sports Drnks,7981,2,1,110179.26000000001,labelled,False
+ch.dsrts/naturalygrt,Ch.dsrts/Natural Ygrt,7219,1,1,110025.57,labelled,False
+chips-po-prod,Chips-po-prod,4761,1,1,109809.31,labelled,False
+crisps/nuts,crisps/nuts,9983,3,1,109709.14,labelled,False
+savops,SAVOPS,2363,1,1,108986.41,labelled,False
+cottcheese,Cottcheese,8737,1,1,108765.55,labelled,False
+mea-bacon,mea-bacon,9205,1,1,108482.09,labelled,False
+pupulsesgrai,Pu Pulses grai,9228,1,1,108367.28,labelled,False
+ti-frt,TI-FRT,3682,2,1,108174.48,labelled,False
+frozen-de,FROZEN-DE,2500,1,1,108163.36,labelled,False
+egs,Egs,8090,1,1,107700.48000000001,labelled,False
+mtsausages,MT SAUSAGES,6450,1,1,107647.25,labelled,False
+cak>ckslicesbar,cak > ck slices bar,1365,6,1,107631.11,labelled,False
+drherbsspcs,Dr Herbs Spcs,6054,5,1,107472.42,labelled,False
+mtfr/meat-free,MTFR/MEAT-FREE,1238,3,1,107308.38,labelled,False
+chpsptprdct,CHPS PT PRDCT,4761,2,1,107182.44,labelled,False
+clean-bthrmtoi,CLEAN-BTHRM TOI,3743,1,1,107027.92,labelled,False
+rose-sprkl-wn,ROSE-SPRKL-WN,9822,2,1,106955.28,labelled,False
+yogurt-drnks,Yogurt-drnks,2537,2,1,106917.27,labelled,False
+cr-crisps,CR - CRISPS,4268,3,1,106863.88,labelled,False
+ptscatfood,Pts Cat food,6111,2,1,106795.02,labelled,False
+hmbakinmixes,HMBAKINMIXES,3762,1,1,106704.0,labelled,False
+stone.frui,Stone.frui,9644,1,1,106517.27,labelled,False
+ba/shobath,Ba/Sho Bath,5824,3,1,106459.95999999999,labelled,False
+tns>sp,tns > sp,2768,1,1,106152.9,labelled,False
+icecr,Icecr,6425,6,1,106094.89,labelled,False
+ygrt_natur.ygrt,YGRT_NATUR.YGRT,7219,2,1,105982.51,labelled,False
+tinned.vegetables,tinned.vegetables,9330,1,1,105960.4,labelled,False
+sapi,SA PI,2363,4,1,105665.57,labelled,False
+bkngsugar:grp2,bkng sugar: Grp 2,7788,1,1,105608.84,labelled,False
+butterbutterandspreads,Butter Butter And Spreads,8993,2,1,105487.94,labelled,False
+mil_flavo-milk_strawberry,MIL_FLAVO-MILK_STRAWBERRY,2033,5,1,105280.42,labelled,False
+crl-brs,crl-brs,9978,1,1,105262.0,labelled,False
+dpsdips,DPS DIPS,2154,3,1,105035.05,labelled,False
+hot>tea>ambient,Hot > Tea > Ambient,4274,4,1,104972.54,labelled,False
+toiroll,Toiroll,3615,2,1,104919.8,labelled,False
+enrgy-spor-drin,enrgy-spor-drin,7981,1,1,104680.31,labelled,False
+whitebrea,WHITEBREA,8297,1,1,104598.72,labelled,False
+savoury-ps,Savoury-ps,2363,3,1,104597.07,labelled,False
+confsw,CONF SW,8522,1,1,104572.44,labelled,False
+prepared-slds+frespst,Prepared-slds + Fres pst,8421,1,1,104463.8,labelled,False
+laundryliquicap,LAUNDRYLIQUICAP,2793,1,1,104374.7,labelled,False
+cdr,Cdr,7789,4,1,104327.09,labelled,False
+tinned.tomatoes_rangea,TINNED.TOMATOES_Range A,2416,2,1,104280.51000000001,labelled,False
+baconrangeb,BACON Range B,9205,1,1,104082.78,labelled,False
+appleprs+citrusfrt,Appleprs + Citrus Frt,4548,1,1,104044.04,labelled,False
+frtyogurt,FRT YOGURT,7219,2,1,104007.35,labelled,False
+fre-milk,Fre-milk,3201,3,1,103665.15000000001,labelled,False
+brwht-brd,BR WHT-BRD,8297,1,1,103632.06,labelled,False
+bak-sgr,bak - sgr,7788,1,1,103605.08,labelled,False
+svrypies+laundryliquidcaps,SVRY PIES + LAUNDRY LIQUID CAPS,2793,2,1,103589.0,labelled,False
+sparwater,Sparwater,9396,2,1,103411.86,labelled,False
+alestout,ALE STOUT,6845,2,1,103314.38,labelled,False
+sugar>fs,Sugar > FS,3834,3,1,103112.16,labelled,False
+hot_tea_sml,Hot_Tea_Sml,4274,5,1,103104.91,labelled,False
+tinn.tomatoes,Tinn.tomatoes,2416,1,1,103020.34,labelled,False
+swtbscts,Swt Bscts,9417,4,1,103007.84,labelled,False
+noodles,Noodles,4718,1,1,103000.82,labelled,False
+confectionery-chewinggum,CONFECTIONERY-CHEWINGGUM,5411,5,1,102852.63,labelled,False
+rice,Rice,7444,4,1,102806.16,labelled,False
+cereals,CEREALS,1484,1,1,102481.97,labelled,False
+porridge,Porridge,8689,4,1,102274.25,labelled,False
+so-squas&spiri,SO - SQUAS & SPIRI,9849,1,1,102205.63,labelled,False
+srfccl/bathrtoile,SRFCCL/BATHR TOILE,2138,1,1,102204.54,labelled,False
+stiwater,sti water,7286,5,1,102123.46,labelled,False
+egg>eggs,EGG > EGGS,8090,2,1,102018.53,labelled,False
+ski-care,Ski-care,9134,2,1,101787.08,labelled,False
+pldrink,PL DRINK,5179,3,1,101781.5,labelled,False
+tin.frt,TIN.FRT,3682,1,1,101751.37000000001,labelled,False
+coffee,COFFEE,9269,3,1,101746.04000000001,labelled,False
+tinnedvegetables,TINNED VEGETABLES,9330,1,1,101699.58,labelled,False
+fresh.cr/chipspotatopr,FRESH.CR/CHIPS POTATO PR,7386,2,1,101548.84,labelled,False
+tablesau,table sau,7070,2,1,101536.87,labelled,False
+mtfr_mtfr_prem,mtfr_mtfr_Prem,1238,3,1,101462.55,labelled,False
+spa.wtr,spa.wtr,9396,2,1,101448.04000000001,labelled,False
+fruit/ber/ext,FRUIT/BER/Ext,1475,1,1,101395.24,labelled,False
+shconditioner,SH CONDITIONER,5471,5,1,101254.54,labelled,False
+hot>hotchoco,HOT > HOT CHOCO,7773,3,1,101121.26000000001,labelled,False
+ntrlyogurt,NTRL YOGURT,7219,2,1,101095.77,labelled,False
+dess>chilledde,dess > chilled de,1034,3,1,100956.01,labelled,False
+oniogarl,oniogarl,4818,4,1,100789.96,labelled,False
+diprodu,Di Produ,5756,1,1,100619.5,labelled,False
+garlibre,GARLI BRE  ,6200,1,1,100489.28,labelled,False
+surclnrs,SUR CLNRS,2138,1,1,100421.70999999999,labelled,False
+fryogurt,Fr yogurt,4439,2,1,100311.11,labelled,False
+ch-ba,CH-BA,6788,4,1,100247.7,labelled,False
+enersprtsdrin,ener sprts drin,7981,1,1,100008.15,labelled,False
+bre-ga.brd,BRE-GA.BRD,6200,2,1,99950.20999999999,labelled,False
+fl>trade,FL > TRADE,7623,1,1,99856.02,labelled,False
+chcltbarorange,chclt bar orange,6788,3,1,99836.61,labelled,False
+bread>whol.br,Bread > Whol.br,5363,1,1,99732.28,labelled,False
+svrypie,Svry pie,2363,1,1,99416.25,labelled,False
+shower-bath,Shower-bath,5824,1,1,99239.6,labelled,False
+laun:washipwdr,LAUN: WASHI PWDR,5401,3,1,99149.48,labelled,False
+foil,foil,3754,2,1,98900.29000000001,labelled,False
+freshmi+plntbdrnks,FRESHMI + PLNTB DRNKS ,3201,1,1,98667.27,labelled,False
+crsps:on,Crsps: On,4268,1,1,98484.8,labelled,False
+meat/sau/beef,meat/sau/beef,6450,1,1,98474.53,labelled,False
+citrus.fr,citrus.fr,4548,3,1,97972.92,labelled,False
+ski>skincr,SKI > SKINCR,9134,4,1,97946.77,labelled,False
+cake-sl-brs,Cake-sl-brs,1365,1,1,97930.9,labelled,False
+meat-:mtfr,MEAT-: MTFR,1238,2,1,97853.24,labelled,False
+plsgrns,PLS GRNS,9228,1,1,97585.35,labelled,False
+pop-pretzels,pop-pretzels,4268,1,1,97467.03,labelled,False
+shwr.bth,shwr.bth,5824,1,1,97396.43,labelled,False
+drdherbspices,Drd Herb Spices,6054,3,1,97257.8,labelled,False
+pr/toirl,PR/TOI RL,3615,1,1,96933.44,labelled,False
+frozen-frozenrdymls,Frozen - Frozenrdymls,3961,1,1,96793.41,labelled,False
+battlt,Bat Tlt,3743,1,1,96656.86,labelled,False
+mor:sconeste,mor: sconeste,1150,2,1,96516.76,labelled,False
+ba-seasonal,ba-Seasonal,9205,1,1,96379.25,labelled,False
+wine_redwine,WINE_RED WINE,6670,2,1,96253.55,labelled,False
+meat-free>org,meat-free > Org,1238,1,1,96220.19,labelled,False
+bkng-flr,bkng-flr,4977,1,1,96154.38,labelled,False
+cat-fd,Cat-fd,6111,3,1,95971.94,labelled,False
+ener-sports-drnks,Ener-sports-drnks,7981,1,1,95831.72,labelled,False
+dshws-was.liquid,Dshws-Was.liquid,6643,1,1,95827.71,labelled,False
+mu,Mu,8530,2,1,95819.38,labelled,False
+frecr,FRECR,7386,1,1,95678.76,labelled,False
+mshrm/cottagechs,MSHRM/COTTAGE CHS,8530,1,1,95597.40000000001,labelled,False
+breakcereals,BREAK CEREALS,1484,1,1,95501.46,labelled,False
+brd>wrps.flatbreads,BRD > WRPS.FLATBREADS,2674,2,1,95238.19,labelled,False
+mt_sa&bacon,MT_SA & BACON,6450,1,1,95163.20999999999,labelled,False
+appears,Ap pears,8174,1,1,95138.31,labelled,False
+tnd-fruit,TND-FRUIT,3682,2,1,95050.82,labelled,False
+energysprtsdrinks,Energy Sprts Drinks,7981,1,1,94810.76999999999,labelled,False
+smoot+orngjuice,Smoot + Orng juice,6975,1,1,94464.59,labelled,False
+hot:tea+lager/lge,HOT: TEA + LAGER/Lge,8945,1,1,94431.81,labelled,False
+foi,FOI,3754,2,1,94217.32,labelled,False
+catfood&petcare,CATFOOD & PET CARE,6111,1,1,94164.54000000001,labelled,False
+sugar_ctr,Sugar_CTR,3834,1,1,94017.68,labelled,False
+fo_foil,Fo_Foil,3754,7,1,93829.91,labelled,False
+nu,NU,9983,1,1,93747.06999999999,labelled,False
+dishwashing>wash.liqu,DISHWASHING > WASH.LIQU,6643,1,1,93646.63,labelled,False
+suga,Suga,7788,1,1,93616.04,labelled,False
+pts>cat-fd,PTS > CAT-FD,6111,1,1,93580.3,labelled,False
+freshpst,Fresh pst,8421,3,1,93552.12,labelled,False
+npswipes,Npswipes,8762,1,1,93428.64,labelled,False
+nood,Nood,4718,3,1,93353.66,labelled,False
+driedfrui,DRIEDFRUI  ,1093,1,1,93187.85,labelled,False
+bakingingre,Baking Ingre,3791,1,1,93062.86,labelled,False
+snck:crlbrs,SNCK: CRLBRS,9978,1,1,92402.25,labelled,False
+fr/frsh-pasta,FR/FRSH-PASTA,1273,1,1,92355.61,labelled,False
+laundry-laun.liqu.caps,Laundry - Laun.liqu.caps,2793,4,1,92184.34,labelled,False
+savou-bscts,Savou-bscts,6633,4,1,92159.78,labelled,False
+prwns-sfd,PRWNS-SFD,5655,1,1,92149.31,labelled,False
+confe/sweetsandchewinggum,CONFE/SWEETS AND CHEWING GUM,8522,1,1,91681.92,labelled,False
+egg,EGG,8090,1,1,91233.98,labelled,False
+vegetables-rtvgtbl,Vegetables - Rt Vgtbl,4584,2,1,91229.7,labelled,False
+nps-wip,Nps-wip,8762,3,1,91134.09,labelled,False
+iceice.ls,ICE ICE.LS,8506,2,1,91114.26,labelled,False
+baby.food,BABY.FOOD,2870,2,1,90913.09,labelled,False
+brlage,BR LAGE,8945,2,1,90714.84,labelled,False
+baking/bkng-ingr,baking/bkng-ingr,3791,2,1,90672.44,labelled,False
+whbrd,WH BRD,5363,2,1,90398.95,labelled,False
+oil-imp,oil - Imp,7014,1,1,90324.12999999999,labelled,False
+pr:ts,PR: TS,9640,1,1,90104.53,labelled,False
+nufamily,NU Family,9983,1,1,90061.08,labelled,False
+wrldfoo,WRLD FOO,1201,5,1,89969.43,labelled,False
+veg>salad,VEG > SALAD,4782,2,1,89908.23,labelled,False
+tissu,TISSU,9640,1,1,89794.39,labelled,False
+spar.wa,Spar.wa,9396,3,1,89581.36,labelled,False
+water:spark.wa,WATER: SPARK.WA,9396,1,1,89436.7,labelled,False
+chewinggum,CHEWINGGUM,5411,1,1,89214.20999999999,labelled,False
+picklescon,Pickles Con,9023,3,1,88998.27,labelled,False
+so-chs-garlic,so-chs - garlic,9117,5,1,88903.19,labelled,False
+prasfd,Pra sfd,5655,1,1,88767.94,labelled,False
+ntrlygrt,Ntrlygrt,7219,4,1,88665.05,labelled,False
+softene.sp.drinks,SOFT ENE.SP.DRINKS,9330,1,1,88567.87,labelled,False
+butte,butte,8993,3,1,88273.12,labelled,False
+dntl-cr,DNTL-CR,8449,2,1,88206.07,labelled,False
+shower-bth,SHOWER-BTH,5824,1,1,88148.57,labelled,False
+salad/z,Salad/Z,4782,3,1,88022.93000000001,labelled,False
+crisp-pcrnpr,Crisp - Pcrnpr,4803,2,1,87859.0,labelled,False
+rosesparwi,ROSE SPAR WI,9822,1,1,87848.45,labelled,False
+bkng.ingrd,Bkng.ingrd,3791,1,1,87730.36,labelled,False
+crls-premrange,Crls - Prem Range,1484,2,1,87661.28,labelled,False
+lndry.liqu.cpsls,LNDRY.LIQU.CPSLS,2793,1,1,87318.0,labelled,False
+bi/swtbscts,Bi/Swtbscts,9417,5,1,87206.83,labelled,False
+bee-cider,Bee - Cider,7789,1,1,86999.54000000001,labelled,False
+la-laundryliquidcpsls,La - Laundry liquid cpsls,2793,2,1,86996.75,labelled,False
+eggsegs,Eggs Egs,8090,1,1,86954.73,labelled,False
+tea_lemon,Tea_Lemon,4274,2,1,86940.52,labelled,False
+pickles-cond,Pickles-cond,9023,1,1,86852.99,labelled,False
+stofruit,Sto Fruit,9644,2,1,86800.78,labelled,False
+hrdcheeandspr,hrd chee and spr,2931,2,1,86775.78,labelled,False
+spirits,Spirits,9849,6,1,86610.54000000001,labelled,False
+brdwrafltbr,BRD WRAFLTBR,2674,3,1,86466.79,labelled,False
+ba-ingredients,Ba-ingredients,3791,3,1,86441.11,labelled,False
+bread/rolls-baps,BREAD/ROLLS-BAPS,4748,2,1,86433.26,labelled,False
+chilleddesse,Chilleddesse,1034,1,1,86249.66,labelled,False
+catfo,Cat fo,6111,1,1,86233.84999999999,labelled,False
+naturalygrt,Natural ygrt,7219,3,1,86142.34999999999,labelled,False
+bis:svrybscts,Bis: Svry Bscts,6633,4,1,86024.25,labelled,False
+sparwa,SPARWA,9396,1,1,85664.69,labelled,False
+butter-sp,BUTTER - SP,1464,4,1,85613.57,labelled,False
+torti-crn-sna,TORTI-CRN-SNA,9841,2,1,85601.23,labelled,False
+aplspear,Apls Pear,7245,2,1,85599.81,labelled,False
+tnstndfrt,tns tnd frt,3682,1,1,85426.19,labelled,False
+svrybiscu,Svry Biscu,6633,1,1,85170.67,labelled,False
+piessavo-pies,Pies Savo-pies,2363,1,1,85095.02,labelled,False
+fresh.herb,Fresh.herb,7818,3,1,85094.44,labelled,False
+worldnoodles-stdrange,World Noodles - Std Range,4718,2,1,85088.95,labelled,False
+ti>tinfi,TI > TIN FI,8191,3,1,85030.28,labelled,False
+muffinscrmpt,MUFFINSCRMPT,9870,2,1,85010.46,labelled,False
+sprts,sprts,9849,2,1,84615.68,labelled,False
+crlbars,Crl bars,9978,2,1,84601.67,labelled,False
+salad:ext,SALAD: Ext,4782,2,1,84409.81999999999,labelled,False
+cri+energysportdrnks/imp,Cri + Energy Sport Drnks/Imp,4268,4,1,84405.0,labelled,False
+nappies.wipes,nappies.wipes,8762,3,1,84281.65,labelled,False
+paper_ti/branded,paper_ti/Branded,9640,1,1,84076.92,labelled,False
+sft_sqsh,Sft_Sqsh,4366,2,1,83985.26,labelled,False
+ntrlyogur,Ntrlyogur,7219,1,1,83810.12,labelled,False
+cer/ol,CER/OL,1484,1,1,83683.39,labelled,False
+yogurt-drinks,Yogurt-drinks,3201,1,1,83358.44,labelled,False
+lmb>value,LMB > Value,9318,1,1,83227.45999999999,labelled,False
+enrgysprtsdrinks,ENRGYSPRTSDRINKS,5607,1,1,83088.0,labelled,False
+frozen-vegetables,FROZEN-VEGETABLES,1458,3,1,82979.22,labelled,False
+grps-mln,GRPS-MLN,8174,4,1,82823.94,labelled,False
+eggs>eggsandce,Eggs > Eggs And Ce,8090,2,1,82749.97,labelled,False
+fresh-cre,FRESH-CRE,7386,2,1,82600.34,labelled,False
+crpastries/sconestcks,crpastries/scones tcks ,1416,4,1,82593.63,labelled,False
+bakingingrd,BAKINGINGRD,3791,6,1,82409.03,labelled,False
+jc-smths,JC-SMTHS,6975,3,1,82375.69,labelled,False
+tinnedto,Tinned To,2416,1,1,82343.08,labelled,False
+flour,Flour,4977,2,1,82205.1,labelled,False
+ba-sub,Ba - Sub,9205,1,1,82122.89,labelled,False
+wn-redwine,WN - RED WINE,6670,3,1,82055.71,labelled,False
+orang.juice,Orang.juice,6845,1,1,81927.58,labelled,False
+eggs-stdrange,Eggs-Std Range,8090,2,1,81890.5,labelled,False
+tea/rangec,Tea/Range C,4274,1,1,81832.63,labelled,False
+dpsdi,Dps Di,2154,2,1,81383.18,labelled,False
+babyfo:apple,BABYFO: APPLE,2870,1,1,80983.45999999999,labelled,False
+crisps:crac,CRISPS: CRAC,7626,1,1,80888.08,labelled,False
+dsrts/chilledde/rangeb,Dsrts/Chilled De/Range B,1034,2,1,80748.61,labelled,False
+drifrt,Dri Frt,1093,1,1,80434.74,labelled,False
+dessertschlddesserts,Desserts Chld Desserts,1034,2,1,80401.73,labelled,False
+sparklingwtr,SPARKLINGWTR,9396,1,1,79611.77,labelled,False
+froze-vegetables,FROZE-VEGETABLES,1458,3,1,79589.73,labelled,False
+prprdsalads,Prprdsalads,5088,3,1,79459.48999999999,labelled,False
+pork,PORK,5856,2,1,79440.29000000001,labelled,False
+wine-red-winrangec,wine - red-win Range C,6670,3,1,79424.96,labelled,False
+wrpsflatbreads,Wrps flatbreads,2674,3,1,79403.96,labelled,False
+drd-fruit,Drd-fruit,1093,3,1,79310.8,labelled,False
+cks_wholcakes,Cks_Whol Cakes,1501,1,1,79248.48,labelled,False
+fabrconditioner,fabr conditioner,4024,3,1,79245.98,labelled,False
+svrypi,svrypi,2363,1,1,79236.17,labelled,False
+laundlaun-lqd-capsules,LAUND LAUN-LQD-CAPSULES,2793,1,1,79175.97,labelled,False
+pckls-cndmn,PCKLS-CNDMN,9023,1,1,79165.23,labelled,False
+savpies&wshngliqui,Sav Pies & Wshng Liqui,5607,1,1,79098.1,labelled,False
+petpet.ca,PET PET.CA,7333,1,1,79002.38,labelled,False
+dishwasher.pr,Dishwasher.pr,5756,1,1,78998.73,labelled,False
+savobiscuits,SAVO BISCUITS,6633,1,1,78955.73,labelled,False
+sp_grp2,Sp_Grp 2,2768,2,1,78681.48,labelled,False
+soft.cheese,Soft.cheese,9117,2,1,78525.35,labelled,False
+world>wrld.food,World > Wrld.food,1201,1,1,78472.18,labelled,False
+frozenvgtbl,Frozen vgtbl,1458,1,1,78411.67,labelled,False
+squa-organic,Squa - Organic,4366,1,1,78304.39,labelled,False
+bkngsu,BKNG SU,7788,2,1,78018.18,labelled,False
+toilerl,TOILE RL,3615,1,1,77970.61,labelled,False
+wholecakes,Whole Cakes,1501,1,1,77865.14,labelled,False
+wnrospwine,Wn Ro sp wine,9822,1,1,77828.21,labelled,False
+cnfct-chewgum,CNFCT-CHEWGUM,5411,2,1,77416.64,labelled,False
+hot:hot.cho,Hot: Hot.cho,7773,1,1,77347.05,labelled,False
+squashandco,SQUASH AND CO,4366,1,1,77150.24,labelled,False
+washing-uplqd,WASHING-UP LQD,6643,1,1,77079.24,labelled,False
+baking-ho.baking.mxs,Baking-Ho.baking.mxs,3762,2,1,77020.68,labelled,False
+pst&pasta,pst & pasta,8868,2,1,77017.5,labelled,False
+prawn.seaf,PRAWN.SEAF,5655,1,1,76924.73999999999,labelled,False
+sgr/trade,SGR/TRADE,3834,2,1,76897.03,labelled,False
+flr_bulkfamily,Flr_Bulk Family,7623,1,1,76481.57,labelled,False
+tinned-fish,Tinned-fish,8191,3,1,76479.09,labelled,False
+sa/ckngsauces,sa/ckng sauces,7443,3,1,76099.36,labelled,False
+ctg-chees,CTG-CHEES,8737,1,1,76056.33,labelled,False
+rssprklwn,Rssprklwn,9822,1,1,75917.7,labelled,False
+sauces-tbl.sauces,SAUCES - TBL.SAUCES,7070,1,1,75891.51999999999,labelled,False
+enrgysportdrink,ENRGYSPORTDRINK,7981,1,1,75884.11,labelled,False
+bissavo-biscuits,BIS SAVO-BISCUITS,6633,1,1,75539.36,labelled,False
+petcr:select,PET CR: Select,7333,2,1,75130.01,labelled,False
+lamb,LAMB,2980,2,1,75043.86,labelled,False
+crckr-chilled,Crckr - Chilled,7626,2,1,74986.39,labelled,False
+rechilled-ready-meal,Re Chilled-ready-meal,1531,1,1,74943.56,labelled,False
+su/sgr,SU/SGR,7788,1,1,74916.54000000001,labelled,False
+drd-hrbs-spcs,Drd-hrbs-spcs,6054,1,1,74853.95999999999,labelled,False
+dess/chld.desserts,dess/chld.desserts,1034,3,1,74761.3,labelled,False
+pulsgrns,Puls Grns,9228,4,1,74521.87,labelled,False
+baby:nawps,baby: na wps,8762,2,1,74263.44,labelled,False
+but:sprds,BUT: SPRDS,1464,1,1,74196.01,labelled,False
+wa:sparklingwtr:lemon,WA: SPARKLING WTR: LEMON,9396,1,1,74115.73,labelled,False
+cro.pstrs,CRO.PSTRS,1416,1,1,74107.92,labelled,False
+bread:wholemealbre,Bread: Wholemeal bre,5363,3,1,73969.81999999999,labelled,False
+saps,Sa Ps,2363,1,1,73936.22,labelled,False
+tins>tinfru,Tins > Tinfru,3682,2,1,73894.01,labelled,False
+scones-teacakes,Scones-teacakes,1150,2,1,73821.57,labelled,False
+catfd,Cat fd,1387,1,1,73806.83,labelled,False
+sausages-ownlabel,SAUSAGES - Own Label,6450,1,1,73370.75,labelled,False
+napp.wi,napp.wi,8762,1,1,73340.36,labelled,False
+cakes/ckslicebar/le,Cakes/Ckslicebar/Le,1365,1,1,73082.33,labelled,False
+pz&chipsptprodu,PZ & CHIPS PT PRODU,3903,1,1,72866.06,labelled,False
+fres_fres-pas,FRES_FRES-PAS,8421,1,1,72807.42,labelled,False
+rolls.bps,Rolls.bps,4748,3,1,72773.99,labelled,False
+pet.care>select,Pet.care > Select,7333,1,1,72726.23,labelled,False
+whl-cks,Whl-cks,1501,1,1,72635.36,labelled,False
+crackers,CRACKERS,7626,2,1,72598.01,labelled,False
+mtlamb,Mt Lamb,2980,2,1,72489.51,labelled,False
+cottagechees,COTTAGECHEES,8737,1,1,72350.5,labelled,False
+fbrccndtn,fbrc cndtn,4024,1,1,72290.19,labelled,False
+sparklingwat,SPARKLING WAT,9396,3,1,71951.88,labelled,False
+bthrm.tlt/sndwc,bthrm.tlt/sndwc,3743,1,1,71817.55,labelled,False
+tns>tinn.frui-chilled,Tns > Tinn.frui - Chilled,3682,1,1,71773.35,labelled,False
+sweet,SWEET,6788,3,1,71596.73999999999,labelled,False
+sof-sqsh_y,sof - sqsh_Y,4366,4,1,71463.62,labelled,False
+cakeslibars,CAKESLIBARS,1365,1,1,71404.47,labelled,False
+naturalyo,natural yo,7219,1,1,71379.3,labelled,False
+tin>tinnedfruit,Tin > Tinned Fruit,3682,1,1,71363.81,labelled,False
+sprts:spirits,SPRTS: SPIRITS,9849,2,1,71332.58,labelled,False
+ha.che,ha.che,2931,2,1,71100.75,labelled,False
+crois-pastries,Crois-pastries,1416,3,1,71038.36,labelled,False
+dips>dpsambient,DIPS > DPS Ambient,2154,1,1,70782.05,labelled,False
+wrpsflat,WRPS FLAT,2674,2,1,70644.38,labelled,False
+ckd-meats,ckd-meats,9318,3,1,70447.38,labelled,False
+frozen.rdy.mlsandpizza,frozen.rdy.mls and pizza,3961,4,1,70390.83,labelled,False
+chewigum,CHEWIGUM,5411,2,1,70347.43,labelled,False
+scns.teaca,Scns.teaca,1150,1,1,70294.78,labelled,False
+fruit:aplspea,fruit: aplspea,7245,1,1,69951.14,labelled,False
+mt_bacon,MT_BACON,9205,1,1,69949.83,labelled,False
+cooking.sau,COOKING.SAU,7443,1,1,69927.53,labelled,False
+dried.frui+cerealba,Dried.frui + Cereal ba,1093,2,1,69444.01,labelled,False
+crisps-popc-pretzels,CRISPS - POPC-PRETZELS,2537,1,1,69403.38,labelled,False
+scone-tcks,scone-tcks,1150,2,1,69224.95,labelled,False
+pets_petcr-sub,PETS_PET CR-Sub,7333,1,1,69104.8,labelled,False
+bakebea,bakebea,7139,1,1,69071.1,labelled,False
+fresmilk,Fres milk,3201,2,1,69063.27,labelled,False
+crisps-crckr,Crisps-Crckr,7626,3,1,69019.06,labelled,False
+pas-scs,pas-scs,9535,3,1,69015.05,labelled,False
+st-fru,St-fru,7245,1,1,68815.8,labelled,False
+chps-pot-produ,Chps-pot-produ,4761,3,1,68553.18,labelled,False
+tns_soupandtndfru,tns_soup and tnd fru,3682,1,1,68367.26000000001,labelled,False
+pasauces,pa sauces,9535,4,1,68241.77,labelled,False
+butterbtr&spreads,Butter Btr & Spreads,8993,1,1,68196.5,labelled,False
+dental.cr,Dental.cr,8449,1,1,68132.92,labelled,False
+tlt.rl,TLT.RL,3615,2,1,68041.73999999999,labelled,False
+fres-fresh-pst,FRES-FRESH-PST,8421,4,1,67942.98,labelled,False
+savopies,Savopies,2363,2,1,67859.4,labelled,False
+dental:dntlcare,DENTAL: DNTL CARE,8449,2,1,67574.1,labelled,False
+picklcondiments,PICKLCONDIMENTS,9023,1,1,67559.62999999999,labelled,False
+mushr,MUSHR,4818,2,1,67537.59,labelled,False
+so,So,2768,1,1,67407.89,labelled,False
+prk:wk,Prk: Wk,5856,3,1,67378.45999999999,labelled,False
+veg-sal,Veg - Sal,4782,1,1,67076.12,labelled,False
+smkdfsh,SMKD FSH,5970,2,1,66872.16,labelled,False
+beer:cider,BEER: CIDER,7789,2,1,66282.57,labelled,False
+pota,POTA,9123,1,1,66051.12,labelled,False
+frshmlk,Frsh mlk,3201,2,1,66047.17,labelled,False
+pckls.cond,Pckls.cond,9023,1,1,65968.89,labelled,False
+ice>icelollies,Ice > Ice lollies,8506,2,1,65886.42,labelled,False
+deod-deodorant,DEOD - DEODORANT,6275,2,1,65548.65,labelled,False
+oil-rangec,OIL - Range C,7014,3,1,65483.090000000004,labelled,False
+oil/rangea,Oil/Range A,7014,2,1,65392.869999999995,labelled,False
+beef,Beef,4045,2,1,65274.340000000004,labelled,False
+frtygrt,frtygrt,4439,1,1,64925.46000000001,labelled,False
+baking.ingredients,baking.ingredients,3791,1,1,64799.17,labelled,False
+surface.clnrs,surface.clnrs,2138,1,1,64735.159999999996,labelled,False
+wrld_noo>lge,Wrld_Noo > Lge,4718,2,1,64649.29,labelled,False
+dental-dntlcr,dental - dntl cr,8945,1,1,64597.46,labelled,False
+trofrt,Trofrt,4632,3,1,64100.96,labelled,False
+whol.cake,Whol.cake,1501,1,1,63776.89,labelled,False
+energsportsdrinks,Energsportsdrinks,7981,1,1,63760.47,labelled,False
+pasta-pasta,PASTA-PASTA,1565,2,1,63741.530000000006,labelled,False
+cochewing-gum,Co Chewing-gum,8993,1,1,63707.58,labelled,False
+btr,BTR,8993,1,1,63646.08,labelled,False
+pr-sal,Pr-sal,5088,2,1,63564.5,labelled,False
+frzn-de,FRZN-DE,2500,2,1,63288.75,labelled,False
+tbl-scs,tbl-scs,7070,3,1,63260.5,labelled,False
+pe_petcr,pe_pet cr,7333,2,1,63109.369999999995,labelled,False
+grpsmel,Grps mel,8174,1,1,63081.240000000005,labelled,False
+suga-ctr,SUGA-CTR,3834,1,1,63063.99,labelled,False
+cottageche+softchs,COTTAGE CHE + SOFT CHS,8737,1,1,62922.56,labelled,False
+cks_wholecakes,CKS_WHOLE CAKES,1501,2,1,62869.54,labelled,False
+meabacon/imported,MEA BACON/Imported,9205,1,1,62813.3,labelled,False
+fish_prasfd,Fish_Pra Sfd,5655,2,1,62805.36,labelled,False
+pts_catfo,pts_cat fo,6111,1,1,62660.990000000005,labelled,False
+laun>laun-lqd-cpsls,LAUN > LAUN-LQD-CPSLS,2793,1,1,62555.68,labelled,False
+laundryliquidcapsules,LAUNDRY LIQUID CAPSULES,2793,3,1,62538.11,labelled,False
+whcks_premrange,wh cks_Prem Range,1501,1,1,62437.86,labelled,False
+sandw:chicken,sandw: chicken,1273,1,1,62230.0,labelled,False
+cris-trtlcornsna,CRIS - TRTL CORN SNA,9841,1,1,62036.04,labelled,False
+mt:bacon,MT: BACON,9205,1,1,62026.46,labelled,False
+freshmilk,Fresh milk,3201,4,1,61972.87,labelled,False
+redwi,RED WI,6670,3,1,61916.479999999996,labelled,False
+tintomatoes,Tin tomatoes,3682,1,1,61740.02,labelled,False
+sft_squa,sft_squa,4366,2,1,61531.29,labelled,False
+icecre,ICECRE,6425,1,1,61302.03,labelled,False
+tns-sp-on,TNS-SP-ON,2768,2,1,60827.59,labelled,False
+whl.cks,WHL.CKS,1501,2,1,60727.719999999994,labelled,False
+ice.lo,ICE.LO,8506,2,1,60414.24,labelled,False
+vgtbl>ons.garlic,VGTBL > ONS.GARLIC,4818,1,1,60405.69,labelled,False
+enrgy-sports-drinks,ENRGY-SPORTS-DRINKS,7981,1,1,60404.43,labelled,False
+cnfct-chwnggum,CNFCT-CHWNG GUM,5411,2,1,60295.159999999996,labelled,False
+sugar>organic,sugar > Organic,7788,1,1,60271.24,labelled,False
+food-fo,food-fo,9181,1,1,60022.22,labelled,False
+paper-toiletrol,PAPER - TOILET ROL,3615,1,1,59842.71000000001,labelled,False
+chicken,CHICKEN,2638,7,1,59811.380000000005,labelled,False
+cdr:st,CDR: ST,7789,1,1,59797.29,labelled,False
+tnd-frt,TND-FRT,3682,2,1,59661.85,labelled,False
+lgr,LGR,8945,2,1,59638.54,labelled,False
+hot>coffee,Hot > Coffee,9269,2,1,59574.78,labelled,False
+cermain,CER Main,1484,2,1,59537.85,labelled,False
+sm,sm,6975,1,1,59528.55,labelled,False
+drdherspices,Drd Her Spices,6054,2,1,59439.939999999995,labelled,False
+ice-ice-cream,Ice - Ice-cream,6425,1,1,59378.57,labelled,False
+ener-sprts-drin>ol,Ener-sprts-drin > OL,7981,1,1,59355.85,labelled,False
+cooked-me,Cooked-me,9318,1,1,59262.18,labelled,False
+chwng.gum,chwng.gum,5411,2,1,58960.61,labelled,False
+crisps:poppret,crisps: pop pret,4803,1,1,58581.88,labelled,False
+smoopremrange,SMOO Prem Range,8882,1,1,58563.69,labelled,False
+mtfr/sandwiches,Mtfr/Sandwiches,1273,1,1,58523.25,labelled,False
+red.wine,RED.WINE,6670,2,1,58409.369999999995,labelled,False
+cerplus,cer Plus,1484,3,1,58078.5,labelled,False
+chldreadymeals,chldreadymeals,1531,2,1,58059.55,labelled,False
+sgr,SGR,3834,3,1,58034.71,labelled,False
+fish-prwnsseaf,Fish - Prwns Seaf,5655,3,1,57963.99,labelled,False
+di.products/washing-upliqu,DI.PRODUCTS/WASHING-UP LIQU,5756,3,1,57772.61,labelled,False
+othrjuices,OTHR JUICES,8882,4,1,57711.17,labelled,False
+tom,TOM,6663,3,1,57661.79,labelled,False
+fl-milk,FL-MILK,2033,1,1,57577.55,labelled,False
+energy.sports.drnks,ENERGY.SPORTS.DRNKS,7981,1,1,57562.619999999995,labelled,False
+cnfct-sweets,Cnfct-Sweets,8522,1,1,57473.05,labelled,False
+energysprtsdr,Energysprtsdr,7981,1,1,57339.71,labelled,False
+deodorant:drnt,Deodorant: Drnt,6275,2,1,57305.94,labelled,False
+hot:hot.chclt,Hot: Hot.chclt,7773,1,1,57253.69,labelled,False
+baby>nap.wipes,baby > nap.wipes,8762,1,1,57250.31,labelled,False
+re-chilledremeals,RE-CHILLEDREMEALS,1531,2,1,57145.29,labelled,False
+sconeteaca,Scone Teaca,1150,1,1,57114.29,labelled,False
+biscuits_svrybscts,biscuits_svry bscts,6633,1,1,56921.04,labelled,False
+cat-foo,Cat-foo,6111,3,1,56913.409999999996,labelled,False
+wat:sparwater,wat: spar water,9396,2,1,56859.439999999995,labelled,False
+tabsauces,TAB SAUCES,7070,2,1,56769.14,labelled,False
+ice_ice-crea/basic,ice_ice-crea/Basic,6425,1,1,56714.549999999996,labelled,False
+eggs_rangec,EGGS_Range C,8090,1,1,56477.08,labelled,False
+grns>wk,Grns > Wk,1352,1,1,56340.47,labelled,False
+bakinbknging,Bakin Bkng Ing,3791,1,1,56086.07,labelled,False
+prti,Pr Ti,9640,3,1,56056.01,labelled,False
+pet.care&catfood,pet.care & cat food,7333,2,1,56012.340000000004,labelled,False
+babfoo,Bab foo,2870,3,1,55824.96,labelled,False
+co_chgum,CO_CH GUM,8522,1,1,55805.12,labelled,False
+ntrl.yog,Ntrl.yog,7219,1,1,55571.9,labelled,False
+frsh>fresh-pasta,frsh > fresh-pasta,8421,2,1,55369.26,labelled,False
+prseafood,PR SEAFOOD,5655,2,1,55339.06,labelled,False
+morning:croissants-pastries,Morning: Croissants-pastries,9870,1,1,55176.59,labelled,False
+mushrooms&dps,MUSHROOMS & DPS,2154,1,1,55169.5,labelled,False
+sparkling.water,Sparkling.water,9396,1,1,54769.13,labelled,False
+sweetbis,SWEET BIS,9417,1,1,54660.020000000004,labelled,False
+soft:energy-sports-drinks,soft: energy-sports-drinks,7981,1,1,54639.96,labelled,False
+mlk/flvrdmilk,Mlk/Flvrdmilk,2033,3,1,54572.56,labelled,False
+br-crls-sub,Br - Crls-Sub,1484,2,1,54539.049999999996,labelled,False
+pr-tissues,Pr-Tissues,9640,2,1,54529.02,labelled,False
+wrapsfltbr,WRAPS FLTBR,2674,1,1,54495.05,labelled,False
+baki/bakiingredients,Baki/Baki Ingredients,3791,3,1,54396.9,labelled,False
+ckngsauces,CKNG SAUCES,7443,3,1,54378.5,labelled,False
+yogu-drinks,Yogu-drinks,2537,2,1,54310.14,labelled,False
+scspickcndmnclassic,scs pickcndmn Classic,9023,1,1,54270.37,labelled,False
+de-denca,de - den ca,8449,2,1,54246.67,labelled,False
+pa,PA,1565,1,1,54046.47,labelled,False
+sldandtomat,Sld And Tomat,4782,3,1,54025.99,labelled,False
+tea/deli,tea/Deli,9269,1,1,53942.33,labelled,False
+jc/smoo,Jc/Smoo,6975,1,1,53894.9,labelled,False
+pcrnpret,PCRN PRET,4803,2,1,53867.12,labelled,False
+ti.vgtbl,Ti.vgtbl,9330,1,1,53798.24,labelled,False
+tinne-fsh,tinne-fsh,8191,2,1,53758.12,labelled,False
+sug:ctr,sug: ctr,3834,1,1,53717.0,labelled,False
+skn-care&deod,Skn-care & Deod,9134,2,1,53704.83,labelled,False
+cleaning:ba-to,cleaning: ba-to,3743,2,1,53688.77,labelled,False
+sausa,Sausa,6450,4,1,53656.08,labelled,False
+cdr-y,cdr-Y,7789,2,1,53360.740000000005,labelled,False
+salad,salad,4782,2,1,53358.28,labelled,False
+juice:orng.juic,Juice: Orng.juic,1919,2,1,53194.14,labelled,False
+yo>ntrlyoandyogurtdrink,YO > NTRL YO AND YOGURT DRINK,7219,1,1,53088.869999999995,labelled,False
+tinn-tomat,tinn-tomat,2416,1,1,53028.079999999994,labelled,False
+squ&enesportsdr,Squ   & Ene sports dr,4366,1,1,53016.51,labelled,False
+garlicbrea,garlicbrea,6200,1,1,52987.25,labelled,False
+homebamxs,HOMEBAMXS,3762,3,1,52915.31,labelled,False
+rice_foodservice,Rice_Foodservice,7444,3,1,52785.78999999999,labelled,False
+flour&sugar/catering,FLOUR & SUGAR/CATERING,7623,1,1,52575.83,labelled,False
+redwn,REDWN,6670,1,1,52464.44,labelled,False
+baking/hm-bkng-mxs,baking/hm-bkng-mxs,3762,2,1,52421.950000000004,labelled,False
+floufoodservice,Flou Foodservice,7623,1,1,52282.630000000005,labelled,False
+whole.ca,Whole.ca,1365,1,1,51956.740000000005,labelled,False
+drntdeod,DRNT DEOD,6275,3,1,51679.49,labelled,False
+scs:picndmn,scs: picndmn,9023,1,1,51596.1,labelled,False
+cropa,CRO PA,1416,2,1,51553.35,labelled,False
+break>prdgandspi,Break > Prdg And Spi,9849,1,1,51495.84,labelled,False
+dips:prprd.salad,DIPS: PRPRD.SALAD,5088,1,1,51489.97,labelled,False
+crisps-trtlcornsncks,CRISPS-TRTL CORN SNCKS,9841,1,1,51481.909999999996,labelled,False
+fruitygrt,FRUIT YGRT,4439,1,1,51405.439999999995,labelled,False
+savoupi,SAVOU PI,2363,1,1,51263.49,labelled,False
+pasta.sauces,PASTA.SAUCES,9535,1,1,51249.63,labelled,False
+picklescondi,Pickles Condi,9023,1,1,51156.340000000004,labelled,False
+sof-squas,Sof - Squas,4366,1,1,50686.4,labelled,False
+home.baking.mxs,Home.baking.mxs,3762,1,1,50620.44,labelled,False
+stlwater,Stlwater,7286,2,1,50497.99,labelled,False
+hot/coffee&hotchocimp,Hot/Coffee & Hot choc Imp,9269,2,1,50330.93,labelled,False
+ti-tinnevegetables>imp,TI - TINNE VEGETABLES > Imp,9330,2,1,50286.11,labelled,False
+crsps>onio_imported,crsps > onio_Imported,4268,1,1,50278.479999999996,labelled,False
+sprds,sprds,1464,1,1,50236.69,labelled,False
+bread-whlmlbread,BREAD-WHLML BREAD,5363,1,1,49524.91,labelled,False
+whole-cakes,Whole-cakes,1501,1,1,49444.35,labelled,False
+frozen/pizzaandfrznvgtbl,Frozen/Pizza and Frzn vgtbl,3903,1,1,49436.51,labelled,False
+fruit/citrus-fr,fruit/citrus-fr,4548,1,1,49234.03,labelled,False
+ck-slcs-bar,CK-SLCS-BAR,1365,2,1,49168.54,labelled,False
+pst,pst,1565,1,1,49028.54,labelled,False
+tinned.tomat,TINNED.TOMAT,2416,3,1,48908.17,labelled,False
+snack/cer.ba/ho,Snack/Cer.ba/Ho,9978,2,1,48904.86,labelled,False
+no,NO,4718,4,1,48623.530000000006,labelled,False
+ygrt-ntrlyogurt,YGRT-NTRLYOGURT,7219,1,1,48621.13,labelled,False
+eggs-egs,EGGS-EGS,8090,1,1,48593.619999999995,labelled,False
+baby>na.wipe,BABY > NA.WIPE,8762,1,1,48559.979999999996,labelled,False
+pets-petcr,Pets-Pet cr,7333,1,1,48559.56,labelled,False
+pizz,pizz,3903,1,1,47957.32,labelled,False
+la,LA,2980,1,1,47782.33,labelled,False
+mt>sausages,MT > SAUSAGES,6450,1,1,47710.39,labelled,False
+eggs:egs,eggs: egs,8090,1,1,47587.380000000005,labelled,False
+frt>berr,Frt > Berr,1475,4,1,47301.64,labelled,False
+scoteacakes,Sco Teacakes,1150,3,1,47082.71,labelled,False
+rosesprklwn,ROSESPRKLWN,9822,2,1,47037.36,labelled,False
+fres-crea,Fres-crea,2033,1,1,46925.41,labelled,False
+croissants-pstrs,Croissants-pstrs,1416,1,1,46871.93,labelled,False
+vegetables-salad-old,VEGETABLES - SALAD-Old,4782,1,1,46854.1,labelled,False
+food-foil&flour,FOOD-FOIL & FLOUR,3754,1,1,46838.82,labelled,False
+crisp,CRISP,4268,1,1,46825.38,labelled,False
+srfccl,Srfccl,2138,2,1,46821.19,labelled,False
+tndtom,Tnd Tom,2416,2,1,46775.6,labelled,False
+crac,crac,7626,1,1,46616.44,labelled,False
+chbars/savourybi,CHBARS/SAVOURY BI,6788,1,1,46589.020000000004,labelled,False
+puls.grains,Puls.grains,9228,2,1,46580.94,labelled,False
+juice/smths,Juice/Smths,6975,2,1,46542.84,labelled,False
+smo,SMO,6975,1,1,46404.57,labelled,False
+spir,SPIR,9849,2,1,46291.07,labelled,False
+svrybscts,SVRY BSCTS,6633,2,1,46220.46,labelled,False
+egs/eggs,Egs/Eggs,8090,1,1,46085.75,labelled,False
+pets/cat.fd,PETS/CAT.FD,6111,3,1,46084.04,labelled,False
+bacon+bf,BACON + BF,9205,1,1,45970.31,labelled,False
+bread-whlml-bread,BREAD - WHLML-BREAD,5363,2,1,45960.590000000004,labelled,False
+foo>fl-single,Foo > Fl-Single,3754,1,1,45795.57,labelled,False
+fresh.soup,fresh.soup,5607,1,1,45786.38,labelled,False
+cebars+driedfruit,CE BARS + DRIED FRUIT,9978,1,1,45480.17,labelled,False
+fd/fl,Fd/Fl,3754,2,1,45286.35,labelled,False
+frozen.fis,Frozen.fis,9181,1,1,45259.54,labelled,False
+meat-/dips,Meat-/Dips,1238,1,1,45256.56,labelled,False
+milk/pldrinks,MILK/PL DRINKS,5179,2,1,45105.1,labelled,False
+wrld-fo,Wrld-fo,1201,1,1,45089.79,labelled,False
+chilled.desserts,CHILLED.DESSERTS,1034,1,1,45005.91,labelled,False
+lage,lage,8945,1,1,44838.58,labelled,False
+rosesparkwn,rose spark wn,9822,1,1,44733.18,labelled,False
+pape_ts,PAPE_TS,9640,1,1,44694.73,labelled,False
+veget:tomatoes&mushrooms,veget: tomatoes & mushrooms,8530,2,1,44645.79,labelled,False
+flavoured-mlk,Flavoured-mlk,2033,1,1,44638.0,labelled,False
+frzn-pz,frzn - pz,3903,1,1,44420.270000000004,labelled,False
+mrng>croipast,mrng > croi past,1416,1,1,44061.49,labelled,False
+frpa,FR PA,8421,1,1,43971.31,labelled,False
+prawn-seafood,Prawn-seafood,5655,1,1,43901.7,labelled,False
+gre,GRE,1352,3,1,43753.75,labelled,False
+orjc,or jc,1919,2,1,43712.909999999996,labelled,False
+yogudrnks,yogu drnks,2537,1,1,43656.89,labelled,False
+cakeswhole-cakes,CAKES WHOLE-CAKES,1501,1,1,43624.2,labelled,False
+bkdbeans,BKD BEANS,7139,3,1,43484.77,labelled,False
+tinned-vgtbl,TINNED-VGTBL,9330,1,1,43330.840000000004,labelled,False
+winrosspwn,win rosspwn,9822,2,1,43317.63,labelled,False
+cakes:ckslcsbars,CAKES: CK SLCS BARS,1365,1,1,43168.35,labelled,False
+milk:pl.dr+dps,milk: pl.dr + dps,5179,1,1,43109.35,labelled,False
+sav-ps,Sav-ps,2363,2,1,43107.81,labelled,False
+ti-tinned-tmts,TI - TINNED-TMTS,2416,1,1,42971.29,labelled,False
+ca_whole-cakes,Ca_Whole-cakes,1501,1,1,42928.81,labelled,False
+croipstrs,CROI PSTRS,1416,1,1,42696.05,labelled,False
+greens,Greens,1352,2,1,42442.48,labelled,False
+berries,Berries,1475,2,1,42343.24,labelled,False
+dps>chilled,dps >   Chilled,2154,1,1,42304.380000000005,labelled,False
+battoilet,battoilet,3743,1,1,42249.43,labelled,False
+baking-hm.bakin.mxs,baking-hm.bakin.mxs,3762,1,1,42241.97,labelled,False
+flour:catering,FLOUR: CATERING,7623,2,1,42184.76,labelled,False
+ice-cream,ICE-CREAM,6425,1,1,41956.95,labelled,False
+yo>ntrlyog,YO > NTRL YOG,7219,4,1,41944.12,labelled,False
+na.yogurt,Na.yogurt,7219,1,1,41932.57,labelled,False
+spre,Spre,1464,1,1,41911.25,labelled,False
+drd.hrbs.sp,drd.hrbs.sp,6054,1,1,41896.770000000004,labelled,False
+flou,flou,4977,1,1,41859.64,labelled,False
+juic/othrjuices,juic/othr juices,8882,1,1,41756.869999999995,labelled,False
+juice-smoothies,juice-smoothies,6975,1,1,41736.55,labelled,False
+pulses:plsgra,Pulses: Plsgra,9228,2,1,41455.28,labelled,False
+frshherbs&stonefruit,Frsh herbs & Stone fruit,7818,1,1,41452.07,labelled,False
+skicare,Ski care,9134,1,1,41400.340000000004,labelled,False
+cere:imported,CERE: Imported,1484,1,1,41352.29,labelled,False
+pa_lgepk,PA_LGE PK,8868,1,1,41273.14,labelled,False
+meat>sgs,Meat > Sgs,6450,2,1,41243.630000000005,labelled,False
+whlmlbr,whlml br,5363,3,1,41119.520000000004,labelled,False
+pet-ca>sub,PET-CA > Sub,7333,1,1,40897.38,labelled,False
+eggs/eggs,Eggs/Eggs,8090,2,1,40425.729999999996,labelled,False
+frsh>freshsp,frsh > freshsp,1273,1,1,40343.649999999994,labelled,False
+pts>petca:plus,pts > petca: Plus,7333,2,1,40093.36,labelled,False
+sna/cereal-bars,SNA/CEREAL-BARS,9978,1,1,40044.85,labelled,False
+wrld/noodl,Wrld/Noodl,4718,2,1,39979.08,labelled,False
+prdg-rangec,Prdg-Range C,8689,3,1,39836.23,labelled,False
+vgtbl-pts,vgtbl-pts,9123,1,1,39795.01,labelled,False
+crisps,CRISPS,4268,3,1,39780.81,labelled,False
+fruit-stone.frt,FRUIT-STONE.FRT,9644,1,1,39583.16,labelled,False
+cottachs,Cotta chs,8737,1,1,39562.17,labelled,False
+sld&gr,SLD & GR,1352,1,1,39481.27,labelled,False
+sp-water,SP-WATER,9396,1,1,39424.68,labelled,False
+cf>ownlabel,CF > Own Label,9269,2,1,39359.78,labelled,False
+brd_wraps-fltbr,brd_wraps-fltbr,2674,1,1,39242.49,labelled,False
+sweets-y,sweets - Y,8522,1,1,39093.409999999996,labelled,False
+pas,Pas,1565,1,1,39085.1,labelled,False
+hom-bkng-mxs:lemo,Hom-bkng-mxs: Lemo,3762,1,1,39043.74,labelled,False
+fruit-brs,Fruit - Brs,1475,4,1,38911.79,labelled,False
+fsh-frznfish,Fsh - Frznfish,9181,3,1,38904.92,labelled,False
+vgtblprs-chil,Vgtbl Prs-chil,5747,1,1,38894.57,labelled,False
+drnt,DRNT,6275,1,1,38815.630000000005,labelled,False
+naturyogur,naturyogur,7219,1,1,38813.07,labelled,False
+dsrtschilled.dsrts,Dsrts Chilled.dsrts,1034,1,1,38674.78,labelled,False
+winred.wine,WIN RED.WINE,6670,1,1,38674.49,labelled,False
+frsh.sp,Frsh.sp,5607,1,1,38440.17,labelled,False
+catfoo,Cat Foo,6111,1,1,38421.24,labelled,False
+pa:kitrl,PA: KIT RL,5181,1,1,38408.68,labelled,False
+caslicesbars,CASLICESBARS,1365,1,1,38383.09,labelled,False
+deodorant-drnt-value,Deodorant-Drnt - Value,6275,3,1,38176.33,labelled,False
+citrusfrt,citrus frt,4548,1,1,38125.13,labelled,False
+bakingingrd&flour,BAKINGINGRD & FLOUR,3791,2,1,37918.0,labelled,False
+sweetbsctslmn,sweet bscts lmn,9417,2,1,37864.13,labelled,False
+yogurt-dri,YOGURT-DRI,2537,1,1,37839.96,labelled,False
+oils/oil/ctr,OILS/OIL/CTR,9991,1,1,37725.37,labelled,False
+frshsoup,FRSH SOUP,5607,1,1,37677.01,labelled,False
+apples.prs,Apples.prs,7245,1,1,37555.52,labelled,False
+bath/show.bath,BATH/SHOW.BATH,5824,1,1,37531.52,labelled,False
+stn.frt,Stn.frt,9644,2,1,37498.869999999995,labelled,False
+sugar-local,Sugar-Local,7788,1,1,37492.08,labelled,False
+ice.cream,ice.cream,6425,3,1,37057.12,labelled,False
+flamlk,FLA MLK,2033,1,1,36950.78,labelled,False
+co,CO,3117,1,1,36933.64,labelled,False
+hr>shacndtn,HR > SHA CNDTN,5471,2,1,36790.5,labelled,False
+swts>kids,SWTS > Kids,8522,2,1,36745.51,labelled,False
+fruit>st-frt,FRUIT > ST-FRT,9644,1,1,36417.87,labelled,False
+smokedfish,SMOKED FISH,5970,2,1,36204.92,labelled,False
+fres-he/tortillacrnsncks,FRES-HE/TORTILLA CRN SNCKS,7818,1,1,36068.020000000004,labelled,False
+flav.mi,Flav.mi,2033,3,1,35479.12,labelled,False
+alestandcri,Ale st and Cri,6845,4,1,35200.85,labelled,False
+jcoranjui,JC ORAN JUI,1919,1,1,35011.62,labelled,False
+oil:local,Oil: Local,7014,1,1,34691.29,labelled,False
+egs-eggs&whitbr-grp2,EGS-EGGS & WHIT BR - Grp 2,8090,2,1,34358.56,labelled,False
+fruit_gra.melo,fruit_gra.melo,8174,2,1,34357.76,labelled,False
+egs-ext,Egs - Ext,8090,1,1,34097.79,labelled,False
+cks-whocakes+sconesteacakes,Cks - Whocakes + Scones teacakes,1501,1,1,33664.020000000004,labelled,False
+sausagessub,SAUSAGES Sub,6450,1,1,33578.79,labelled,False
+cat.food,CAT.FOOD,6111,2,1,33521.01,labelled,False
+bthrm.tlt,bthrm.tlt,3743,2,1,33445.32,labelled,False
+frt/ap-pea,Frt/Ap-pea,7245,2,1,33426.83,labelled,False
+yogur/fruit.yogur,yogur/fruit.yogur,2537,1,1,33407.74,labelled,False
+cottagechee,Cottagechee,8737,2,1,33168.61,labelled,False
+sna/driedfru,Sna/Dried Fru,6788,2,1,33151.23,labelled,False
+prepared-salads,Prepared-salads,5088,2,1,32818.47,labelled,False
+bath-showerbth/sweets,bath - showerbth/sweets,5824,1,1,32651.79,labelled,False
+oilandoil:lgepk,OIL AND OIL: LGE PK,9991,1,1,32550.89,labelled,False
+tropicalfrt,Tropicalfrt,4632,2,1,32363.75,labelled,False
+mtfr/meat,MTFR/MEAT,1238,2,1,32165.65,labelled,False
+frozenveget,Frozen Veget,1458,1,1,32138.22,labelled,False
+bread-garlicbread,Bread-Garlicbread,6200,1,1,32038.27,labelled,False
+mea,Mea,1238,1,1,31894.66,labelled,False
+cra,cra,7626,1,1,31790.390000000003,labelled,False
+nts-imp,Nts - Imp,9983,1,1,31544.940000000002,labelled,False
+deo,Deo,6275,2,1,31294.95,labelled,False
+root.vegetables,root.vegetables,4584,2,1,31087.28,labelled,False
+oil:oil,OIL: OIL,9991,3,1,31059.95,labelled,False
+stonefrt,STONE FRT,9644,1,1,31058.21,labelled,False
+bee-cdr,BEE - CDR,7789,1,1,31038.769999999997,labelled,False
+cakes-wholca,CAKES-WHOLCA,1501,1,1,31033.12,labelled,False
+dips>deli,dips > Deli,2154,1,1,31029.18,labelled,False
+cider_apl,CIDER_APL,7789,1,1,30957.32,labelled,False
+red-wine,RED-WINE,6670,2,1,30917.15,labelled,False
+cottage.chee,Cottage.chee,8737,1,1,30916.83,labelled,False
+crsnt-pastr,Crsnt-pastr,1416,2,1,30907.350000000002,labelled,False
+ygrt-fryogurt&yogurtdrnks,Ygrt-Fryogurt & Yogurt Drnks,4439,1,1,30801.27,labelled,False
+bakbns,Bak bns,7139,2,1,30505.21,labelled,False
+hot.chocolate,HOT.CHOCOLATE,7773,1,1,30504.12,labelled,False
+yogu_fruit-ygrt,YOGU_FRUIT-YGRT,4439,1,1,30462.45,labelled,False
+cheese>sft.chees,CHEESE > SFT.CHEES,9117,2,1,29987.84,labelled,False
+meat:meat-free-ambient,MEAT: MEAT-FREE-Ambient,1238,1,1,29720.33,labelled,False
+nappies-wipe&dogfood,NAPPIES-WIPE & DOG FOOD,8762,1,1,29700.7,labelled,False
+kitchenrol,KITCHENROL,5181,1,1,29694.91,labelled,False
+brd-wholemeal.bread,Brd - Wholemeal.bread,5363,2,1,29679.68,labelled,False
+meat-/stdrange,MEAT-/Std Range,1238,2,1,29599.7,labelled,False
+cr:fresh-creamandsvryps,CR: FRESH-CREAM AND SVRY PS,7386,3,1,29556.05,labelled,False
+cra/onion,Cra/Onion,7626,1,1,29472.75,labelled,False
+frznreadymeals,FRZN READY MEALS,3961,1,1,29469.209999999995,labelled,False
+drnt-branded,DRNT-Branded,6275,2,1,29439.050000000003,labelled,False
+hmbakingmix,hm baking mix,3762,1,1,29339.1,labelled,False
+bread-garlic.brea,BREAD-GARLIC.BREA,6200,2,1,29220.81,labelled,False
+gar.brea,Gar.brea,6200,2,1,29220.75,labelled,False
+fruit.yogurt,fruit.yogurt,4439,1,1,29165.62,labelled,False
+sgr-value,sgr-Value,7788,1,1,29105.39,labelled,False
+spr-z,Spr - Z,1464,1,1,28824.370000000003,labelled,False
+chidesserts,CHI DESSERTS,1034,1,1,28576.49,labelled,False
+savou-pi,savou-pi,2363,1,1,28492.85,labelled,False
+brkfs-prdg,BRKFS-PRDG,1484,1,1,28486.6,labelled,False
+smokfis+frozfish,smok fis + froz fish,5970,1,1,28365.83,labelled,False
+rice/bulk,Rice/Bulk,7444,1,1,28296.36,labelled,False
+oil-foodservice,Oil-Foodservice,9991,2,1,28184.82,labelled,False
+tea-mint,tea-mint,4274,1,1,28051.39,labelled,False
+frt>citrus-fr,frt > citrus-fr,4548,2,1,28034.4,labelled,False
+oils>oil,OILS > OIL,7014,2,1,28016.760000000002,labelled,False
+crls_sub,Crls_Sub,1484,1,1,27985.190000000002,labelled,False
+tivegetables,Tivegetables,9330,1,1,27851.48,labelled,False
+crckr,CRCKR,7626,1,1,27783.33,labelled,False
+soft-sqsh+cl,soft-sqsh + cl,3117,1,1,27764.920000000002,labelled,False
+ckslibar,Ck Sli Bar,1365,1,1,27741.850000000002,labelled,False
+tinfruit,Tin fruit,3682,1,1,27669.690000000002,labelled,False
+sugar_organic,SUGAR_Organic,7788,1,1,27519.5,labelled,False
+nut,Nut,9983,1,1,27500.48,labelled,False
+picndmn,pi cndmn,9023,2,1,27229.97,labelled,False
+chill.desse,Chill.desse,1034,1,1,27202.879999999997,labelled,False
+bkd-bns,BKD-BNS,7139,2,1,27006.149999999998,labelled,False
+rolbap,Rol Bap,4748,3,1,26980.81,labelled,False
+crack,CRACK,7626,1,1,26578.07,labelled,False
+dip,Dip,2154,2,1,26515.06,labelled,False
+world>ndls,world > ndls,4718,1,1,26303.3,labelled,False
+vgtbl-tomatoes,VGTBL-TOMATOES,6663,1,1,26265.15,labelled,False
+appe,AP PE,7245,2,1,25974.2,labelled,False
+wine/rossparklingwine,Wine/Ros Sparkling Wine,9822,1,1,25773.36,labelled,False
+squash,SQUASH,4366,1,1,25771.56,labelled,False
+vgtblgreens,VGTBL GREENS,1352,1,1,25620.59,labelled,False
+hot-tea>x,Hot - Tea > X,4274,1,1,25280.04,labelled,False
+scns.te,scns.te,1150,1,1,25274.85,labelled,False
+meatsgs,meat sgs,6450,1,1,25256.550000000003,labelled,False
+pulsesgrains,Pulses Grains,9228,1,1,25020.9,labelled,False
+food>sandwiches,FOOD > SANDWICHES,1273,1,1,24964.78,labelled,False
+swee-bisc,Swee-bisc,9417,1,1,24750.48,labelled,False
+tns/baked.beans,TNS/BAKED.BEANS,7139,1,1,24640.91,labelled,False
+pugrains,Pugrains,9228,1,1,24603.829999999998,labelled,False
+meat-free,MEAT-FREE  ,1238,1,1,24518.98,labelled,False
+ta.sauce,TA.SAUCE,7070,2,1,24441.97,labelled,False
+cerealbrs,CEREAL BRS,9978,2,1,24424.14,labelled,False
+wa.pwdr,Wa.pwdr,5401,1,1,24243.55,labelled,False
+meat:la,Meat: La,2980,2,1,24127.78,labelled,False
+flr,Flr,4977,1,1,24124.96,labelled,False
+drdherbsspices,DRD HERBS SPICES,6054,1,1,23759.49,labelled,False
+cnfctswts,Cnfct Swts,8522,1,1,23445.45,labelled,False
+porridge/tomatoes,PORRIDGE/TOMATOES,6663,1,1,23310.08,labelled,False
+den.care,DEN.CARE,8449,1,1,23301.25,labelled,False
+tissues-plus,Tissues - Plus,5181,1,1,22970.81,labelled,False
+wor>noodles:x,wor > noodles: X,4718,2,1,22806.260000000002,labelled,False
+tomatoes-local,tomatoes - Local,6663,1,1,22762.62,labelled,False
+applespea,Applespea,7245,1,1,22630.86,labelled,False
+prprdsala,Prprd Sala,2154,1,1,22388.0,labelled,False
+vgtbl-tmts:select,Vgtbl-Tmts: Select,6663,1,1,22239.18,labelled,False
+cat-food>lge,cat-food > Lge,6111,1,1,22092.81,labelled,False
+pu-grain,PU-GRAIN,9228,1,1,22018.949999999997,labelled,False
+washing-up.liquid,washing-up.liquid,6643,1,1,21683.21,labelled,False
+apls.pe,APLS.PE,7245,1,1,21662.25,labelled,False
+pst-pst-trade,pst - pst - trade,8868,2,1,21241.67,labelled,False
+hot/hot.cho,Hot/hot.cho,7773,1,1,21010.949999999997,labelled,False
+wate_sprklwtr,Wate_Sprklwtr,9396,1,1,20774.13,labelled,False
+cri:crackers,CRI: CRACKERS,7626,1,1,20501.82,labelled,False
+dried-herbs-spice,dried-herbs-spice,6054,2,1,20299.93,labelled,False
+tins-tndfruit,Tins - Tnd fruit,3682,1,1,19750.43,labelled,False
+crisp:nuts,CRISP: NUTS,9983,2,1,19601.39,labelled,False
+pasta_fs,pasta_fs,8868,1,1,19363.74,labelled,False
+chipsptprdct,chipsptprdct,4761,3,1,19295.89,labelled,False
+crsps_crack,crsps_crack,7626,1,1,19258.98,labelled,False
+showerbath,SHOWERBATH,5824,1,1,19217.0,labelled,False
+vegetables-mshrm-sml,VEGETABLES-MSHRM - Sml,8530,1,1,19075.34,labelled,False
+hot.chclt/orange,hot.chclt/orange,7773,1,1,19023.239999999998,labelled,False
+swts:seasonal,SWTS: Seasonal,8522,1,1,19015.69,labelled,False
+sal,sal,4782,1,1,18747.63,labelled,False
+frsh.mlk,Frsh.mlk,3201,1,1,18616.97,labelled,False
+fr-cream,FR-CREAM,7386,2,1,18178.57,labelled,False
+foodfoil,FOOD FOIL,3754,1,1,18170.23,labelled,False
+whlcks,WHL CKS,1501,1,1,18144.91,labelled,False
+de:de/pasta,DE: DE/PASTA,6275,1,1,18130.7,labelled,False
+mt-bcnprem,Mt - Bcn Prem,9205,1,1,17952.91,labelled,False
+oil_fs>classic,oil_fs > Classic,9991,1,1,17730.41,labelled,False
+meat-_meat,MEAT-_MEAT,1238,1,1,17729.17,labelled,False
+pets:petcr,pets: pet cr,7333,1,1,17665.32,labelled,False
+breakfast-crls,Breakfast - Crls,1484,1,1,17593.73,labelled,False
+pasta,PASTA,8868,1,1,17275.4,labelled,False
+san,San,1273,1,1,16969.989999999998,labelled,False
+smoot,smoot,6975,1,1,16759.07,labelled,False
+na.yogur,NA.YOGUR,7219,2,1,16457.760000000002,labelled,False
+smfish,SM FISH,5970,2,1,16166.58,labelled,False
+pizza-ham,PIZZA-HAM,3903,1,1,16129.97,labelled,False
+dips>di,Dips > Di,2154,2,1,16036.93,labelled,False
+her>drd.hrbs.spices,Her > Drd.hrbs.spices,6054,1,1,15904.23,labelled,False
+jusmoothies-deli,Ju Smoothies-Deli,6975,1,1,15749.3,labelled,False
+garli-bread,garli-bread,6200,1,1,15474.279999999999,labelled,False
+tmtsorganic,tmts Organic,6663,2,1,15403.7,labelled,False
+cks-cake-sl-brs,Cks-Cake-sl-brs,1365,1,1,15026.68,labelled,False
+mtfr>local,Mtfr > Local,1238,1,1,14678.64,labelled,False
+so-sqsh,So-Sqsh,4366,1,1,14558.91,labelled,False
+hot_coff,HOT_COFF,9269,1,1,14281.19,labelled,False
+frt-citfruit,FRT - CIT FRUIT,4548,3,1,14245.84,labelled,False
+lam,Lam,2980,1,1,13733.23,labelled,False
+ro.sparkling.wi,RO.SPARKLING.WI,9822,1,1,13693.259999999998,labelled,False
+prwns.sfd,Prwns.sfd,5655,1,1,13686.14,labelled,False
+bakebns,BAKEBNS,7139,1,1,13609.08,labelled,False
+pulsesgrai,Pulses grai,9228,1,1,13520.119999999999,labelled,False
+ckd.meats,Ckd.meats,9318,1,1,13230.68,labelled,False
+frpasta,fr pasta,8421,2,1,13053.0,labelled,False
+crisp/nuts,CRISP/NUTS,9983,1,1,12833.439999999999,labelled,False
+whol.cakes,WHOL.CAKES,1501,1,1,12745.26,labelled,False
+prepared.slds,prepared.slds,5088,1,1,12560.88,labelled,False
+napwipes,Napwipes,8762,1,1,11606.92,labelled,False
+grps-melo,GRPS-MELO,8174,1,1,11492.970000000001,labelled,False
+fresh.cre,Fresh.cre,7386,1,1,11355.109999999999,labelled,False
+spi:spirits,Spi: Spirits,9822,1,1,11172.51,labelled,False
+dshws-dshwsprod,DSHWS-DSHWSPROD,5756,1,1,11070.34,labelled,False
+ice-ice.cream,ICE-ICE.CREAM,6425,1,1,10840.01,labelled,False
+lndry/washingpwdr,lndry/washingpwdr,5401,1,1,10431.380000000001,labelled,False
+por,POR,8689,1,1,10366.64,labelled,False
+drdherspi,drd her spi,6054,1,1,9861.54,labelled,False
+energyspodr,ENERGYSPODR,7981,1,1,8986.57,labelled,False
+coffe,Coffe,9269,1,1,8311.71,labelled,False
+smths,Smths,6975,1,1,7708.0,labelled,False
+foi_plus,FOI_Plus,3754,1,1,7532.31,labelled,False
+sftchee,SFT CHEE,9117,1,1,6113.91,labelled,False
+cake-sli-brs,Cake-sli-brs,1365,1,1,5416.74,labelled,False
+tablescs,table scs,7070,1,1,2904.52,labelled,False
+butter/imported,BUTTER/Imported,8993,1,1,810.54,labelled,False
+newin-chilled,New in - chilled,3682,1,1,0.0,labelled,False
+newproducts-non-food,NEW PRODUCTS - non-food,9318,2,1,0.0,labelled,False
+newlistings-ambient,New listings - ambient,5471,1,1,0.0,labelled,False
+newproducts,NEW PRODUCTS,2931,1,1,0.0,labelled,False
+newlinesmay,NEW LINES May,5756,1,1,0.0,labelled,False
+newlinesq4,New Lines Q4,8364,1,1,0.0,labelled,False
